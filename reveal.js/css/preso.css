@@ -1,0 +1,107 @@
+body {
+  background: radial-gradient(circle farthest-corner at center center, #8b7765 0%, #1c1e20 100%) repeat scroll 0 0 #2b2b2b; }
+
+.image.left .content, .imageblock.left .content {
+  left: -30px; }
+  .image.left .content img, .imageblock.left .content img {
+    float: left;
+    padding-right: 5px; }
+
+.image.right img, .imageblock.right img {
+  float: right;
+  padding-left: 5px; }
+
+img.full {
+  width: 100%; }
+
+div.quote {
+  background-color: #ddeeee;
+  box-shadow: 0 0 6px black;
+  text-align: left;
+  font-size: 100%;
+  line-height: 1.2em;
+  width: 80%;
+  padding: 10px;
+  position: relative;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  left: 50%; }
+
+p.cc-license {
+  font-size: 15px; }
+
+p.note {
+  box-shadow: 0 0 6px black;
+  font-size: 100%;
+  line-height: 1.2em; }
+
+div.note {
+  box-shadow: 0 0 6px black;
+  font-size: 100%;
+  line-height: 1.2em;
+  padding: 10px; }
+  div.note p {
+    text-align: left; }
+
+div.paragraph p {
+  padding-bottom: 1.2em; }
+
+p.strong {
+  font-weight: bold;
+  font-size: 1.2em; }
+
+i.fa {
+  font-family: "FontAwesome";
+  font-style: normal; }
+
+span.small, p.small {
+  font-size: 60%; }
+
+i.fa.fa-external-link {
+  font-size: 60%; }
+
+.fa-warning {
+  color: yellow; }
+
+p.attribution {
+  margin: 0px;
+  font-size: 10px; }
+
+/* Override RevealJS defaults */
+.reveal section div img, .reveal section p img {
+  background: none;
+  border: none;
+  box-shadow: none;
+  margin: 0px; }
+.reveal .controls div.enabled {
+  opacity: 0.3; }
+.reveal .controls div {
+  transform: scale(0.6); }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: none; }
+
+.tip {
+  color: blue; }
+
+/* warnings pop */
+.fa-exclamation-triangle {
+  color: red; }
+
+div.slides section table {
+  margin-left: auto;
+  margin-right: auto; }
+  div.slides section table th, div.slides section table td {
+    border-width: 1px;
+    border-style: solid; }
+  div.slides section table td {
+    padding: 2px; }
+  div.slides section table tr td:first-child {
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px; }
+
+section.summary p {
+  font-size: 200%;
+  font-weight: bold; }

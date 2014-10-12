@@ -1,0 +1,1223 @@
+= Church History
+The Christian Church Since the Time of the Apostles
+:backend: revealjs
+:revealjs_controls: true
+:revealjs_history: true
+:icons: font
+:revealjs_customcss: reveal.js/css/preso.css
+:revealjs_width: 1300
+:revealjs_height: 750
+:warn: pass:[<i class="fa fa-warning"></i>]
+:start-frag: pass:[<div class="fragment">]
+:end-frag: pass:[</div>]
+
+// +++<div class="cc-license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Church History</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jdigger/presentation-church-history" rel="dct:source">https://github.com/jdigger/presentation-church-history</a>.</div>+++
+
+== The City of God
+
+image::The-City-of-God-Saint-Augustine-of-9780385029100.jpg[height="250px",role="center",alt="http://www.betterworldbooks.com/the-city-of-god-id-0385029101.aspx"]
+
+=== Writing
+
+"`The City of God`" was Augustine's most massive and comprehensive work
+
+It spans twenty-two volumes and took him fifteen years to write
+
+=== Reason
+
+image::jupiter.jpg[height="440px",role="left",alt="http://commons.wikimedia.org/wiki/File:8646_-_St_Petersburg_-_Hermitage_-_Jupiter2.jpg"]
+
+It was his response to accusations that Rome had fallen because she had converted to Christianity and forsaken the gods that had made her great
+
+=== Theme
+
+Humanity is divided into two fundamental communities (cities)
+
+They are named after where their loves are found:
+
+* the Earthly City
+* the City of God
+
+=== All of history can be seen to follow this basic pattern
+
+=== Earthly City of Rome
+
+=== God's Grace
+
+The very thing that had sustained Rome all those years was not paganism, but the grace of God
+
+=== Not Wimpy
+
+image::Cicero.png[height="400px",role="left",alt="https://commons.wikimedia.org/wiki/File:Cicero.PNG"]
+
+She did **_not_** fall because she had turned to "`wimpy`" virtues like humility and compassion
+
+Cicero and others, during the height of Roman power, had noted that those were some of the virtues that had made her great
+
+=== Non-Christian "`Virtues`"
+
+Rather, Rome fell because of her non-Christian "`virtues,`" which had done so much damage that by the time Christianity came along the wound was already fatal
+
+=== The City of God
+
+=== Joining With Christ
+
+image::visible_christ_glory.jpg[height="400px",role="right",alt="https://www.flickr.com/photos/4thglryofgod/8498814456/"]
+
+The Church, of which Christ is the head, is the earthly manifestation of Christ
+
+As such, the best way to join with Christ is to join with the Church
+
+=== Interpretation
+
+image::428px-Bloch-SermonOnTheMount.jpg[height="400px",role="left",alt="https://en.wikipedia.org/wiki/File:Bloch-SermonOnTheMount.jpg"]
+
+Interpretation is done through Christ (the Word) through His representative on earth (the Church) to the individual Christian
+
+So the Church acts as the principle interpreter of Christ for the Christian, just as Christ acts as the principle interpreter of God for the Church
+
+=== Infallibility of the Catholic Church
+
+This doctrine is what gave rise to the ideas of the infallibility of the Catholic Church, and that the individual cannot be "`trusted`" to understand the Bible himself, but could only do so by way of the Church
+
+=== Made of Fallen Humans
+
+Fine in theory, but as an institution made up by Fallen humans, there were, as we know, "`problems`" with the theory...
+
+== The Holy Roman Empire and the Papacy
+
+image::426px-Weltliche_Schatzkammer_Wien_(189)2.JPG[height="400px",role="center",alt="https://en.wikipedia.org/wiki/File:Weltliche_Schatzkammer_Wien_%28189%292.JPG"]
+
+=== Charlemagne
+
+image::Karel_Leo.jpg[height="400px",role="left",alt="https://en.wikipedia.org/wiki/File:Karel_Leo.jpg"]
+
+Charlemagne, a Frank, reconquered much of Europe and was crowned Emperor by the Pope on Christmas Day, 800 A.D., which started the Holy Roman Empire
+
+Charlemagne's dream was to recreate the imperial rule of the Caesars and the building on earth of St. Augustine's City of God
+
+[NOTE.speaker]
+--
+It was officially destroyed by another Franc: Napoleon
+--
+
+=== Dissolution of Power
+
+Not long after Charlemagne died, the little "`empire`" that there was started falling apart
+
+=== Holy? Roman? Empire?
+
+As Voltaire quiped later, "`The Holy Roman Empire was neither Holy, nor Roman, nor an Empire.`"
+
+One obvious geographic disparity was that through most of its history Rome wasn't part of the Empire.
+
+=== Only Real Authority
+
+Throughout the Middle Ages, power would be consolidated and split apart, with the closest thing to a central authority being the Papacy
+
+image::327px-Psalterium_Feriatum_Cod_Don_309_042.jpg[height="300px",role="center",alt="https://en.wikipedia.org/wiki/File:Psalterium_Feriatum_Cod_Don_309_042.jpg"]
+
+=== Institutional Power
+
+The Papacy would vary greatly throughout the period from strong to weak and strong again, but would in general be by far the strongest institution in Europe
+
+=== Holy Vicar?
+
+The level of "`holiness`" that the Papacy was leading with was often worse than horrid
+
+=== Missing Records
+
+{warn} It's important to remember that it's not as if we have great records of what _**really**_ happened {warn}
+
+However, given that the "`history is written by the victors`" and the sheer relative volume of the accounts, there's good reason to believe there's a great deal of truth to the accounts
+
+=== Pope John XII
+
+image::GiovanniXII.png[height="200px",role="left",alt="http://commons.wikimedia.org/wiki/File:GiovanniXII.png"]
+
+A low point was Pope John XII, who became Pope at the age of sixteen
+
+He led a life of total debauchery, including hosting orgies at the Vatican
+
+[small]#(That's the consensus account. Partisans said much worse.)#
+
+=== Contradicting The Pope?
+
+If the Vicar of Christ -- essentially a manifestation of Christ on Earth -- says that I should run after the pleasures of this world, what am I -- an uneducated Christian -- to do?
+
+[small]#(It was illegal and heretical to contradict the Pope. You could easily get yourself and your loved ones tortured and killed for complaining)#
+
+=== Papal Legitimacy
+
+image::640px-Charles-vii-courronement-_Panthéon_III.jpg[height="500px",role="right",alt="https://commons.wikimedia.org/wiki/File:Charles-vii-courronement-_Panth%C3%A9on_III.jpg"]
+
+From the time of Constantine on, you could only be recognized as a "`legitimate`" ruler if the Pope said you were
+
+=== Consolidating Power
+
+That (along with lots of other deals and the like that were brokered) gave the Pope a tremendous amount of power
+
+=== Fit Catholic Ruler?
+
+If he said that you were not a fit Catholic, your crown could -- and would -- be taken from you by your own people
+
+=== Not Absolute
+
+That's not to say that the Pope had absolute power and was never questioned
+
+People did get fed up from time to time with the excesses of the Papacy, its constant fiddling in politics, and its rule over *every single* aspect life
+
+=== Reformations
+
+When that happened, the power and prestige of the Papacy would be diminished or nearly destroyed until reforms would take place to appease the people
+
+=== Forcibly Removed
+
+Sometimes, the Pope would even be forcibly removed from office by a king
+
+=== Pope Boniface VIII
+
+For example, in 1303 King Philip IV of France arrested Pope Boniface VIII for explicitly claiming authority over kings, and had a new Pope elected
+
+Known as the "`Babylonian Captivity of the Papacy,`" the Papacy was moved from Rome to Avignon, France, for seventy years
+
+image::640px-Avignon,_Palais_des_Papes_by_JM_Rosier.jpg[height="300px",role="center",alt="https://en.wikipedia.org/wiki/File:Avignon,_Palais_des_Papes_by_JM_Rosier.jpg"]
+
+[NOTE.speaker]
+--
+The years in Avignon represented seven different Popes.
+
+Philip wasn't exactly a wonderful person; he expelled the Jews from France and slaughtered the Knights Templar, primarily because he owed both of them a lot of money.
+--
+
+=== The Western Schism
+
+The return to Rome sparked a "`constitutional crisis`" in the Church, known as the Western Schism
+
+=== Urban IV
+
+The first Pope elected after the return to Rome, Urban IV, turns out to be "`highly objectionable`" to the cardinals that elected him, so they elect a new one: Clement VII
+
+The problem is, Pope Urban IV refuses to leave
+
+[NOTE.speaker]
+--
+Urban had been a respected administrator, but went nuts/paranoid when he became Pope.
+--
+
+=== Another Pope Is Elected
+
+To try and break the power struggle between the two rival courts after the initial claimants had died, they hold a council in 1409 to reach an agreement, and elect a new Pope
+
+The first courts, however, argue that they are the legitimate Pope and refuse to go; thus there were three Popes at one time
+
+image::Western_Schism_timeline.png[height="400px",role="center",alt="https://en.wikipedia.org/wiki/Western_Schism"]
+
+=== Western Schism Resolution
+
+In 1417 another Council established Council superiority to the Pope, and elects a fouth Pope that finally becomes "`The Pope`" after convincing two of them to step aside (and marginalized the third)
+
+=== Council Superiority To The Pope?
+
+In 1430 the Pope reversed that agreement and places himself above the councils, which is how it still stands
+
+
+== The Source of All Knowledge
+
+image::519px-Philo_mediev.jpg[height="500px",role="center",alt="https://commons.wikimedia.org/wiki/File:Philo_mediev.jpg"]
+
+=== Fount of Learning
+
+Since the church was about the only keeper of any of the knowledge that had come before -- and actively repressed anything that it thought would be potentially frivolous or dangerous -- it had a monopoly on effectively **_ALL_** learning
+
+=== Knowing Better
+
+Not only was it unwise to question Catholic teachings because of possible damnation (or even because of persecution) but because the church likely really did know better than you
+
+=== Practical
+
+That tied them very, very tightly to every aspect of life
+
+=== Presumtive Authority
+
+Over the course of over a thousand years (the fall of Rome through to the Renaissance in the fifteenth century) that dependency ingrained a tremendous amount of fundamental faith in the "`presumptive authority`" of the church's teachings
+
+=== Unthinkable
+
+The church had an answer for everything (especially once Scholasticism came on the scene), so seeking an answer from anywhere other than established church teachings on the subject was – literally – unthinkable
+
+
+== The Inquisition
+
+image::Galileo_before_the_Holy_Office.jpg[height="500px",role="center",alt="https://commons.wikimedia.org/wiki/File:Galileo_before_the_Holy_Office.jpg"]
+
+=== Partners
+
+The church and the state often worked side by side to handle their various problems, and this merger can best be seen in the Inquisition
+
+image::Escudo_inquisicion.gif[height="330px",role="center",alt="https://commons.wikimedia.org/wiki/File:Escudo_inquisicion.gif"]
+
+=== A Restraining Hand
+
+{warn} While much of what's going to be said sounds pretty damning on the clergy to modern ears, the clerics were very much the reasonable and moderating force {warn}
+
+=== The Counter-Reformation Inquisition
+
+In modern times, when we hear of the Inquisition, we think of the Inquisitions held during the Counter-Reformation
+
+However, the Inquisition was an institution developed between the church and the state to "`inquire`" about people who were potentially dangerous
+
+=== Potentially Dangerous
+
+The crimes that were "`potentially dangerous`" were usually heresy or sedition -- which were usually viewed to be the same thing
+
+That's why both the state and the church were involved
+
+=== Structure of the Inquisition
+
+While the practices involved in an inquisition evolved over hundreds of years, its basic structure remained constant: The state would arrest a potentially dangerous person and "`inquire`" about their thoughts and activities, and then the church would take their confession and determine the level of guilt
+
+=== Power of the Sword
+
+The Church could also not perform an execution, banishment, etc
+
+Those were all exclusively the domain of the State
+
+=== Inquisition Crimes
+
+Crimes worthy of the Inquisition varied from hard-core heresy and treason, to thinking that the Pope was mistaken on something
+
+All that the law required was that you **_think_** he was wrong, or that a couple people would think that's what you think. What you actually did was part of evidence, but not the crime itself
+
+In that same line were the crimes of being a Jew, a general troublemaker, etc.
+
+=== Torture
+
+image::Picard.jpg[height="400px",role="right",alt="https://commons.wikimedia.org/wiki/File:Picard.jpg"]
+
+Torture was regarded as a very normal and natural way to get information
+
+The church sanctioned its use -- though priests were absolutely forbidden to be involved and usually weren't even allowed to be present
+
+=== Confessions Under Torture
+
+Confessions could not be taken while being tortured, but the next day
+
+Torture could, according to the church, continue to be used even **after** the confession due to its "`purgative`" powers, purging evil from the soul in much the same way that burning did
+
+=== Burning
+
+Burning for a crime like heresy or witchcraft was done "`for the sake of`" the person being burned, as a last-ditch effort to free their soul from the corruption that they had been found guilty of
+
+image::Contemporary_illustration_of_the_Auto-da-fe_held_at_Validolid_Spain_21-05-1559.jpg[height="400px",role="center",alt="https://en.wikipedia.org/wiki/File:Contemporary_illustration_of_the_Auto-da-fe_held_at_Validolid_Spain_21-05-1559..jpg"]
+
+=== Jeanne d'Arc
+
+image::Ingres_coronation_charles_vii.jpg[height="400px",role="left",alt="http://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg"]
+
+If you know what happened to Joan of Arc you should recognize this: She "`confessed`" to witchcraft while being tortured, but when it came time to give her confession she renounced the "`confession`" given under torture, and therefore never officially confessed to witchcraft
+
+=== Joan's Death
+
+image::Stilke_Hermann_Anton_-_Joan_of_Arc's_Death_at_the_Stake.jpg[height="400px",role="right",alt="http://commons.wikimedia.org/wiki/File:Stilke_Hermann_Anton_-_Joan_of_Arc%27s_Death_at_the_Stake.jpg"]
+
+She was still burned for being a witch
+
+She was later canonized as a Saint
+
+
+////
+
+== The Great Schism
+
+image::Ayasofya_2006-1.JPG[height="500px",role="center",alt="https://en.wikipedia.org/wiki/File:Ayasofya_2006-1.JPG"]
+
+=== Eastern Orthodoxy
+
+Eastern Orthodoxy is generally seen as starting when Emperor Constantine built Constantinople and moved the capitol there
+
+(The truth is much more complicated than that, of course. However, for our purposes, that will work.)
+
+=== Doctrinal Friction
+
+image::Great_Schism_1054_with_former_borders.png[height="600px",role="right",alt="https://en.wikipedia.org/wiki/File:Great_Schism_1054_with_former_borders.png"]
+
+There had long been friction within the Church regarding various doctrinal and political practices
+
+Eventually the disagreements between West (Rome) and East (Constantinople) got so bad that in 1040 A.D. the Eastern Orthodox Church formally separated from the Roman Catholic Church
+
+=== The Disputes
+
+While there were lots of things that led to the split, the three major disputes were over
+
+* Papal primacy
+* the Filioque Controversy
+* icon veneration
+
+=== The Bishop of Rome
+
+While the Eastern Church recognized the authority of the Bishop of Rome (i.e., the Pope) and that he had a "`special`" position in the Church, they disagreed with the West about the extent of his authority
+
+=== The Pope's Authority - West
+
+In the West the Pope was seen much like a king, where all the other bishops reported to him
+
+=== The Pope's Authority - East
+
+In the East he was seen -- to use a modern business analogy -- more like the Chairman of the Board
+
+=== First Among Equals
+
+He had great authority, but, to use the East's phrase, he is "`the first among equals`"
+
+(Of course, since the split, the East and West no longer recognize each other's bishops, so the Pope is no longer an equal to be "`first among`" for the East)
+
+=== The Filioque Controversy
+
+image::agia_triada_241.jpg[height="300px",role="right",alt="https://graiulortodox.wordpress.com/2013/06/23/cincizecimea-pogorarea-sfantului-duh-rusaliile-de-mitropolitul-ieroteos-vlahos/"]
+
+The Filioque Controversy was mentioned during the analysis of the Nicene Creed while studying the Pelagian heresy
+
+=== And The Son
+
+The words in the Nicene Creed that caused the problem are "`We believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father [and the Son]`"
+
+The words shown in brackets, "`and from the Son,`" are a Western addition to the Creed as it was originally agreed on by a Council representing the whole Church, East and West
+
+=== Filioque
+
+They correspond to the Latin word "`filioque`" and the controversy about them is accordingly known as the Filioque Controversy
+
+The East believed that the Holy Spirit proceeds from the Father only, and that to say that He proceeds from the Son as well is to destroy the doctrine of the Trinity
+
+When the West "`slipped it in`" after the council, it greatly increased tensions between the East and West that never went away
+
+=== Legitimate Complaint
+
+Technically, the East had a legitimate complaint against how the Western Church handled the situation
+
+It very much went against the spirit of the council, which was to give a unified response to heresy
+
+The West, even though it was expressing a more Biblical point of doctrine, broke that unity
+
+=== Icon Veneration
+
+Icon veneration is where people bow down before, kiss, and burn incense to icons of Jesus Christ, the Virgin Mary, and various saints.  (An "`icon`" is a "`representation,`" so these are pictures, statues, symbols, etc.)
+
+It's also believed that the icons cause various miracles
+
+=== The Foolishness of Christ
+
+The Eastern view is that they are further examples of incarnational miracles, where God is making himself manifest through the icons, and that he commands the worship of them
+
+If it seems silly, then to the Orthodox it's just further evidence of what Paul is talking about when he describes "`the foolishness of Christ`"
+
+It's also a large part of what tends to make Eastern Orthodoxy vastly more beautiful and "`otherworldly`" than anything the West is used to
+
+=== In Rich Company
+
+That, of course, is almost exactly what every religion that practices idolatry says...
+
+There is no evidence of such a "`command`" in the Bible, but church tradition plays an even greater role in Eastern Orthodoxy than it does in Roman Catholism
+
+=== Degrees of Icon Veneration
+
+"`Icon veneration`" has been a continual problem in the West as well, and as always it's primarily a matter of degrees
+
+During the time of the Reformation, for example, the use of imagery in the Catholic Church had reached an all-time high, and one of the major things the Protestants protested was that the use of such imagery had turned into idolatry
+
+Protestants went into Catholic churches and cathedrals, destroying the statues and images within
+
+There have been many major "`iconoclastic`" ("`icon destroying`") controversies ever since then, in every major denomination, and the issue continues to pop up
+
+In the Baptist Church, for example, the iconoclastics have essentially won, which is why it's often hard to see so much as a picture of Jesus in a Baptist church
+
+The Lutheran Church has largely struck a compromise position, but as such it's been more susceptible to the controversy as it reappears
+
+The Catholic Church has mostly suppressed the iconoclasts, though many parishes have taken many of the iconoclasts' arguments to heart to try to avoid falling into idolatry
+
+The veneration of many of the saints is so common in Catholism that it is often seen as being a hair's breath (if that) from idolatry, and the "`hyperdulia`" given to Mary is seen as being even more so
+
+=== Form vs Doctrine
+
+The extremely emphasis in the East on the forms and symbols of The Faith is much like the Old Testament practices, and serves much the same purpose.  The West's tendency toward doctrine over form has in many ways robbed it of the richness and awe of God's majesty & holiness that such things inspire.  However, the East's tendency of form over doctrine has often robbed it of true worship, as described in Isaiah 29:13.
+
+=== John's Books
+
+Some other differences between the East and the West are that the East puts a special emphasis on the books of the New Testament written by John.  (i.e., The Gospel of John, 1 John, 2 John, 3 John, Revelation)
+
+A practical consequence of this emphasis is that Jesus is seen much more as the King of Kings and Judge of the Universe than in the West. In the West, His mercy, grace and love are much more emphasized.
+
+The East also has a much stronger emphasis on the role of the Holy Spirit, and many of the ideas that manifested themselves as Pentecostalism in the West have always been a part of the Eastern Church. So things like further "`revelation`" was not closed with the closing of Scripture.
+
+There's more emphasis on the incomprehensible mystery of God, so there hasn't been nearly the scholarship on trying to understand the nature of God in the East that there has been in the West.  The East also pushes fide impliciton (have implicit faith in what the Church teaches) even further than the Catholic Church, emphasizing that it is the church – not really the individual – that is responsible for the soul of the believer.  Though more complicated than this, the gist is that if you're not a part of the Eastern Church, you're damned, and if you're a member you're pretty much guaranteed to go to Heaven.
+
+=== Mighty Lord
+
+The picture given in Revelation 1:12-18 is typical of how the East views Jesus.
+
+=== Icon Irony
+
+The problem with "`icon veneration`" is especially ironic, given the East's emphasis on John, since the closing words of 1 John are, "`Dear children, keep yourselves from idols.`"
+
+=== Mystry = Contradition?
+
+The "`incomprehensible mystery of God`" mindset is another reason why it often is not seen as a problem that there's a clear contradiction between what the Bible says and many practices, like icon veneration
+
+=== Uniformity?
+
+{warn} Again, a word of caution {warn}
+
+Today, when people refer to the Western Church, they mean Roman Catholicism and Protestantism.  Just as there are tremendous differences within the "`Western Church,`" so too in the "`Eastern Church`" (a.k.a.  "`Eastern Orthodox`")
+
+However, there is a common heritage and core set of beliefs that make it useful to group them in such a way. But Russian Orthodox is not the same as Greek Orthodox any more than Roman Catholic is the same as Baptist
+
+=== Stressful Relationship
+
+The history between the East and West since the split has been very "`stressful.`"  During the Crusades, for example, the West often didn't bother going all the way to Jerusalem.  In many of the currently Muslim countries, they became Muslim because they found that they were persecuted less by the West for being Muslims that for being Eastern Orthodox.  (Not that relations between Eastern Orthodox and Muslims has been wonderful either -- the recent Balkan Wars and genocide being a prime example.)
+
+== The Philosopher
+
+=== Aristotle
+
+A student of Plato, Aristotle would go on to greatly surpass his teacher in the scope of his philosophy and the influence it would hold.  A much more "`practical`" thinker, Aristotle was constantly at odds with Plato's very "`other worldly`" philosophy.  (There's a famous painting by Rembrandt of Plato and Aristotle arguing. Plato is pointing up, indicating the "`Forms.`"  Aristotle is pointing at his hand, indicating his belief that there was no separation of the form of a thing and the thing itself.)
+
+While Plato is much easier to read because of his numerous stories and illustrations, it's easier to understand where Aristotle is coming from because he had a much more direct influence on modern Western thought.  A great deal of what is referred to as "`classical`" learning comes directly from him, and when someone refers to "`The Philosopher,`" they are almost certainly referring to Aristotle.
+
+=== Unity
+
+Aristotle's passion was in "`unity.`"  He was constantly looking to see how things were related, and to bring together things that he thought should not be divided.
+
+=== Alexander the Great
+
+A very concrete example of Aristotle's concern for unity can be seen in his influence on his most famous student, Alexander of Macedonia ("`Alexander the Great`").  When Alexander conquered the world, he brought along behind his army a huge array of scientists to study the plants, people, animals, rocks, etc. of the areas he conquered.  (It's thought to be the most expensive scientific endeavor until the Moon launch.)  But the most important effect Aristotle's influence on Alexander's was for our purposes here was Alexander's passion for the Hellenization ("`Greek-ifying`") of the areas he conquered.  It was because of that Hellenization that all of the books of the New Testament were written in Greek.  The unification of trade, language, systems of thought, politics, and the like – later taken advantage of and extended by the Romans – was the reason that the Gospel was able to spread so far and so fast.  Just as God used Plato's philosophy to start "`prepping`" the gentile nations to hear the Gospel, He used Aristotle and Alexander to "`prep`" the world to make the spread of the Gospel far faster and efficient than ever before possible.
+
+=== Logic
+
+Perhaps his single most fundamental contribution to Western thought is his development of formal logic.  Obviously, people were using logic before him (just as they were using gravity before Newton), but Aristotle identified what is involved with logic and what is the proper use of logic.
+
+=== Two Primary Principles
+
+The two most important aspects of what he identified for our purposes are: the Law of Non-Contradiction, and that logic says nothing about whether something is true or false, only if it is valid or invalid.
+
+=== The Law of Non-Contradiction
+
+The Law of Non-Contradiction is simply the way you can test to see if something is a contradiction.  We won't go into much detail, but it says, "`P (object) can not be Q (description) and not Q at the same T (time) and in the same R (relationship).`"  (Logic is a sub-discipline of Mathematics, so mathematical notation is often used.)
+
+=== Non-Contradiction Example
+
+For example, take a statement like "`The apple is red and not red at this particular spot on the apple.`"  If you substitute "`the apple`" for P and "`red`" for Q and "`at this particular part of the apple`" for R, then you get "`The apple can not be red and not red at the same time at this particular part of the apple.`"  The apple was green (not red) at one time, so the "`at the same time`" part of the test is important.  So the original statement may have been odd, but not a contradiction.
+
+=== Another Non-Contradiction Example
+
+Another example would be "`John is happy and sad right now about passing his college entrance tests.`"  That seems like a contradiction, but it's not because R is so ambiguous.  He could be, for example, happy because he'll be able to go to his favorite school, but sad because he'll be leaving home and won't see his grade-school friends any more.
+
+=== Paradox vs Contradiction
+
+When something seems like a contradiction but isn't, it's known as a paradox.  Contradictions are always nonsense.  Some people think that Christianity is filled with contradictions, but if that were the case, then Christianity would be nonsense.  Instead, it's filled with paradoxes and mysteries.
+
+=== "`Simul Iustus et Peccator`"
+
+An example of a Christian paradox is Luther's saying, "`We are at the same time saints and sinners.`"  It sounds like a contradiction, but it isn't.  Why?
+
+=== The Great Paradox of the Christian
+
+We, obviously, are sinners, but at the same time we have been given the righteousness of Christ and are therefore accounted with His righteousness – making us saints.
+
+=== Christ's Paradoxical Nature
+
+An example of a mystery would be the dual nature of Christ: the relationship between the divine and human natures doesn't cause a contradiction, but we have absolutely no idea how it could be true
+
+As we said with Augustine, there are never contradictions with God; if you find yourself affirming a contradiction, something in what you're affirming is simply wrong
+
+=== Valid or Invalid
+
+The second vital lesson we need to understand from Aristotle's logic is that logic can never tell you if something is true or not, only that it is valid or invalid.  One of the most common forms of logical argument is the syllogism, or the "`this and this (the predicates), therefore this (the conclusion)`" argument.  (Or, more formally, "`S = M, M = P => S = P`")
+
+=== Valid And True
+
+For example, "`All dogs are mammals and all mammals are animals, therefore all dogs are animals.`"  Both predicates are true and the argument is valid, therefore the conclusion must be true.
+
+=== Valid But Wrong
+
+However, you can say, "`All dogs are birds and all birds are animals, therefore all dogs are animals.`"  The argument is valid, but the first predicate is false, therefore you know nothing about the conclusion.
+
+=== Invalid and False -- Simply Nonsense
+
+On the other hand, you can say, "`All dogs are birds and all birds are plants, therefore all dogs are stone.`"  The argument is invalid and the predicates are false, so it's simply a nonsense statement.
+
+=== Invalid But True
+
+If you try, "`All dogs are mammals and all birds are animals, therefore all dogs are animals,`" then you have both predicates being true, but the argument is invalid, so there is no way of knowing from the argument if the conclusion is true or not.
+
+=== Strengths And Weaknesses of Logic
+
+The point I'm trying to make here is that this kind of thing is critical to understanding logic – you have to know what it's good at and understand its weaknesses.  If, in the case of the syllogism, you know you have a valid argument and you are absolutely certain of the truth of the predicates, then you can be absolutely certain on the conclusion.  The certainty of the conclusion is exactly equal to the certainty of the truth of the predicates.  However, if the argument is invalid, then the truth or falsity of the predicates has nothing to do with whether or not the conclusion is true.  Logic only has power when it's valid; otherwise it's absolutely impotent.
+
+=== Not Proven
+
+This is an extremely misunderstood aspect of logic, because people will very commonly argue for or against some point but not be careful about whether or not the argument is valid.  The conclusion may by true, but they have not proven it to be so.  People get the other direction mixed up all the time too, where just because someone uses an invalid argument, the invalid argument does not prove that their conclusion is false.  (However, it does prove that they haven't proven anything.)
+
+=== Formal Discipline
+
+What should also be plain from this is that logic is a "`formal`" discipline, where "`formal`" is taken literally – logic is concerned entirely with the form of the argument, and while it never adds any content to what is known, it does help put it in a more useful form.  (For example: "`God redeemed all sinners.  I am a sinner.  Therefore, God redeemed me.`"  There is nothing new in the conclusion, but it's certainly good to know that God redeemed me, which isn't obvious from the previous two statements.)
+
+=== Matter, Form and Substance
+
+Aristotle's way of unifying the Forms of Plato and the world around us, Aristotle said that substance is the fusion of matter and form.  A chair, then, is wood made into the form of a chair.  Sounds pretty obvious, but this makes for a dramatic acknowledgement of – and departure from – Plato.  It affirms the idea that there are forms that define the essential nature of something, which is exactly what Plato taught.  However, Aristotle is also saying that the forms aren't an "`other worldly`" kind of thing – they only exist insofar as they become substance in matter.
+
+=== The Categories
+
+Aristotle broke down all of language about things into ten basic categories: Substance, quality (not good or bad, but color, height, etc.), quantity, relation, place, time, position, state, action and affection.  Substance is the essential nature of a thing, while the rest are descriptions – what are known as "`accidens`" – of the particulars of that instance of the substance.  "`The blue wooden chair`" describes a thing, where the substance is "`chairness`" and the accidens are "`blue`" and "`wooden.`"  Red chairs, metal chairs, three-legged chairs, etc. all share the same substratum of chairness, but you can only know that a chair exists because of its accidens.  The "`substance`" is what stands under all of its accidens.  ("`sub`" – under, "`stance`" – position)
+
+=== Transubstantiation
+
+Aristotle's language of `substance` and `accidens` has been used by the Church to describe many theological concepts.  For example, transubstantiation (literally, "`change in substance`") is the name of the Roman Catholic doctrine that the bread and wine become the body and blood of Christ.  While what is distributed during the Eucharist tastes, feels, looks, smells, etc. like bread and wine, the substance of it is the body and blood of Christ.  In other words, while the accidens do not change, the essential natures of the materials do.
+
+=== Miracle of the Mass
+
+Aristotle would not have approved of this use of his ideas.  The substance is manifested through its matter (which is what has the accidens).  An oak tree has wood because it is part of its essential nature to have wood – take away the wood and you no longer have an oak tree.  Flesh and blood that does not taste, smell, feel, etc. like flesh and blood is not flesh and blood.  Rome, of course, recognizes this and says that it's part of the miracle of the Mass that God breaks that link between the accidens and the substance of Christ's body and blood.
+
+=== Causality
+
+Aristotle identified four things that are the cause of every effect.  These are:
+
+* MATERIAL – The "`stuff`" out of which something happens
+* FORMAL – The form that the effect takes
+* EFFICIENT – That by which something happens
+* FINAL – The reason it was done; its purpose
+
+=== Statue Cause
+
+For example, a statue is carved.  The material cause is the stone; the formal cause was that of the shape in the artist's mind; the efficient cause was the chiseling; and the final cause was the desire of the artist's for something beautiful.
+
+=== Avalanche Cause
+
+As another example, say there's an avalanche.  The material cause was the snow; the formal cause was the slope; the efficient cause was the vibrating that loosened it; and the final cause was the snow's desire to be closer to the earth.
+
+=== Teleology
+
+Something's "`final cause`" – or its "`purpose`" – is known as its teleology.  In modern thought, teleology still makes perfect sense to people when talking about things like "`Why did he do that?`"  When you have a thinking agent doing something we often consider the reason it was done.  However, while Aristotle obviously didn't think that rocks and air had the capability of thought, he did say, "`Nature does not act without a goal.`"
+
+=== A Thing's Nature
+
+Rocks and other solids fall because it is in their nature to come as close as possible to the solid Earth.  Fire, the least material of all the elements (remember they thought there were four elements: earth, water, air and fire), continually tries to go up because it wants to be with the heavenly fires (the stars).
+
+=== Useful Causes for Everything
+
+Everything could be (and was) explained in terms of these four causes – from "`Why is the sky blue?`" to "`Why did "`Why did she get sick?`" to "`Why did France invade Spain?`"
+
+=== Fits Perfectly With Christian Doctrine
+
+Christians took the idea of teleology and ran with it...
+
+What Christian doctrine says that there's a reason why every blade of grass grows and nations are ruled as they are?
+
+=== Divine Providence
+
+...the doctrine that God is omnipotent and involved in every aspect of His creation.
+
+=== Potentiality, Actuality, and the Unmoved Mover
+
+An acorn is "`actually`" an acorn, but "`potentially`" an oak tree.  When it becomes an oak tree, that aspect of its "`potentiality`" and "`actuality`" become the same.  Oil is flammable because it can catch fire (its "`potentiality`"), not because it is burning (its "`actuality`").
+
+=== Actuality Precedes potentiality
+
+Actuality must precede potentiality.  There can be no such thing as pure or absolute potentiality
+
+Such a "`thing`" would be *potentially* everything, but it would be *actually* nothing
+
+=== The Unmoved Mover
+
+However, Aristotle argued that there must be something that is pure actuality with no potentiality – a being with no unrealized potential.  A being with no potentiality and with pure actuality, since it cannot change, must also have no motion, according to Aristotle.  This is Aristotle's "`god,`" the famous "`unmoved mover`" that is the source of all movement in the universe.
+
+=== Ultimate Cause
+
+An "`unmoved mover`" is a logical necessity, and it's the same idea that people use when using the "`what's caused that?`" argument for God.  ("`Why did that happen?  Well, because this happened.  What caused that?  This did.  What caused that?  This did.  What caused that? ... God did.`"  What happens is even if you say, "`I don't know what caused that, but something did`" you'd still have the problem of what caused that something.  You get caught in an "`infinite regress,`" where the questions can continue an infinite number of times.  The only way to break the series is to have a cause that is not caused by anything else -- the unmoved mover.)
+
+=== Attraction
+
+If you're wondering how an unmoved mover can move something without moving itself, the answer is that it attracts things to it, like a magnet.  A magnet doesn't have to move to draw things to itself, so too with the unmoved mover.
+
+=== Not Quite Jehovah
+
+Like Plato's Forms, Aristotle's "`god`" had some obvious similarities to Jehovah, but never quite "`got there.`"  It's the final teleological purpose of everything, causing everything to happen, but does not engage in the world itself.  Here we see the unmoved mover's clearest difference with the Christian God, who is actively involved in what happens in His creation.
+
+== The Rise of Islam
+
+=== Muhammad's Revelations
+
+During the second half of the 7th Century, Muhammad ibn Abd-Allaah ibn Abd al-Muttalib al-Haashimi al-Qurashi (henceforth known simply as Muhammad) gave what he said was a series of revelations from God.  These were collected together to form the Qur'aan, which acts as Islam's scripture.
+
+=== "`People of the Book`"
+
+Islam develops from much of the same "`tradition`" as Judaism and Christianity, and considers Jews and Christians to be "`People of the Book.`"  Put (far too) simply, Islam teaches that Jews and Christians had also received revelation from God, but in its transmission from prophets like Moses and Jesus, it was corrupted by the time it was written down and assimilated as part of the community.  So while "`The People of the Book`" have a largely correct revelation, it is faulty and needs to be corrected with the uncorrupted teachings of the Qur'aan.  When Muhammad received his revelation it was a literal dictation of God through the angel Gabriel through Muhammad to the Qur'aan.
+
+=== Inspiration
+
+That's a significant difference from Jewish/Christian doctrine on the Bible, which says that the Bible is the "`inspired`" Word of God, where God "`moved`" the writers to write what He wanted them to say, but they often used their own words to say it.  By Islamic doctrine, the Qur'aan has the literal words of God – a straight dictation from God.  That's also why if you see any Islamic quoting of the Qur'aan in any language but Arabic, they are careful to say that it is an "`interpretation of the meaning.`"  Even though most of the world's Muslims are not Arabic, the Arabic language holds tremendous significance to all Muslims since that is the language that God chose to speak to humanity.
+
+=== Legal Toleration
+
+The classifying of Jews and Christians as "`The People of the Book`" means that under Islamic Law (not necessarily the laws of a particular Islamic community) Jews and Christians are given a great deal of legal and religious protection, though they are of course expected to respect Islamic practices.  Implementation of this principle has varied greatly over the years, but on the whole, the Muslims are correct in their charge that they have always been vastly more "`tolerant`" of Christians and Jews living in their communities than Christians and Jews have been of Muslims.  (Sadly, that's a pitiful standard to be judged against.)  However, with both sides seeing the other as being bent on destroying the other's religious beliefs, there have always been enormous and bloody conflicts between the two sides.
+
+=== Growth of Islam
+
+Today, there is roughly the same number of Muslims as there are Christians (using the qualification of what people classify themselves as) or about one billion each, though Islam is reportedly growing faster.  In modern times, Islam is primarily focused in the Middle East, much of Africa, southern Asia, and Indonesia.  Islam has "`conquered`" the East, while Christianity has "`conquered`" the West.
+
+=== Islamic Living Standards
+
+While Europe was still trying to recover from the crippling blow caused by the fall of the Roman Empire, the Islamic nations were growing and prospering.  This came as quite the blow to European pride when, during the various Crusades against the "`heathen dogs`", the Europeans noted that those "`dogs`" had running water, vast libraries, and other marvels that they wouldn't have dared dream about.  The average Arab had a standard of living that most kings in Europe at the time would envy.  The level of literacy, standard of living, etc. was still horrid by modern American standards, but at the time it was the best in the world (with the possible exception of the Chinese).
+
+=== Conquerors
+
+However, while the general level of technology was much better in Middle East and Africa, the Europeans were masters at killings each other, so military technology was often in the European's favor.  This caused almost a thousand years of conflicts going back and forth, but generally a stalemate.  But when the Scientific Revolution swept over Europe, technology grew so fast that very quickly there was simply no longer much of a contest.  Until that time, though, Islam and Christianity were often seen as the other's most formidable enemy, which shaped a great deal of the history of what happened to both groups.
+
+=== Intended for Evil, God Used for Good
+
+The Reformation, for example, very likely would not have had a chance to develop to the degree that it did (similar "`flare-ups`" had happened many times before) if it wasn't for the fact that the Catholic kings diverted most of their resources toward fighting a Turkish (Muslim) invasion, which they saw as being much more threatening than what Luther and the rest were doing.  By the time they could turn their attention back to the Reformation, it had essentially reached critical mass and could no longer be stopped.
+
+
+== The "`Doctor Angelicus`"
+
+=== Muslims Simply Knew More
+
+While there were a few bright spots, in general, learning and trying to do much more than eek-out a life of subsistence was virtually non-existent after Augustine.  (Which, remember, was also the end of the Roman Empire.)  Philosophy – both Christian and Islamic – was primarily Platonist, but during the 12th century Averroës built upon the work of Avicenna, creating a strong synthesis between Aristotle and Islam.  Interaction between Arabs and Christians caused Christian Europe to become aware of the compelling weight of what was done, and it started to present a very serious threat to the Christian Church.  What could be said when it was becoming plain that the Muslims had much more effective explanations of the world around us than the Christians did?
+
+=== St. Thomas Aquinas
+
+It was in this environment that St. Thomas Aquinas, a Dominican monk, worked.  He looked at what the Muslims had done and "`Christianized`" it.  He was initially condemned for doing so, especially since people knew very well that it was the Muslims that had incorporated Aristotle first and were therefore very skeptical of it.  However, the fact of the matter was that what Aquinas put forward worked far better than anything else, and it's hard to argue with continual success.  His ideas gained tremendous popularity, becoming what would be known as Aristotelian Scholasticism.  (A fancy term for the fact that it was based on learning gained from the study of Aristotle.)  Aristotelian Scholasticism will be talked about later, but it's worth noting here that it dominated European thought from the end of the Thirteenth Century until the Scientific Revolution.  Aristotelian Scholasticism laid the groundwork for the Enlightenment and was what the Enlightenment was directly fighting against.  Aquinas was later canonized, and many of his works were declared (in 1879) to be official Catholic teaching.
+
+=== Double Truth
+
+From The Consequences of Ideas (by R.C. Sproul), pages 68-69:
+
+[note]
+--
+Muslim philosophers constructed a "`double truth`" theory, arguing that what is true in faith may be false in reason, what is true in philosophy may be false in theology, what is true in religion may be false in science, and vice versa.  This intellectual schizophrenia separates nature and grace with a vengeance.  It would be analogous to a modern Christian saying that from the vantage point of faith (grace), man is created by God in his image and for a purpose, a being with dignity because God has bestowed it on him, but that from the vantage point of reason (nature), man is a cosmic accident, a grown-up germ who emerged from the primordial slime and is destined for annihilation, a being with no dignity whatever.  This confused believer affirms macroevolution from Monday to Saturday, but on Sunday worships the God of creation...<br/>Thomas believed that philosophy and theology play complementary roles in the quest for truth.  Grace does not destroy nature, but fulfills it.  Thomas saw clear boundaries between the two disciplines but found both necessary to understand reality comprehensively.
+--
+
+=== Natural/Revealed Theology
+
+Aquinas distinguished between "`natural theology`" (science, reason, etc.) and "`reveled theology`" (Scripture).  Some things can only be known from natural theology (e.g., why is the sky blue?), some only by reveled theology (e.g., "`This is a new covenant in my blood...`"), and some by either of the two (e.g., that God exists).  He continually stressed that "`all truth is God's truth,`" so if something is true through one medium (e.g., science) then it is equally true through another (e.g., faith) – if there's a contradiction, then it's a problem with our understanding of one and/or the other, but what is true is not false.
+
+=== Mediated Knowledge
+
+It should be pointed out that Aquinas said that our knowledge of God from nature, while true, is "`mediate, analogous, and incomplete.`"  Without getting into much detail, "`meditate`" means that we get it through a medium (that we are getting the knowledge through nature, not directly); "`analogous`" means that it's "`like`" God – similar to how we can know something about the nature of Christ and His Church through the "`analogy`" of marriage; and "`incomplete`" means that it's, well, not complete.  Just as what is given to us through "`reveled theology`" is also incomplete and also needs interpretation, but that doesn't mean that it's not vital to a true understanding of God, so too with "`natural theology`" – they combine to give us a much more complete picture than we could have from either one separately.
+
+=== The Five Proofs
+
+Aquinas is famous for putting forward five "`proofs`" for the existence of God that we have from nature.  Very briefly, these arguments are:
+
+* Change (everything's changing, but something has to cause that change in the first place – much like the Unmoved Mover)
+* Causation (similar to the Unmoved Mover, there must be something that is an uncaused cause)
+* Contingency (everything is contingent upon something else, but there has to be a "`necessary being`" that is not contingent upon anything)
+* Degrees of Excellence (we see some things being better than others – this implies that there is something that manifests the perfection of what we see)
+* Harmony (the world sure looks like it was designed since everything is organized so perfectly for its place in the world – and design needs a designer)
+
+== Aristotelian Scholasticism
+
+=== Merging Christianity and Aristotle
+
+St. Thomas Aquinas began the process of merging Christian doctrine with he learned from Aristotle, and then others took up the task.  By the 14th Century, the synthesis that came out of that process – Aristotelian Scholasticism – was firmly established and official church dogma and what was taught at all of the universities.  It was so powerful that it survived (albeit with a beating) through two major revolutions in thought after it: the Renaissance and the Reformation.  Almost to very modern times (late 18th Century), the charter of Cambridge University, for example, read, "`... All students and undergraduates should lay aside their various authors and only follow Aristotle and those that defend him... [Forbidding] all sterile and inane questions departing or disagreeing from ancient and true philosophy.`"
+
+=== Keeping Learning Pure
+
+What are the advantages and disadvantages of such an approach?  Though not as common today, many educational institutions follow essentially the same philosophy.  Can you give examples?
+
+=== Focussing On Truth
+
+One advantage is that it helps keep people focused on what is known to be true instead of getting confused by other sources, which can range from being a simple waste of time to actually being dangerous.  One disadvantage is that it makes sure that no new knowledge is gained, which really becomes problematic if it turns out that what was "`known`" to be true isn't as true as was previously thought.
+
+=== Scholarly Othodoxy
+
+The most obvious example of not being allowed to question previous authorities is in a conservative seminary, where students must stick to the prior confessions of the church body that runs the seminary.  It's true in education in general, though.  When was the last time you heard someone question if we should learn Euclid's theories in geometry, for example?  However, for better or for worse, what's taken to be authoritative is often very much up in the air in our modern world.
+
+=== Disputation
+
+The principle tool of Aristotelian Scholasticism is the disputatio, the "`disputation.`"  It involved three principle appeals for trying to convince someone of the truth of what you are saying (listed in order of importance):
+
+1. Authority – The authority of Scripture above all, but this also extended into the authority of ancient knowledge (like Aristotle) and institutions (like the Catholic Church)
+2. Reason – Believed to be what makes us most like the imagio Dei ("`the image of God`"), it was therefore given a special significance.
+3. Experience – This was used to show the truth of what was known through authority and reason.  It was therefore primarily anecdotal or illustrative in nature.
+
+=== Reflecting On God's Wisdom
+
+Since we cannot change the created order that God put into place, we should instead contemplate on how that order reflects God's wisdom.  Likewise, we should keep our minds on higher things, like God and the angels, and avoid thinking on the lower things, like the particulars of this physical world.
+
+=== Higher Things
+
+What would be the classic "`proof passage`" for us to keep our minds on higher – rather than lower – things?  What's the consequence of that way of thinking?
+
+:start-frag:
+
+[note]
+--
+Philippians 4:8 –  "`Finally, brothers, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable – if anything is excellent or praiseworthy – think about such things.`"
+--
+
+What could be more excellent and praiseworthy than God?  What could be less praiseworthy than the fallen world?
+:end-frag:
+
+=== Other Worldly
+
+When taking to extremes, as it often was, this meant that little to no attention was paid to figuring out why a region was flooded, how to grow crops better, understanding how the body worked so sickness could be treated, etc.  People became so "`other worldly`" that they became bad stewards of what God has given us and neglected the fact that the Bible also calls for us to learn about the created order so that we may be God's agents on earth to help relieve human suffering.
+
+=== Deduction Over Induction
+
+Deductive reason (reasoning from what is known to be true and giving evidence to support that conclusion) was dramatically more valued than inductive reasoning (drawing a conclusion based upon what is known).  Since you already know what all the right answers are based upon what the authorities tell you, the job of all learning was to further show how those authorities are correct.
+
+=== Forms of Reasoning
+
+What are some of the examples where deductive reasoning is commonly used?  What are some of the examples where inductive reasoning is commonly used?  What does science use?
+
+=== Deductive Reasoning
+
+Used whenever you want to prove something to be true, such as in court, from the pulpit, or when trying to explain a concept to students
+
+=== Inductive Reasoning
+
+Used whenever you don't know what the facts are telling you.  That's when you're doing an analysis of the facts, like a detective or just the general "`Uh, what just happened?`"
+
+=== Scientific Reasoning
+
+Science uses both methods.  When constructing an experiment, you use deductive reasoning because have to have a hypothesis (your potential conclusion) and a plan on getting the data to support that conclusion.  Inductive reasoning is used when the data doesn't match with the hypothesis (so you have to figure out what it does mean) or after doing an exploratory experiment.
+
+=== Imbalance of Reason
+
+This imbalance of deductive and inductive reasoning, as well as between authority and experience, caused people to not check their results with reality.  Words and logic weren't merely reflections of what was real; they virtually dictated what was real.  That meant that it was perfectly legitimate to debate matters that are totally impossible to verify – like the "`How many angels can stand on the head of a pin?`" argument.  The Scholastics would be fastidious to a fault in making sure their arguments were logically sound, and they'd bring up every conceivable objection to dispute them.  However, in making arguments for things that were, in reality, false propositions, they'd make use of word play and horrendously elaborate explanations.
+
+=== Abusing the Unverifiable
+
+People still debate totally unverifiable things, often in college dorms after a few too many Coronas, and most people see how silly it is when they sober up.  Also, the word play was a more sophisticated form of the technique used every day by students and politicians: if you haven't a clue what you're talking about, bowl `em over with words until it becomes impossible to tell the difference between what's legitimate and what's nonsense.
+
+=== Occam's Razor
+
+In response to excesses found in the arguments of the time, William of Occam developed the principle known as "`Occam's Razor,`" which said, in essence, that the simplest explanation for something was most likely to be the correct one.  Rather than debating, for example, about how it's possible that a field has weird shapes of trampled grain because demons were performing a ritual in there that would cause your sister to wake with a headache (or aliens trying to tell us they have Elvis), it more likely that your neighbors ox wandered into the field, got lost, and wandered around for a bit.  However, it would take hundreds of years before his "`razor`" would become popular.
+
+=== The Problem with Occam's Razor
+
+While Occam's Razor is generally regarded as a very useful tool, it does have a serious problem. What is it?
+
+=== Life Isn't Always Simple
+
+It's that "`the simplest explanation for something is most likely to be the correct one.`"  Just because it's more likely that one explanation is right than another, that does not mean that it is necessarily so. Life is much more complicated than we'd often like it to be.
+
+=== Allegory
+
+Throughout the Middle Ages (and still today in many parts of Christianity) Biblical interpretation tended to be very allegorical.  What that means is that every verse was searched to find its hidden meaning, beyond the plain meaning of the text, to find the truths that apply to all times.  The Bible itself does some of that, showing how things that were said in the Old Testament referred to New Testament events, for example. The problem was that every sentence in the Bible was treated that way, so verses like Number 3:50 ("`From the firstborn of the Israelites he collected silver weighing 1,365 shekels, according to the sanctuary shekel.`") were analyzed to determine what spiritual significance the collection of 1,365 shekels of silver had.
+
+=== Examining Allegories
+
+What are some of the major advantages and disadvantages of such an approach?
+
+=== Allegory Pros and Cons
+
+In the limited instances when the Biblical does it, obviously it's good.  Also, when done merely as a concrete example of something else (like 2 Samuel chapter 9 being an example of the kind of mercy God gives us, shown in what David did), it can be very useful to have a specific instance of some truth illustrated for us.
+
+When those limits are not applied, it can lead to wild speculation, which in turn can lead to very bad theology.
+
+=== Reformers React to Allegory
+
+Martin Luther, John Calvin, and many others involved in the Reformation reacted strongly to the wild speculation involved in the allegorical interpretations going on, but it still goes on.  Can you give any examples?
+
+=== Allegory In Common Use
+
+It is still a legitimate form of interpretation in the Roman Catholic Church, of course.  A great many Catholic teachings are based upon such interpretations, so Rome could hardly give up even some of the more egregious instances of abuse since Rome is infallible.  However, it's also very popular among Protestants, both liberal and conservative.  Among conservative Protestants you can hear it any Sunday morning when you turn on the TV and the preacher's pulling Scriptural passages way out of context to make some point.  Among liberals, not having to abide by the literal meaning of the text and instead interpreting everything symbolically is at the very heart of Christian liberalism.
+
+=== Normative Thought
+
+Virtually all forms of the political, social, economic, etc. thought of the Middle Ages was "`prescriptive`" instead of "`descriptive,`" stating how people should live, with very little attention to how people do live.  Culture and social order was to reflect the perfect order that God created, and attempts to not conform to how the authorities understood that order to be were considered acts of heresy.  This was strengthened by the feeling that you could reason out how things should work and make the world fit your model.
+
+=== Pragmatism
+
+An example of an exception to this kind of thinking can be found in the pragmatism shown by even such an "`idealist`" as St. Thomas Aquinas, who wrote about how necessary it is for cities to have brothels.  (It's hardly the kind of thing you'd advertise about your city, but it's like the sewage system of a castle: if you don't have it, all the crap of society will have no outlet and cause things to be far worse than if such a "`dirty`" outlet weren't there.)
+
+=== Hierarchical Thinking
+
+This prescriptive and symbolical way of seeing everything reflected itself in every aspect of life.  "`There's a place for everything, and everything in its place`" was lived to a degree that's unimaginable today.  Things were divided into three groups and prioritized as such: God / angels / man, king / barons / commons, head / heart / belly, citadel / within the city walls / outside the city walls, outside the fixed sphere of stars / between the fixed stars and the moon / within the orbit of the moon, etc.  Everything had a place in God's order, and the hierarchical way of understanding things reached into everything.
+
+=== The Order of Things
+
+image::332px-Mittelalterliches_Ständebild_15._Jahrhundert.png[height="400px",role="left",alt="https://en.wikipedia.org/wiki/File:Mittelalterliches_St%C3%A4ndebild_15._Jahrhundert.png"]
+
+Many of those distinctions are still in our language.  Take the king / barons / commons and head / heart / belly orderings, for example.  The king is the "`head`" of the state and received the most education.  The barons, or "`nobles`" were to be noble, which means they were to act out of honor, loyalty and compassion – which typify the "`heart.`"  Finally, the commons were seen as being base, trite, and only concerned about fulfilling their appetites – i.e., "`common.`"
+
+
+== Witchcraft
+
+Violating the Natural Order of Things
+
+=== Outside Influences
+
+Christianity has not developed in a vacuum &nbsp; there have always been a lot of outside influences for the hearts and minds of people.  Every Christian community grew up in a land of pagans, and people didn't always give up all of their old ways simply because they now prayed to God the Father instead of Mother Earth, for example.  It was certainly a problem for the ancient Israelites, who would worship Baal in the morning and Jehovah in the evening. Synchronism (merging different religions) has been a major problem for Christianity.
+
+=== Merlin
+
+I remember I got a rather rude awakening regarding Christian synchronism: TNT showed a mini-series based on the popular book, "`The Mists of Avalon,`" which was a telling of the King Arthur legend from the point of view of Morgan de la Fey.  It made me realize what I already "`knew,`" that a great deal of what those stories were about was the interaction between Christianity and the Druids, and the influence that paganism had over people of the time.  The magic that Merlin is said to have practiced is exactly the same kind of thing that other wizards in Druidic lore were supposed to have done, and Morgan's title ("`of the Fairies`") clearly identifies her as being in communion with the Fairies &mdash; in other words, a Druid.
+
+=== "`Circling the Wagons`"
+
+One of the principle reasons for the growth of a strong central Church was so that the Church would be better able to defend itself against such influences.  While she was (sadly) a very long way from immune, the Church did do what she could to stop pagan practices.  The combination of the zeal to stay pure and fight such corruption, and an assurance of knowing exactly how things should be, gave the Church the impetus she needed to actively search out witchcraft.
+
+=== Witch Hunt
+
+While there was certainly the "`torches and pitchforks in the middle of the night`" approach to getting rid of witches, by and large it was a very formal affair.  Using the machinery of Inquisition, the very best tools of theology, philosophy, civil law and science were all applied.
+
+=== Roman Law on Witchcraft
+
+To better understand what happened and why, consider what Roman law had to say about witches: very little.  Witchcraft was very prevalent in the Roman world, as well as everywhere else, but the attitude toward it was very different there (and everywhere else) than what it would be in Christian Europe.  Roman law said that if you used magic to cause a barn to burn down, then you were guilty of burning down the barn, same as if you had done so with more "`conventional`" means.  The way it was done made no difference, the consequences and intent were all that mattered.  Trivial or beneficial magic was, well, "`beneficial`" and greeted with indifference to praise.
+
+=== Magic Can Not Be Neutral
+
+Christian doctrine changed that entirely.  Since super-natural powers can only come from God or the Devil, that meant that if you did something super-natural and weren't a saint working a miracle, then you must be an agent of the Devil.  That meant that even trivial and beneficial magic was considered to come straight from Satan.
+
+=== Demonic Magic
+
+What are some examples of where the Bible refers explicitly to magic coming from the Devil?
+
+[answer fragment]
+--
+For example: Exodus 7 – Pharaoh's sorcerers turning their staffs to snakes and water to blood, as well as summoning frogs.  1 Samuel 28 – Saul has the Witch of Endor summon Samuel for counseling.  A number of less obvious ones are in Ezekiel, Isaiah, Acts, etc.
+--
+
+=== Superstition
+
+Since it was a very, very superstitious time, super-natural events were seen to happen all the time.
+
+=== Super-Natural
+
+"`Super-natural`" is our modern term for magic (Godly or demonic), but that needs to be better understood
+
+Much as how today, when something happens and we have no idea how it happened, we will often say that it's a "`miracle`" (when it's good) or "`voodoo`" (when it's bad or simply strange), they did the same thing
+
+However, today, on the other side of the Scientific Revolution, the vast majority of the time we figure there must be some "`reasonable`" (i.e., "`scientific`") explanation of what happened, and ignore the fact that we also fight against "`the spiritual forces of evil in the heavenly realms.`" [Ephesians 6:12]
+
+=== Wormwood's Advice On Magic
+
+C.S. Lewis' "`The Screwtape Letters`" has an interesting section about this kind of thing that should help us keep this in perspective. (For those not familiar with "`The Screwtape Letters,`" it's a series of "`letters`" sent from a senior demon to a "`junior tempter`" to advise him on how best to "`guide`" his "`patient`" into Hell.)  From the 7th letter...
+
+[note]
+--
+I wonder you should ask me whether it is essential to keep the patient in ignorance of your own existence.  That question, at least for the present phase of our struggle, has been answered for us by the High Command.  Out policy, for the moment, is to conceal ourselves.  Of course this has not always been so.  When the humans disbelieve in our existence we lose all the pleasing results of direct terrorism, and we make no magicians.  On the other hand, when they believe in us, we cannot make them materialists and skeptics.  At least, not yet.  I have great hopes that we shall learn in due time how to emotionalize and mythologize their science to such an extent that what is, in effect, a belief in us (though not under that name) will creep in while the human mind remains closed to belief in the Enemy...
+
+...If once we can produce our perfect work -- the Materialist Magician, the man, not using, but veritably worshipping, what he vaguely calls "`Forces`" while denying the existence of "`spirits`" -- then the end of the war will be in sight.  But in the meantime we must obey our orders.  I do not think you will have much difficulty in keeping the patient in the dark.  The fact that "`devils`" are predominately comic figures in the modern imagination will help you.  If any faint suspicion of your existence begins to arise in his mind, suggest to him a picture of something in red tights, and persuade him that since he can not believe in that (it is an old textbook method of confusing him) he therefore cannot believe in you.
+--
+
+=== Where Is the Focus?
+
+The point being, for our purposes, that while people used to concentrate too much on super-natural forces, in our modern world we tend to think about it too little.  As we continue to look at this issue, remember that there are indeed things that are not "`rational,`" and the people of the medieval world were very aware of that, so they were trying to deal with those problems as best as they possibly could with what they knew.
+
+=== Magic In Pagan Areas
+
+Missionaries and the like that work in very pagan contexts have long noted that the more pagan an area is, the more real magic, demon possessions, etc. occur.  Satan has increased power where people let him have more power.  While God holds the reigns, it appears that if people wish Satan's presence and power, God will often let them drink of the consequences of their heart's desires.  So it may have been that during a time of major superstition like the Middle Ages, that there may indeed have been more Satanic power being exercised on the earth.
+
+=== Red Tights
+
+Regarding the "`red tights`" picture: these days it's used to mock the idea of the Devil, but it was originally created to mock the Devil himself.  The theory was that pride was Lucifer's biggest weakness; so making fun of him would tick him off and send him looking for prey that would take him more seriously.  Unfortunately, as Screwtape noted, he has turned the tables and now uses the imagery to his advantage.
+
+=== American Miracles and Magic
+
+What are some examples of miracles and magic being practiced commonly in modern America?
+
+[answer fragment]
+--
+A quick sampling would be: faith healers, astrology, psychics, charismatic prophecy, palm and tarot readings, Wicca, etc.
+--
+
+=== Satanic Pact
+
+The gist of the theory of witchcraft is this: Because magic has to come from the Devil and he can't override our free will, if you perform magic you have made a (at least implicit) pact with Satan.  For a pagan, that's bad enough, but for a baptized Christian, that means they've committed heresy, and the Bible makes it clear that heresy is about as bad as sin could possibly get.  (To sin and not know any better is one thing; but to do so having known better is something else entirely.)  Therefore it was the job of the authorities, elders, family, friends, etc. to try to bring the person back into the fold and save their soul.
+
+=== Standard Witch Identifiers
+
+Obviously, with consequences being so dire, there was a great deal of concern to make sure that when someone was accused of being a witch, that she was indeed a witch.  These varied from describing the Crucifixion and seeing if an account of what she has done to Christ would cause a tear of remorse, to gathering common traits and behaviors between convicted witches, to torture, to simply asking if she was a witch.  Eventually a book was compiled by two of the most respected experts in the Church on how to verify that someone is a witch, which was copied all over Europe so that a consistent set of criteria could be used in the trials. Essentially, to use modern language, it was a book of case law and scientific data.
+
+=== Technique Summary
+
+As you can see, techniques varied from very the theological (the tear test) to scientific (gathering similarities) to civil (questioning and torture) and more.
+
+=== Witch, Not Sorcerer
+
+I keep using "`witch`" and "`she`" instead of including "`sorcerer`" and "`he`" for simplicity and because, unfortunately, the vast majority of the times it was women being accused; usually elderly or "`independent`" women who had to make a living selling herbs or the like and had no one to champion them. All in a legal system that did not look very highly on the testimony of women.
+
+=== Guilty of Witchcraft
+
+If she was found to be guilty of witchcraft and would not repent of it, she was deemed a heretic and would therefore be treated as one.  (If you wouldn't admit to being a witch, obviously you hadn't repented; and if you just say "`Sure, I'm a witch and I repent`" to save yourself, that hardly shows the contrition necessary for repentance, and even if they do buy it, you're now labeled for the rest of your life as having been a witch...)  The burning at the stake was chosen for the sake of the accused: a cleansing by fire, as in any case of heresy.  They literally "`burned the witches to save them.`"
+
+=== Documentation of Methods
+
+One consequence of all this is that if you were engaged in anything that might make it seem like you practice magic -- be it medicine, physiology, chemistry, etc -- you had to find some way of protecting yourself against such accusations.  To do that, the methods used started becoming much more like what we would describe as the scientific method, with its precise descriptions of methods, explanations of everything along the way, and so on to make sure there's documented evidence that's as objective as possible.  Hysteria over witchcraft, ironically, helped pave the way for the Scientific Revolution.
+
+
+== General Demographics Toward the End of the 15th Century
+
+=== The Black Death
+
+The last Black Death had wiped out approximately a third of all human life in Europe.  For those that survived, the century following (about 1350-1450) it was the most prosperous time since the height of the Roman Empire, but life was still "`short, nasty and brutish.`"  By modern terms, there was hardly a "`real`" city in all of Christendom – there were only 10 cities of more than 20,000 people, and the largest was Naples (followed closely by Paris) with 150,000 people.  Over 65%-90% of the population (depending of the region) worked the land.  Infant mortality was horrid – of those that survived childbirth, 15%-35% never made it to their first birthday, and an additional 10%-20% died before age ten.  (So if you were born, you had about a 50/50 chance of making it to your tenth birthday.)  Famine, epidemic, war and more made life a very chancy proposition.
+
+=== The Plague's Silver Lining
+
+Why would life be so "`good`" during the century following the Black Death?
+
+[answer fragment]
+--
+The reason life was so much better after the Plague was simple, if morbid: there weren't as many people.  The population before the Plague had developed the land and resources, and after they died there was the same amount of land but a lot less people.  The lack of people also meant that labor to work that land was more valuable, increasing the standard of living for the common man.
+--
+
+=== Upturning Social Structure
+
+As the population started to grow again, the concessions gained by the more valuable workforce began to put increasing pressure on the nobility, causing a great deal of tension between peasants and lords.  The strict set of laws and practices that had preserved order in society started to become further strained.  There was no police force in the modern sense (when it wasn't ad hoc, it was soldiers keeping the peace, and they're not known for having a light touch), and standing armies were rare (lords would conscript vassals as needed).  That meant that social order had to be preserved almost exclusively by social structure and tradition – another reason why dissent was crushed so forcibly.  Civilization depended on conformity to survive.
+
+=== Clergy Caught In the Middle
+
+The clergy found itself caught in the middle of the tension between peasant and lord.  Clergy were exempt from taxes and most civic duties, including warfare.  Clergy could not be tried in a civil court for crimes – they had to be tried in an ecclesiastical court.  They did not have to swear loyalty to the local magistrate, but rather to the Pope.  These things, and others, often caused churchmen to be caught in the middle, resented by both the peasants and the lords.
+
+=== Resentment of the Clergy
+
+Why would the peasants be so upset about the rights of clergy?  What would upset the nobility?
+
+[answer fragment]
+--
+Being exempt from taxes, but imposing a further "`tax`" on people in the form of mandatory tithes, they were targets of resentment from the common people that had to pay for everything – especially when clergymen were blatantly greedy and lazy.  The lords resented that the clerics would take advantage of the benefits of living under their rule, but had none of the responsibilities.  And when a priest would break a law (which, sadly, was hardly unknown) they often got little to no punishment from their own court system.
+--
+
+=== Clerical Greed
+
+Greed was the number one complaint against the clerics of the time; Whoring, sloth, and the rest were problems, but what tended to really get people worked up -- just like today -- was when they got hit in the pocketbook.
+
+=== Devolution of Power
+
+After the warring and general chaos of the previous centuries, alliances and central authorities began to develop.  However, the Plague had destroyed a lot of the power structures between regions, and the bureaucracy and communications technology of the time wasn't sufficient to effectively govern disparate areas; local authorities fought fiercely to maintain independence.
+
+=== Growing Independence
+
+As we will see, the constant battles between central authorities and local independence would be almost as important to what happens during the Reformation as the theological battles...
+
+== The Structure of the Medieval Church
+
+=== "`The Church`"
+
+It's the Church of Christ throughout the ages -- made up of both the living and the dead
+
+=== The Eternal Church
+
+Combined with allegorical interpretations of the Bible, this gave history -- especially Church history -- a very timeless quality
+
+=== The Timeless Church
+
+Time was compressed: events that had happened in Christ's or Moses' time had an immediacy about them, and the Church hadn't really "`developed`" into what it is, but had always been essentially the way it is
+
+=== The Value of the Timeless Church
+
+What were the consequences of this view of history on the medieval Church?
+
+[answer fragment]
+
+It greatly strengthened the power of existing structures, since they were right and "`normal`"
+
+=== The Invisible Church
+
+The idea of the "`Invisible Church`" also gave credence to praying to the dead (especially the saints) and holding services and rituals for the dead
+
+=== Liturgical Time
+
+Time was conceived and divided in liturgical terms: no time stood apart from God
+
+=== The Litugical Day
+
+The day was divided into seven times of prayer, based on Psalm 119:164
+
+=== The Litugical Week
+
+Each day of the week had special significance, with Sunday devoted to God, Saturday to Mary, Friday to fasting from meat to remember Christ's passion, etc
+
+=== The Litugical Year
+
+The year was divided into major festivals (primarily Lent and Advent, but also various events from the life of Mary) and minor festivals spread out over every day of the year dedicated to remembering particular saints
+
+=== The Clergy
+
+The Catholic Church was a very hierarchical institution, with its core made up of clergy that were distinguished from the laity by special vows and privileges
+
+=== The Church's Hierarchy
+
+The Pope, Christ's vicar, oversees the whole of Christendom, while the Bishops, successors to the Apostles, are responsible for their dioceses, and parish priests serve the laity directly in their parishes as deputies to the Bishops
+
+=== Special Vows and Privileges
+
+"`Special vows and privileges`" were often all the really separated the clergy from the laity
+
+=== Not Always Set Apart
+
+Education on doctrine or even living a "`holy`" life was not necessarily a requirement for the position
+
+That would be one of the primary things that the Council of Trent would seek to fix
+
+=== Religious Orders
+
+Religious orders, both male and female, spread across dioceses and were of two primary types: contemplative and mendicant
+
+=== Contemplative Orders
+
+The contemplative orders (like the Benedictines) were devoted to cloistered lives of devotion and prayer
+
+=== Mendicant Orders
+
+The mendicant orders (e.g., Franciscans, Dominicans, Augustinians) were dedicated to serving the laity directly through preaching, teaching, missionary work, and hearing confessions
+
+=== Confraternities
+
+In addition, there were many, many lay institutions called "`confraternities,`" which acted as mutual aid societies and were plentiful in almost every town and city
+
+=== Growth of the Orders
+
+These institutions (primarily religious orders and confraternities) grew tremendously in the years leading up to the Reformation
+
+=== Increasing Religious Support
+
+There was an increase in the endowments made to the Church (parishes, Rome, orders, confraternities, etc.) and the most popular book coming off the new invention -- the printing press -- were the books of hours (essentially prayer books)
+
+=== Increasing Religious Fervor
+
+The religious fervor in society was growing steadily and had reached an all time high when the Reformation came
+
+=== Leading Up To Reformation
+
+How would having a more deeply religious population affect the Reformation?
+
+[answer fragment]
+--
+It meant, primarily, that people cared about what was being said -- it wasn't just an academic debate that didn't have anything to do with them, which fueled both sides
+--
+
+=== Protestant Strength
+
+In the Protestant's favor, it **_tended_** to be that the more educated the people were – and therefore less reliant upon what their priests told them – the more likely they were to join in the protest
+
+=== Rome's Strength
+
+In the Papist's favor, people were more educated and ingrained in the life of the Catholic Church and its doctrines, and therefore less willing to see it changed
+
+=== Demograhic Correlations
+
+{warn} That said, however, despite a great deal of modern scholarship trying to find demographic correlations to confessions (e.g., "`If someone's an educated male living in the city, then he'll likely become a Lutheran.`") has failed to find anything statistically significant {warn}
+
+Strangely, the Holy Spirit did His thing without trying to make it easier for modern sociologists to figure out how or why...
+
+=== Growing Pains
+
+The growth of the institutions caused a great deal of stress, as they competed against each other for authority and scarce resources – especially when times turned hard (which, as was discussed earlier, was a common thing)
+
+A well-established Augustinian monastery would resent the encroachment of a Franciscan order moving into the town, for example
+
+=== "`Rock Star`" Preachers
+
+As an indication of the fever pitch of religious zeal that was developing, the town and city leaders would often hire preachers to preach in their municipality -- especially during major festivals
+
+These preachers were the "`rock stars`" of their day and spoke in the vernacular (rather than Latin)
+
+=== Fidas Qua vs Fidas Quae
+
+The Church distinguished between two types of faith: the act of faith that trusts in Christ (fides qua), and the content and doctrines of faith (fides quae)
+
+=== Implicit vs Explicit
+
+There was "`explicit`" and "`implicit`" faith
+
+Explicit faith is where you can articulate what you believe and why
+
+Implicit faith is where you don't know all the doctrine and reasons for something, but you do what the Church says because you have implicit faith in its authority and trust that it knows all the reasons and the like so you don't have to
+
+=== Christians That Don't Know Christianity?
+
+To a modern Christian – especially Protestants – this may seem like a strange idea: People can be Christians and not even know basic Christian teachings like the Crucifixion or the Ten Commandments?
+
+=== Christian Specialist
+
+However, the priest was (to use modern terms) the "`Christian specialist,`" so you just took what he said because he knew and you didn't – similar to going to the doctor
+
+If the doc says that you need to stop smoking, you can choose to ignore him because you like smoking and don't believe that smoking could really hurt you, but only at peril to your health
+
+=== Taking His Word For It
+
+If the priest says that you need to go to a mass you can't understand, you do so -- not needing to know why -- for the sake of your soul
+
+=== Allowing Ignorance
+
+In the clergy's defense for allowing the vast majority of their parishioners to not know much, you have to remember what they were working against
+
+=== Illiterate
+
+Among many other things, there was essentially no literacy, and people who work the land don't have time to devote to classes
+
+=== A Little Knowledge...
+
+Also, they knew from experience that "`a little knowledge can be a dangerous thing,`" leading to all sorts of heresy if people knew one piece of doctrine without the entire accompanying framework around it
+
+=== Which Way To Err?
+
+Given the situations of the time, the Church really was trying to walk a thin line between leaving people too far in the dark, and stirring up trouble that would endanger their souls
+
+=== Reforming Clerical Abuses
+
+There was certainly laziness and abuses by the clergy, though, and various reforms throughout the Middle Ages tried to correct it, the most comprehensive by far being the "`final`" response to the Reformation: The Council of Trent
+
+=== Heresy
+
+The view of everyone at the time was that a heretic is a "`spiritual psychopath`"
+
+But far, far worse -- infinitely worse, in fact -- than a "`mere`" psychopath
+
+=== Do Not Fear Those Who Kill The Body
+
+In the Gospels, Jesus himself says not to worry about those that merely kill the body, but to fear for our souls instead. (Matthew 10:28 and Luke 12:4, for example.)
+
+Murder only destroys the mortal body, but heresy destroys the immortal soul
+
+=== Eternity Is At Stake
+
+Because of the ease with which heresy grows, stopping heresy was viewed as being infinitely more vital than stopping a "`mere`" psychopath since he was bringing souls with him to Hell and an eternity of torture and damnation
+
+=== What's The Most Important Thing?
+
+In all of Christian teaching and practice, what's more important than saving souls?
+
+[answer fragment]
+--
+Of course the answer is "`nothing.`"
+
+That's the very point of both the Law and the Gospel
+--
+
+=== Extreme Measures for Extreme Importance
+
+Given the extreme importance of saving and protecting souls, are "`extreme`" measures called for?
+
+Where do you draw the line? Where does the Bible draw the line?
+
+The views regarding the nature of heresy are radically different than the modern Western view – what are those differences, and which is closer to what the Bible teaches?
+
+[answer fragment]
+--
+These are all meant as discussion and thought questions, and are vitally important to understanding the events and importance of what happens in the Reformation
+--
+
+=== Blasphemy and Heresy are Capitol Offenses
+
+Note, for example, that the laws that God gave the nation of Israel regarding heresy, blasphemy and the like bore the death penalty
+
+=== Just As Serious
+
+It's important to realized that while they obviously differed from the Catholic Church over exactly what was heretical, the Magisterial Reformers (Luther, Zwingli, Calvin, etc.) shared Rome's understanding of the seriousness of heresy and the essentially the same **_means_** by which it needed to be fought
+
+=== Church and State Needed Each Other
+
+here was a great deal of "`cross pollination`" between the Church and the state
+
+Not just because of where it would be mandated, but also because, in a world where only about 10% of those in the city could read (and far smaller than that in the country-side), the various governments would hire clerics to perform governmental functions
+
+=== Conflicts of Interest
+
+This caused conflicts of interest to arise for those clerics in both directions, but the trend was that the clerics would start to become more "`attached`" to their governmental responsibilities than their ecclesiastical ones, which brought more state influence on the Church
+////

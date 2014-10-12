@@ -1,0 +1,63 @@
+#!/usr/bin/env ruby
+
+begin
+  require 'rubygems'
+  require 'bundler/setup'
+rescue # SystemExit
+  system("rbenv exec bundle install")
+  Gem.clear_paths
+end
+
+dir = File.dirname(__FILE__)
+INPUT_FILE = File.join(dir, 'index.adoc')
+OUTPUT_FILE = File.join(dir, 'index.html')
+TEMPLATE_DIR = File.join(dir, 'asciidoctor-reveal.js/templates')
+IMAGES_DIR = File.join(dir, 'images')
+CUSTOMCSS_FILE = File.join(dir, 'reveal.js/css/preso.css')
+FONTAWESOME_FILE = File.join(dir, 'font-awesome.css')
+
+require 'thor'
+require 'tilt'
+
+class MyThorCommand < Thor
+  require 'asciidoctor'
+  require 'filewatcher'
+  require 'sass'
+
+  desc "generate", "Generate the slide deck from #{INPUT_FILE} to #{OUTPUT_FILE}"
+  def generate
+    doc = Asciidoctor::load_file(INPUT_FILE,
+      :template_dirs => [TEMPLATE_DIR],
+      :template_engine => 'slim',
+      :backend => 'revealjs',
+      :header_footer => true,
+      :safe => Asciidoctor::SafeMode::UNSAFE,
+      :attributes => {
+        'iconfont-cdn' => 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css',
+        # 'iconfont-cdn' => FONTAWESOME_FILE,
+        'customcss' => CUSTOMCSS_FILE,
+        'imagesdir' => IMAGES_DIR,
+      }
+    )
+
+    File.open(OUTPUT_FILE, 'w+') do |file|
+      file.puts doc.render
+    end
+
+    sass_engine = Sass::Engine.for_file('sass/preso.scss', {:syntax => :scss})
+    File.open(CUSTOMCSS_FILE, 'w+') do |file|
+      file.puts sass_engine.render
+    end
+  end
+
+
+    desc "watch", "Watches for changes to the filesystem to generate the slide deck from #{INPUT_FILE} to #{OUTPUT_FILE}"
+    def watch
+      FileWatcher.new(["index.adoc", "sass/*.scss"]).watch do |filename|
+        generate()
+      end
+    end
+
+end
+
+MyThorCommand.start

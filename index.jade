@@ -1,0 +1,39 @@
+mixin image(src, attr)
+  div.image(style="float: #{attributes.float};")
+    if attributes.height
+      img(src="#{src}", style="height: #{attributes.height}; ")
+    else
+      img(src="#{src}")
+    p.attribution: a(href="#{attr}") image attribution
+
+doctype html
+html(lang="en")
+  head
+    meta(charset="utf-8")
+    title Church History
+
+    meta(name="description", content="Church History")
+
+    include fragments/header.jade
+
+  body
+    .reveal
+      .slides
+        include fragments/title.jade
+        include fragments/city-of-god.jade
+        include fragments/holy-roman-empire.jade
+        include fragments/papal-authority.jade
+        include fragments/inquisition.jade
+        include fragments/great-schism.jade
+        include fragments/aristotle.jade
+        include fragments/islam.jade
+        include fragments/aquinas.jade
+        include fragments/scholasticism.jade
+        include fragments/witchcraft.jade
+        include fragments/15th-cent-demo.jade
+        include fragments/medieval-church-structure.jade
+        section
+          h1 Q & A
+        include fragments/references.jade
+
+        include fragments/reveal_config.jade
