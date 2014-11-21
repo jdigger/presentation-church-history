@@ -2,7 +2,11 @@
 
 A presentation on the history of the Christian Church.
 
-To view, either download the source and open `index.html` in a HTML5 web browser, or go to https://rawgit.com/jdigger/presentation-church-history/master/index.html#/
+To view, either download the source and open `index.html` in a HTML5 web browser, or go to https://rawgit.com/jdigger/presentation-church-history/master/index.html
+
+or
+
+http://bit.ly/churchhist
 
 # Building
 

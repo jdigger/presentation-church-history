@@ -1,3 +1,6 @@
+$font-size: 36px;
+$line-height: 1.2 * $font-size; // 1.2em
+
 body {
   background: radial-gradient(circle farthest-corner at center center,
                               #8b7765 0%, #1c1e20 100%)
@@ -24,19 +27,14 @@ img.full {
 }
 
 div.quote {
-    background-color: #ddeeee;
     box-shadow: 0 0 6px black;
     text-align: left;
-    font-size: 100%;
-    line-height: 1.2em;
-    width: 80%;
     padding: 10px;
-    position: relative;
-    -webkit-transform: translateX(-50%);
-    -moz-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
-    left: 50%;
+    margin: 10px;
+
+    div.paragraph p {
+      padding: 0px;
+    }
 }
 
 p.cc-license {
@@ -46,13 +44,13 @@ p.cc-license {
 p.note {
     box-shadow: 0 0 6px black;
     font-size: 100%;
-    line-height: 1.2em;
+    line-height: $line-height;
 }
 
 div.note {
     box-shadow: 0 0 6px black;
     font-size: 100%;
-    line-height: 1.2em;
+    line-height: $line-height;
     padding: 10px;
 
     p {
@@ -60,13 +58,19 @@ div.note {
     }
 }
 
-div.paragraph p {
-    padding-bottom: 1.2em;
+div.paragraph {
+  margin-bottom: $line-height;
+}
+
+div.quoteblock {
+  div.paragraph {
+    margin-bottom: 0px;
+  }
 }
 
 p.strong {
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: $line-height;
 }
 
 i.fa {
@@ -76,6 +80,8 @@ i.fa {
 
 span.small, p.small {
     font-size: 60%;
+    line-height: 0.5em;
+    // padding-bottom: 0.5em;
 }
 
 i.fa.fa-external-link {
@@ -102,6 +108,10 @@ p.attribution {
     }
   }
 
+  blockquote {
+    background-color: #333333;
+  }
+
   .controls {
     div.enabled {
       opacity: 0.3;
@@ -114,6 +124,12 @@ p.attribution {
 
   h1, h2, h3, h4, h5, h6 {
     text-transform: none;
+  }
+
+  p {
+    line-height: $line-height;
+    margin-bottom: 0px;
+    // margin-bottom: $line-height;
   }
 }
 
