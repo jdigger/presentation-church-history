@@ -22,8 +22,10 @@ div.quote {
   div.quote div.paragraph p {
     padding: 0px; }
 
-p.cc-license {
-  font-size: 15px; }
+div.cc-license {
+  padding-top: 129.6px;
+  font-size: 21.6px;
+  line-height: 21.6px; }
 
 p.note {
   box-shadow: 0 0 6px black;
@@ -43,6 +45,9 @@ div.paragraph {
 
 div.quoteblock div.paragraph {
   margin-bottom: 0px; }
+
+div.ulist {
+  margin-bottom: 43.2px; }
 
 p.strong {
   font-weight: bold;
@@ -107,3 +112,8 @@ div.slides section table {
 section.summary p {
   font-size: 200%;
   font-weight: bold; }
+
+section#_the_categories ul {
+  column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-count: 2; }

@@ -11,7 +11,11 @@ The Christian Church Since the Time of the Apostles
 :start-frag: pass:[<div class="fragment">]
 :end-frag: pass:[</div>]
 
-// +++<div class="cc-license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Church History</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jdigger/presentation-church-history" rel="dct:source">https://github.com/jdigger/presentation-church-history</a>.</div>+++
+== Intro
+
+Worksheet: link:worksheet.html[]
+
++++<div class="cc-license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Church History</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a source code at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jdigger/presentation-church-history" rel="dct:source">https://github.com/jdigger/presentation-church-history</a>.</div>+++
 
 == The City of God
 
@@ -605,7 +609,7 @@ How, indeed, will the church of the Greeks, no matter how severely she is beset 
 
 === Power Vacuum
 
-In addition to the atrocities committed by Christians upon Christians, the heavily wounded  could no longer provide a real defense against the Islamic states
+In addition to the atrocities committed by Christians upon Christians, the heavily wounded empire could no longer provide a real defense against the Islamic states
 
 Even though the Byzantine Empire was able to regroup and take back Constantinople, the Empire was severely crippled
 
@@ -626,54 +630,126 @@ http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_
 
 Pope John Paul II as recently as 1995 said http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint_en.html["`the Church must breathe with her two lungs!`"] to bring together the best of the West's rational rigor with the East's mysticism
 
-////
+
 == The Philosopher
+
+image::359px-Aristotle_Altemps_Inv8575.jpg[alt="https://en.wikipedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"]
 
 === Aristotle
 
-A student of Plato, Aristotle would go on to greatly surpass his teacher in the scope of his philosophy and the influence it would hold. A much more "`practical`" thinker, Aristotle was constantly at odds with Plato's very "`other worldly`" philosophy. (There's a famous painting by Rembrandt of Plato and Aristotle arguing. Plato is pointing up, indicating the "`Forms.`" Aristotle is pointing at his hand, indicating his belief that there was no separation of the form of a thing and the thing itself.)
+A student of Plato, Aristotle (384-322 BC) would go on to greatly surpass his teacher in the scope of his philosophy and the influence it would hold
 
-While Plato is much easier to read because of his numerous stories and illustrations, it's easier to understand where Aristotle is coming from because he had a much more direct influence on modern Western thought. A great deal of what is referred to as "`classical`" learning comes directly from him, and when someone refers to "`The Philosopher,`" they are almost certainly referring to Aristotle.
+A much more "`practical`" thinker, Aristotle was constantly at odds with Plato's very "`other worldly`" philosophy
+
+=== Plato and Aristotle
+
+image::458px-Sanzio_01_Plato_Aristotle.jpg[height="500",alt="https://commons.wikimedia.org/wiki/File:Sanzio_01_Plato_Aristotle.jpg"]
+A famous painting by Raphael of Plato and Aristotle arguing. Plato is pointing up, indicating the logical "`Forms.`" Aristotle is pointing toward the earth, indicating the importance of staying grounded in observation and experience
+
+=== Scientist?
+
+While he didn't do "`science`", he was far ahead of everyone else nearly a millenia, and he laid the groundwork for huge swaths of what would become Science
+
+=== Classical Learning
+
+While Plato is much easier to read because of his numerous stories and illustrations, it's easier to understand where Aristotle is coming from because he had a much more direct influence on modern Western thought
+
+A great deal of what is referred to as "`classical`" learning comes directly from him, and when someone refers to "`The Philosopher,`" they are almost certainly referring to Aristotle
 
 === Unity
 
-Aristotle's passion was in "`unity.`" He was constantly looking to see how things were related, and to bring together things that he thought should not be divided.
+Aristotle's passion was in "`unity`"
+
+He was constantly looking to see how things were related, and to bring together things that he thought should not be divided
 
 === Alexander the Great
 
-A very concrete example of Aristotle's concern for unity can be seen in his influence on his most famous student, Alexander of Macedonia ("`Alexander the Great`"). When Alexander conquered the world, he brought along behind his army a huge array of scientists to study the plants, people, animals, rocks, etc. of the areas he conquered. (It's thought to be the most expensive scientific endeavor until the Moon launch.) But the most important effect Aristotle's influence on Alexander's was for our purposes here was Alexander's passion for the Hellenization ("`Greek-ifying`") of the areas he conquered. It was because of that Hellenization that all of the books of the New Testament were written in Greek. The unification of trade, language, systems of thought, politics, and the like – later taken advantage of and extended by the Romans – was the reason that the Gospel was able to spread so far and so fast. Just as God used Plato's philosophy to start "`prepping`" the gentile nations to hear the Gospel, He used Aristotle and Alexander to "`prep`" the world to make the spread of the Gospel far faster and efficient than ever before possible.
+A very concrete example of Aristotle's concern for unity can be seen in his influence on his most famous student: Alexander of Macedonia ("`Alexander the Great`")
 
-=== Logic
+When Alexander conquered the world, he brought along behind his army a huge array of scientists to study the plants, people, animals, rocks, etc. of the areas he conquered
 
-Perhaps his single most fundamental contribution to Western thought is his development of formal logic. Obviously, people were using logic before him (just as they were using gravity before Newton), but Aristotle identified what is involved with logic and what is the proper use of logic.
+[.small]
+They would eventually have a falling out, largely due to Alexander becoming more and more "`Eastern,`" and his resentment of Aristotle publishing what he learned (which meant that it was no longer solely Alexander's intellectual property)
+
+=== Hellenization
+
+The most important effect Aristotle's influence on Alexander for our purposes here was Alexander's passion for the Hellenization ("`Greek-ifying`") of the areas he conquered
+
+It was because of that Hellenization that all of the books of the New Testament were written in Greek
+
+=== To the Ends of the Earth
+
+The unification of trade, language, systems of thought, politics, and the like -- later taken advantage of and extended by the Romans -- was the reason that the Gospel was able to spread so far and so fast
+
+Just as God used Plato's philosophy to start "`prepping`" the gentile nations to hear the Gospel, He used Aristotle and Alexander to "`prepare`" the world to make the spread of the Gospel far faster and effective than ever before possible
+
+== Formal Logic
+
+image::Quadratic_formula.svg[alt="https://commons.wikimedia.org/wiki/File:Quadratic_formula.svg"]
+
+=== Developing Logic
+
+Perhaps his single most fundamental contribution to Western thought is his development of formal logic
+
+Obviously, people were using logic before him (just as they were using gravity before Newton), but Aristotle identified what is involved with logic and what is the proper use of logic (specifically around "`deduction`")
 
 === Two Primary Principles
 
-The two most important aspects of what he identified for our purposes are: the Law of Non-Contradiction, and that logic says nothing about whether something is true or false, only if it is valid or invalid.
+The two most important aspects of what he identified for our purposes are:
+
+* the Law of Non-Contradiction
+* logic says nothing about whether something is **true** or **false**, only if it is **valid** or **invalid**
 
 === The Law of Non-Contradiction
 
-The Law of Non-Contradiction is simply the way you can test to see if something is a contradiction. We won't go into much detail, but it says, "`P (object) can not be Q (description) and not Q at the same T (time) and in the same R (relationship).`" (Logic is a sub-discipline of Mathematics, so mathematical notation is often used.)
+The Law of Non-Contradiction is simply the way you can test to see if something is a contradiction
+
+We won't go into much detail, but it says, "`P (object) can not be Q (description) and not Q at the same T (time) and in the same R (relationship)`"
+
+[.small]
+(Logic is closely related to Mathematics, so mathematical notation is often used)
 
 === Non-Contradiction Example
 
-For example, take a statement like "`The apple is red and not red at this particular spot on the apple.`" If you substitute "`the apple`" for P and "`red`" for Q and "`at this particular part of the apple`" for R, then you get "`The apple can not be red and not red at the same time at this particular part of the apple.`" The apple was green (not red) at one time, so the "`at the same time`" part of the test is important. So the original statement may have been odd, but not a contradiction.
+For example, take a statement like "`The tomato is red and not red at this particular spot on the tomato`"
+
+If you substitute "`the tomato`" for P and "`red`" for Q and "`at this particular part of the tomanto`" for R, then you get "`The tomato can not be red and not red at the same time at this particular part of the tomato`"
+
+=== Red Green Tomato
+
+image::tomatoes.jpg[role="right",alt="http://www.rgbstock.com/bigphoto/n2fnFiE/ripening+tomatoes"]
+The tomato was green (not red) at one time, so the "`at the same time`" part of the test is important
+
+So the original statement may have been odd, but **not a contradiction**
 
 === Another Non-Contradiction Example
 
-Another example would be "`John is happy and sad right now about passing his college entrance tests.`" That seems like a contradiction, but it's not because R is so ambiguous. He could be, for example, happy because he'll be able to go to his favorite school, but sad because he'll be leaving home and won't see his grade-school friends any more.
+Another example would be "`John is happy and sad right now about passing his college entrance tests`"
+
+That seems like a contradiction, but it's not because R is so ambiguous -- he could be happy because he'll be able to go to his favorite school, but sad because he'll be leaving home and won't see his grade-school friends any more
 
 === Paradox vs Contradiction
 
-When something seems like a contradiction but isn't, it's known as a paradox. Contradictions are always nonsense. Some people think that Christianity is filled with contradictions, but if that were the case, then Christianity would be nonsense. Instead, it's filled with paradoxes and mysteries.
+When something seems like a contradiction but isn't, it's known as a "`paradox`"
+
+Contradictions are **always** nonsense
+
+=== Christian Contradictions?
+
+Some people think that Christianity is filled with contradictions, but if that were the case, then Christianity would be nonsense
+
+Instead, it's filled with paradoxes and mysteries
 
 === "`Simul Iustus et Peccator`"
 
-An example of a Christian paradox is Luther's saying, "`We are at the same time saints and sinners.`" It sounds like a contradiction, but it isn't. Why?
+An example of a Christian paradox is Luther's saying, "`We are at the same time saints and sinners`"
 
-=== The Great Paradox of the Christian
+It sounds like a contradiction, but it isn't. Why?
 
-We, obviously, are sinners, but at the same time we have been given the righteousness of Christ and are therefore accounted with His righteousness – making us saints.
+[.answer.fragment]
+--
+The Great Paradox of the Christian is that we, obviously, are sinners. However at the same time we have been given the righteousness of Christ, and are therefore accounted with His righteousness -- making us saints
+--
 
 === Christ's Paradoxical Nature
 
@@ -683,53 +759,164 @@ As we said with Augustine, there are never contradictions with God; if you find 
 
 === Valid or Invalid
 
-The second vital lesson we need to understand from Aristotle's logic is that logic can never tell you if something is true or not, only that it is valid or invalid. One of the most common forms of logical argument is the syllogism, or the "`this and this (the predicates), therefore this (the conclusion)`" argument. (Or, more formally, "`S = M, M = P => S = P`")
+The second vital lesson we need to understand from Aristotle's logic is that logic can never tell you if something is true or not, only that it is valid or invalid
+
+=== Syllogism
+
+One of the most common forms of logical argument is the syllogism, or the "`this and this (the predicates), therefore that (the conclusion)`" argument
+
+(Or, more formally, "`A = B, B = C => A = C`")
 
 === Valid And True
 
-For example, "`All dogs are mammals and all mammals are animals, therefore all dogs are animals.`" Both predicates are true and the argument is valid, therefore the conclusion must be true.
+For example, "`All dogs are mammals and all mammals are animals, therefore all dogs are animals`"
+
+Both predicates are true and the argument is valid, therefore the conclusion **must** be true
 
 === Valid But Wrong
 
-However, you can say, "`All dogs are birds and all birds are animals, therefore all dogs are animals.`" The argument is valid, but the first predicate is false, therefore you know nothing about the conclusion.
+However, you can say, "`All dogs are birds and all birds are animals, therefore all dogs are animals`"
+
+The argument is valid, but the first predicate is false, therefore you **know nothing** about the conclusion
 
 === Invalid and False -- Simply Nonsense
 
-On the other hand, you can say, "`All dogs are birds and all birds are plants, therefore all dogs are stone.`" The argument is invalid and the predicates are false, so it's simply a nonsense statement.
+On the other hand, you can say, "`All dogs are birds and all birds are plants, therefore all dogs are stone`"
+
+The argument is invalid and the predicates are false, so it's simply a nonsense statement
 
 === Invalid But True
 
-If you try, "`All dogs are mammals and all birds are animals, therefore all dogs are animals,`" then you have both predicates being true, but the argument is invalid, so there is no way of knowing from the argument if the conclusion is true or not.
+If you try, "`All dogs are mammals and all birds are animals, therefore all dogs are animals,`" then you have both predicates being true, but the argument is invalid
+
+There is no way of knowing from the argument if the conclusion is true or not
 
 === Strengths And Weaknesses of Logic
 
-The point I'm trying to make here is that this kind of thing is critical to understanding logic – you have to know what it's good at and understand its weaknesses. If, in the case of the syllogism, you know you have a valid argument and you are absolutely certain of the truth of the predicates, then you can be absolutely certain on the conclusion. The certainty of the conclusion is exactly equal to the certainty of the truth of the predicates. However, if the argument is invalid, then the truth or falsity of the predicates has nothing to do with whether or not the conclusion is true. Logic only has power when it's valid; otherwise it's absolutely impotent.
+You have to understand what logic good at, and understand its weaknesses
+
+If, in the case of the syllogism, you know you have a valid argument and you are absolutely certain of the truth of the predicates, then you can be absolutely certain of the conclusion
+
+For a valid argument, the certainty of the conclusion is _**exactly equal**_ to the certainty of the truth of the predicates
+
+=== Invalid Arguments
+
+However, if the argument is invalid, then the truth or falsity of the predicates has nothing to do with whether or not the conclusion is true
+
+Logic only has power when it's valid; otherwise it's absolutely impotent
 
 === Not Proven
 
-This is an extremely misunderstood aspect of logic, because people will very commonly argue for or against some point but not be careful about whether or not the argument is valid. The conclusion may by true, but they have not proven it to be so. People get the other direction mixed up all the time too, where just because someone uses an invalid argument, the invalid argument does not prove that their conclusion is false. (However, it does prove that they haven't proven anything.)
+This is an extremely misunderstood aspect of logic, because people will very commonly argue for or against some point, but not be careful about whether or not the argument is valid
+
+The conclusion may by true, but they have not proven it to be so
+
+People get the other direction mixed up all the time too: just because someone uses an invalid argument, the invalid argument does not prove that their conclusion is false
+
+[.small]
+(However, it does prove that they haven't proven anything)
 
 === Formal Discipline
 
-What should also be plain from this is that logic is a "`formal`" discipline, where "`formal`" is taken literally – logic is concerned entirely with the form of the argument, and while it never adds any content to what is known, it does help put it in a more useful form. (For example: "`God redeemed all sinners. I am a sinner. Therefore, God redeemed me.`" There is nothing new in the conclusion, but it's certainly good to know that God redeemed me, which isn't obvious from the previous two statements.)
+What should also be plain from this is that logic is a "`formal`" discipline, where "`formal`" is taken literally
 
-=== Matter, Form and Substance
+Logic is concerned entirely with the form of the argument, and while it never adds any _**content**_ to what is known, it does help put it in a more useful form
 
-Aristotle's way of unifying the Forms of Plato and the world around us, Aristotle said that substance is the fusion of matter and form. A chair, then, is wood made into the form of a chair. Sounds pretty obvious, but this makes for a dramatic acknowledgement of – and departure from – Plato. It affirms the idea that there are forms that define the essential nature of something, which is exactly what Plato taught. However, Aristotle is also saying that the forms aren't an "`other worldly`" kind of thing – they only exist insofar as they become substance in matter.
+=== A Very "`Lutheran`" Use of Logic
+
+* God redeemed all sinners
+* I am a sinner
+* => Therefore, God redeemed me
+
+There is nothing new in the conclusion, but it's certainly good to know that God redeemed me, which isn't obvious from the previous two statements
+
+[NOTE.speaker]
+It is largely because of the incorperation of logic into the language that Greek is a much "`richer`" language, not relying so heavily on the heavy use of repitition and imagery of Hebrew
+
+== Matter, Form and Substance
+
+image::Fractio-panis1.JPG[alt="https://commons.wikimedia.org/wiki/File:Fractio-panis1.JPG"]
+
+=== Unifying Forms and the World
+
+image::640px-Swedish_Windsor_Chairs.jpg[alt="http://commons.wikimedia.org/wiki/File:Swedish_Windsor_Chairs.jpg",role="right",height="300px"]
+
+Unifying the Forms of Plato and the world around us, Aristotle said that "`substance`" is the fusion of matter and form
+
+A chair, then, is wood made into the Form of a chair
+
+=== With and Against Plato
+
+Sounds pretty obvious, but this makes for a dramatic acknowledgement of -- and departure from -- Plato
+
+It affirms the idea that there are forms that define the essential nature of something, which is exactly what Plato taught
+
+However, Aristotle is also saying that the forms aren't an "`other worldly`" kind of thing -- they only exist insofar as they become substance in matter
 
 === The Categories
 
-Aristotle broke down all of language about things into ten basic categories: Substance, quality (not good or bad, but color, height, etc.), quantity, relation, place, time, position, state, action and affection. Substance is the essential nature of a thing, while the rest are descriptions – what are known as "`accidens`" – of the particulars of that instance of the substance. "`The blue wooden chair`" describes a thing, where the substance is "`chairness`" and the accidens are "`blue`" and "`wooden.`" Red chairs, metal chairs, three-legged chairs, etc. all share the same substratum of chairness, but you can only know that a chair exists because of its accidens. The "`substance`" is what stands under all of its accidens. ("`sub`" – under, "`stance`" – position)
+Aristotle broke down all of language about things into ten basic categories:
+
+* substance
+* quality (not "`good or bad`", but color, height, etc.)
+* quantity
+* relation
+* place
+* time
+* position
+* state
+* action
+* affection
+
+=== Essential vs Accidental
+
+Substance is the _**essential**_ nature of a thing
+
+The rest are descriptions -- what are known as "`accidens`" -- of the particulars of that instance of the substance
+
+=== The Blue Chair
+
+"`The blue wooden chair`" describes a thing: the substance is "`chairness`" and the accidens are "`blue`" and "`wooden`"
+
+Red chairs, metal chairs, three-legged chairs, etc. all share the same substratum of chairness, but you can only know that a chair exists because of its accidens
+
+=== What Underlies It All
+
+The "`substance`" is what stands under (underlies) all of its accidens
+
+*"`sub`" – under, "`stance`" – position*
 
 === Transubstantiation
 
-Aristotle's language of `substance` and `accidens` has been used by the Church to describe many theological concepts. For example, transubstantiation (literally, "`change in substance`") is the name of the Roman Catholic doctrine that the bread and wine become the body and blood of Christ. While what is distributed during the Eucharist tastes, feels, looks, smells, etc. like bread and wine, the substance of it is the body and blood of Christ. In other words, while the accidens do not change, the essential natures of the materials do.
+Aristotle's language of '`substance`' and '`accidens`' has been used by the Church to describe many theological concepts
+
+For example, transubstantiation (literally, "`change in substance`") is the name of the Roman Catholic doctrine that the bread and wine _**become**_ the body and blood of Christ
+
+=== The Eucharist
+
+While what is distributed during the Eucharist tastes, feels, looks, smells, etc. like bread and wine, the "`substance`" of it is the body and blood of Christ
+
+In other words, while the "`accidens`" do not change, the _**essential nature**_ of the bread and wine does change
+
+=== Aristotle Would Not Approve
+
+For what it's worth, Aristotle would not have approved of this use of his ideas
+
+The substance is manifested through its matter (which is what has the accidens)
+
+An oak tree has wood because it is part of its essential nature to have wood -- take away the wood and you no longer have an oak tree
 
 === Miracle of the Mass
 
-Aristotle would not have approved of this use of his ideas. The substance is manifested through its matter (which is what has the accidens). An oak tree has wood because it is part of its essential nature to have wood – take away the wood and you no longer have an oak tree. Flesh and blood that does not taste, smell, feel, etc. like flesh and blood is not flesh and blood. Rome, of course, recognizes this and says that it's part of the miracle of the Mass that God breaks that link between the accidens and the substance of Christ's body and blood.
+Flesh and blood that does not taste, smell, feel, etc. like flesh and blood is not flesh and blood
 
-=== Causality
+Rome, of course, recognizes this and says that it's part of the miracle of the Mass that God breaks that link between the accidens and the substance of Christ's body and blood
+
+== Causality
+
+image::439px-The_Ancient_of_Days.jpg[]
+
+=== The Cause of Effects
 
 Aristotle identified four things that are the cause of every effect. These are:
 
@@ -740,94 +927,185 @@ Aristotle identified four things that are the cause of every effect. These are:
 
 === Statue Cause
 
-For example, a statue is carved. The material cause is the stone; the formal cause was that of the shape in the artist's mind; the efficient cause was the chiseling; and the final cause was the desire of the artist's for something beautiful.
+For example, a statue is carved
+
+* *material cause* - the stone
+* *formal cause* - the shape in the artist's mind
+* *efficient cause* - the chiseling
+* *final cause* - the desire of the artist for something beautiful
 
 === Avalanche Cause
 
-As another example, say there's an avalanche. The material cause was the snow; the formal cause was the slope; the efficient cause was the vibrating that loosened it; and the final cause was the snow's desire to be closer to the earth.
+As another example, say there's an avalanche
+
+The material cause was the snow; the formal cause was the slope; the efficient cause was the vibrating that loosened it; and the final cause was the snow's desire to be closer to the earth
 
 === Teleology
 
-Something's "`final cause`" – or its "`purpose`" – is known as its teleology. In modern thought, teleology still makes perfect sense to people when talking about things like "`Why did he do that?`" When you have a thinking agent doing something we often consider the reason it was done. However, while Aristotle obviously didn't think that rocks and air had the capability of thought, he did say, "`Nature does not act without a goal.`"
+Something's "`final cause`" -- or its "`purpose`" -- is known as its _teleology_
+
+In modern thought, teleology still makes perfect sense to people when talking about things like "`Why did he do that?`"
+
+When you have a thinking agent doing something we often consider the reason it was done
+
+=== Nature's Goal
+
+However, while Aristotle obviously didn't think that rocks and air had the capability of thought, he did say, "`Nature does not act without a goal`"
 
 === A Thing's Nature
 
-Rocks and other solids fall because it is in their nature to come as close as possible to the solid Earth. Fire, the least material of all the elements (remember they thought there were four elements: earth, water, air and fire), continually tries to go up because it wants to be with the heavenly fires (the stars).
+Rocks and other solids fall because it is in their nature to come as close as possible to the solid Earth
+
+Fire, the least material of all the elements (remember they thought there were four elements: earth, water, air and fire), continually tries to go up because it wants to be with the heavenly fires (the stars)
 
 === Useful Causes for Everything
 
-Everything could be (and was) explained in terms of these four causes – from "`Why is the sky blue?`" to "`Why did "`Why did she get sick?`" to "`Why did France invade Spain?`"
+Everything could be (and was) explained in terms of these four causes
+
+From "`Why is the sky blue?`" to "`Why did "`Why did she get sick?`" to "`Why did France invade Spain?`"
 
 === Fits Perfectly With Christian Doctrine
 
 Christians took the idea of teleology and ran with it...
 
-What Christian doctrine says that there's a reason why every blade of grass grows and nations are ruled as they are?
+What Christian doctrine says that there's a Reason why every blade of grass grows and nations are ruled as they are?
 
-=== Divine Providence
+[.answer.fragment]
+--
+"`Divine Providence`" is the doctrine that God is omnipotent and involved in every aspect of His creation
 
-...the doctrine that God is omnipotent and involved in every aspect of His creation.
+God and His creation does not act without a goal
+--
+
+== The Unmoved Mover
+
+image::3_creation.jpg[height="500"]
 
 === Potentiality, Actuality, and the Unmoved Mover
 
-An acorn is "`actually`" an acorn, but "`potentially`" an oak tree. When it becomes an oak tree, that aspect of its "`potentiality`" and "`actuality`" become the same. Oil is flammable because it can catch fire (its "`potentiality`"), not because it is burning (its "`actuality`").
+An acorn is "`actually`" an acorn, but "`potentially`" an oak tree
 
-=== Actuality Precedes potentiality
+When it becomes an oak tree, that aspect of its "`potentiality`" and "`actuality`" become the same
 
-Actuality must precede potentiality. There can be no such thing as pure or absolute potentiality
+Oil is flammable because it _**can**_ catch fire (its "`potentiality`"), not because it _**is**_ burning (its "`actuality`")
+
+=== Actuality Precedes Potentiality
+
+Actuality must **precede** potentiality
+
+There can be no such thing as pure or absolute potentiality
 
 Such a "`thing`" would be *potentially* everything, but it would be *actually* nothing
 
-=== The Unmoved Mover
+=== Aristotle's God
 
-However, Aristotle argued that there must be something that is pure actuality with no potentiality – a being with no unrealized potential. A being with no potentiality and with pure actuality, since it cannot change, must also have no motion, according to Aristotle. This is Aristotle's "`god,`" the famous "`unmoved mover`" that is the source of all movement in the universe.
+However, Aristotle argued that there must be something that is _**pure actuality with no potentiality**_ -- a being with no unrealized potential
+
+A being with no potentiality and with pure actuality, since it cannot change, must also have no motion
+
+This is Aristotle's "`god,`" the famous "`unmoved mover`" that is the source of all movement in the universe
 
 === Ultimate Cause
 
-An "`unmoved mover`" is a logical necessity, and it's the same idea that people use when using the "`what's caused that?`" argument for God. ("`Why did that happen? Well, because this happened. What caused that? This did. What caused that? This did. What caused that? ... God did.`" What happens is even if you say, "`I don't know what caused that, but something did`" you'd still have the problem of what caused that something. You get caught in an "`infinite regress,`" where the questions can continue an infinite number of times. The only way to break the series is to have a cause that is not caused by anything else -- the unmoved mover.)
+An "`unmoved mover`", or "`ultimate cause`" is a logical necessity, and it's the same basis that people use when using the "`causasian`" argument for God
 
-=== Attraction
+[.small]
+("`Why did that happen? Well, because this happened. What caused that? This did. What caused that? This did. What caused that? ... God did.`" What happens is even if you say, "`I don't know what caused that, but something did`" you'd still have the problem of what caused that something. You get caught in an "`infinite regress,`" where the questions can continue an infinite number of times. The only way to break the series is to have a cause that is not caused by anything else -- the unmoved mover.)
 
-If you're wondering how an unmoved mover can move something without moving itself, the answer is that it attracts things to it, like a magnet. A magnet doesn't have to move to draw things to itself, so too with the unmoved mover.
+[NOTE.speaker]
+--
+If you're wondering how an unmoved mover can move something without moving itself, the answer is that it attracts things to it, like a magnet
+
+A magnet doesn't have to move to draw things to itself, so too with the unmoved mover
+--
 
 === Not Quite Jehovah
 
-Like Plato's Forms, Aristotle's "`god`" had some obvious similarities to Jehovah, but never quite "`got there.`" It's the final teleological purpose of everything, causing everything to happen, but does not engage in the world itself. Here we see the unmoved mover's clearest difference with the Christian God, who is actively involved in what happens in His creation.
+Like Plato's Forms, Aristotle's "`god`" had some obvious similarities to Jehovah, but never quite "`got there`"
+
+It's the final teleological purpose of everything, causing everything to happen, but does not engage in the world itself
+
+Here we see the unmoved mover's clearest difference with the Christian God, who is actively involved in what happens in His creation
+
+=== God Has Been Clearly Seen
+
+This is yet another example of what Paul talks about in https://www.biblegateway.com/passage/?search=Romans+1:19-22&version=NIV[Romans 1:19-22]...
+
 
 == The Rise of Islam
 
+image::Allah1_no_honorific.png[alt="https://en.wikipedia.org/wiki/File:Allah1_no_honorific.png"]
+
 === Muhammad's Revelations
 
-During the second half of the 7th Century, Muhammad ibn Abd-Allaah ibn Abd al-Muttalib al-Haashimi al-Qurashi (henceforth known simply as Muhammad) gave what he said was a series of revelations from God. These were collected together to form the Qur'aan, which acts as Islam's scripture.
+image::Mohammed_receiving_revelation_from_the_angel_Gabriel.jpg[role="left",alt="https://commons.wikimedia.org/wiki/File:Mohammed_receiving_revelation_from_the_angel_Gabriel.jpg"]
+
+During the early half of the 7th Century, Muhammad ibn Abd-Allaah ibn Abd al-Muttalib al-Haashimi al-Qurashi (henceforth known simply as Muhammad, 570-632 AD) gave what he said was a series of revelations from God
+
+These were collected together to form the Quran (القرآن -- "`recitation`"), which acts as Islam's scripture
 
 === "`People of the Book`"
 
-Islam develops from much of the same "`tradition`" as Judaism and Christianity, and considers Jews and Christians to be "`People of the Book.`" Put (far too) simply, Islam teaches that Jews and Christians had also received revelation from God, but in its transmission from prophets like Moses and Jesus, it was corrupted by the time it was written down and assimilated as part of the community. So while "`The People of the Book`" have a largely correct revelation, it is faulty and needs to be corrected with the uncorrupted teachings of the Qur'aan. When Muhammad received his revelation it was a literal dictation of God through the angel Gabriel through Muhammad to the Qur'aan.
+Islam develops from much of the same "`tradition`" as Judaism and Christianity, and considers Jews and Christians to be "`People of the Book`"
+
+Put (far too) simply, Islam teaches that Jews and Christians had also received revelation from God, but in its transmission from prophets like Moses and Jesus, it was corrupted by the time it was written down and assimilated as part of the community
+
+=== Tahrif
+
+So while "`The People of the Book`" have a largely correct revelation, it is faulty and needs to be corrected with the uncorrupted teachings of the Quran (c.f. http://al-quran.info/#3:110/11NbN0[Quran 3:110], http://al-quran.info/#3:113/11NbN0[Quran 3:113], http://al-quran.info/#3:199/11NbN0[Quran 3:199])
+
+Taḥrīf (تحريف‎ -- "`distortion, alteration`") is the "`alterations`" which Jews and Christians have made to Biblical manuscripts
+
+=== Religious Toleration
+
+"`Officially`" by sharia law, Christians and Jews are afforded basic legal protections, including the right to practice their religion privately, as long as they also do the things required of Muslim citizens
+
+That said, in practice it's been as "`creatively interpretted`" as many Christian doctrines
+
+On the whole over history they have been better to Christians in their lands than Christians (especially Western Christians) have been to Muslims in their lands
+
+Sadly that is a very, *very*, **VERY** low bar
+
+=== The Recitation
+
+image::Quran2.png[role="right",alt="https://commons.wikimedia.org/wiki/File:Quran2.png"]
+
+When Muhammad received his revelation it was a literal dictation of God through the angel Gabriel through Muhammad to the Quran
 
 === Inspiration
 
-That's a significant difference from Jewish/Christian doctrine on the Bible, which says that the Bible is the "`inspired`" Word of God, where God "`moved`" the writers to write what He wanted them to say, but they often used their own words to say it. By Islamic doctrine, the Qur'aan has the literal words of God – a straight dictation from God. That's also why if you see any Islamic quoting of the Qur'aan in any language but Arabic, they are careful to say that it is an "`interpretation of the meaning.`" Even though most of the world's Muslims are not Arabic, the Arabic language holds tremendous significance to all Muslims since that is the language that God chose to speak to humanity.
+That's a significant difference from Jewish/Christian doctrine on the Bible, which says that the Bible is the "`inspired`" Word of God, where God "`moved`" the writers to write what He wanted them to say, but they often used their own words to say it
 
-=== Legal Toleration
+=== Interpretation of the Meaning
 
-The classifying of Jews and Christians as "`The People of the Book`" means that under Islamic Law (not necessarily the laws of a particular Islamic community) Jews and Christians are given a great deal of legal and religious protection, though they are of course expected to respect Islamic practices. Implementation of this principle has varied greatly over the years, but on the whole, the Muslims are correct in their charge that they have always been vastly more "`tolerant`" of Christians and Jews living in their communities than Christians and Jews have been of Muslims. (Sadly, that's a pitiful standard to be judged against.) However, with both sides seeing the other as being bent on destroying the other's religious beliefs, there have always been enormous and bloody conflicts between the two sides.
+That's why if you see any Islamic quoting of the Quran in any language but Arabic, they are careful to say that it is an "`interpretation of the meaning`"
+
+Even though most of the world's Muslims are not Arabic, the Arabic language holds tremendous significance to all Muslims since that is the language that God chose to speak to humanity
 
 === Growth of Islam
 
-Today, there is roughly the same number of Muslims as there are Christians (using the qualification of what people classify themselves as) or about one billion each, though Islam is reportedly growing faster. In modern times, Islam is primarily focused in the Middle East, much of Africa, southern Asia, and Indonesia. Islam has "`conquered`" the East, while Christianity has "`conquered`" the West.
+Today, there is roughly the same number of Muslims as there are Christians (using the qualification of what people classify themselves as) or about one billion each, though Islam is reportedly growing faster
 
-=== Islamic Living Standards
+In modern times, Islam is primarily focused in the Middle East, much of Africa, southern Asia, and Indonesia
 
-While Europe was still trying to recover from the crippling blow caused by the fall of the Roman Empire, the Islamic nations were growing and prospering. This came as quite the blow to European pride when, during the various Crusades against the "`heathen dogs`", the Europeans noted that those "`dogs`" had running water, vast libraries, and other marvels that they wouldn't have dared dream about. The average Arab had a standard of living that most kings in Europe at the time would envy. The level of literacy, standard of living, etc. was still horrid by modern American standards, but at the time it was the best in the world (with the possible exception of the Chinese).
+[.small]
+The "`Far East`" is still largely defined by the result of the largest and fastest growing empire in history (until the British): the Mongolian Empire, which conquored a huge portion of the world in the 13th century
 
-=== Conquerors
+=== Golden Age of Islam
 
-However, while the general level of technology was much better in Middle East and Africa, the Europeans were masters at killings each other, so military technology was often in the European's favor. This caused almost a thousand years of conflicts going back and forth, but generally a stalemate. But when the Scientific Revolution swept over Europe, technology grew so fast that very quickly there was simply no longer much of a contest. Until that time, though, Islam and Christianity were often seen as the other's most formidable enemy, which shaped a great deal of the history of what happened to both groups.
+image::Maqamat_hariri.jpg[role="right",alt="https://en.wikipedia.org/wiki/File:Maqamat_hariri.jpg"]
+
+From the 8th to the 13th century (when Baghdad fell to the Monguls) the Muslim world was effectively united under caliphates, allowing a flurishing of culture and science
+
+The oldest degree-granting university is in Moroco from 859 AD. It was during this time that we got foundations of modern hospitals (including requiring medical diplomas, universal coverage, vaccines, Hippocratic oaths, and care for the mentally ill), modern mathematics (e.g., as algebra, which which is vastly more powerful than the Greek and Egyptian geometry; "`Arabic numbers`"), what we would recognize as science (e.g., The Book of Optics, 1021, with a strong emphasis on experimentation/induction and skepticism), etc.
 
 === Intended for Evil, God Used for Good
 
-The Reformation, for example, very likely would not have had a chance to develop to the degree that it did (similar "`flare-ups`" had happened many times before) if it wasn't for the fact that the Catholic kings diverted most of their resources toward fighting a Turkish (Muslim) invasion, which they saw as being much more threatening than what Luther and the rest were doing. By the time they could turn their attention back to the Reformation, it had essentially reached critical mass and could no longer be stopped.
+The Reformation, for example, would not have had a chance to develop to the degree that it did if it wasn't for the fact that the Catholic kings diverted most of their resources toward fighting a Turkish (Muslim) invasion, which they saw as being much more threatening (with very good reason) than what Luther and the rest were doing
 
+By the time they could turn their attention back to the Reformation, it had essentially reached critical mass and could no longer be stopped
+
+////
 
 == The "`Doctor Angelicus`"
 

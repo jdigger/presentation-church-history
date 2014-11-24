@@ -37,8 +37,10 @@ div.quote {
     }
 }
 
-p.cc-license {
-  font-size: 15px;
+div.cc-license {
+  padding-top: $line-height * 3;
+  font-size: $line-height / 2;
+  line-height: $line-height / 2;
 }
 
 p.note {
@@ -66,6 +68,10 @@ div.quoteblock {
   div.paragraph {
     margin-bottom: 0px;
   }
+}
+
+div.ulist {
+  margin-bottom: $line-height;
 }
 
 p.strong {
@@ -165,6 +171,18 @@ div.slides section {
 section.summary p {
     font-size: 200%;
     font-weight: bold;
+}
+
+// ********************
+//
+// Specific slides
+//
+// ********************
+
+section#_the_categories ul {
+  column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
 }
 
 // To highlight a border:
