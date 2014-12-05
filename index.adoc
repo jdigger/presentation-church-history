@@ -3,13 +3,12 @@ The Christian Church Since the Time of the Apostles
 :backend: revealjs
 :revealjs_controls: true
 :revealjs_history: true
+:revealjs_slidenumber: true
 :icons: font
 :revealjs_customcss: reveal.js/css/preso.css
 :revealjs_width: 1300
 :revealjs_height: 750
 :warn: icon:warning[]
-:start-frag: pass:[<div class="fragment">]
-:end-frag: pass:[</div>]
 
 == Intro
 
@@ -311,7 +310,7 @@ The church sanctioned its use -- though priests were absolutely forbidden to be 
 
 Confessions could not be taken while being tortured, but the next day
 
-Torture could, according to the church, continue to be used even **after** the confession due to its "`purgative`" powers, purging evil from the soul in much the same way that burning did
+Torture could, according to the church, continue to be used even *after* the confession due to its "`purgative`" powers, purging evil from the soul in much the same way that burning did
 
 === Burning
 
@@ -565,7 +564,7 @@ In the East it led to an emphasis on mysticism, where a pure and ascetic life br
 
 Related to that draw toward mysticism is the East's special emphasis on the books of the New Testament written by John (i.e., The Gospel of John, 1 John, 2 John, 3 John, Revelation)
 
-A practical consequence of this emphasis is that Jesus is seen much more as the **King of Kings** and **Judge of the Universe**
+A practical consequence of this emphasis is that Jesus is seen much more as the *King of Kings* and *Judge of the Universe*
 
 === Prevalence of the Holy Spirit
 
@@ -698,7 +697,7 @@ Obviously, people were using logic before him (just as they were using gravity b
 The two most important aspects of what he identified for our purposes are:
 
 * the Law of Non-Contradiction
-* logic says nothing about whether something is **true** or **false**, only if it is **valid** or **invalid**
+* logic says nothing about whether something is *true* or *false*, only if it is *valid* or *invalid*
 
 === The Law of Non-Contradiction
 
@@ -720,7 +719,7 @@ If you substitute "`the tomato`" for P and "`red`" for Q and "`at this particula
 image::tomatoes.jpg[role="right",alt="http://www.rgbstock.com/bigphoto/n2fnFiE/ripening+tomatoes"]
 The tomato was green (not red) at one time, so the "`at the same time`" part of the test is important
 
-So the original statement may have been odd, but **not a contradiction**
+So the original statement may have been odd, but *not a contradiction*
 
 === Another Non-Contradiction Example
 
@@ -732,7 +731,7 @@ That seems like a contradiction, but it's not because R is so ambiguous -- he co
 
 When something seems like a contradiction but isn't, it's known as a "`paradox`"
 
-Contradictions are **always** nonsense
+Contradictions are *always* nonsense
 
 === Christian Contradictions?
 
@@ -771,13 +770,13 @@ One of the most common forms of logical argument is the syllogism, or the "`this
 
 For example, "`All dogs are mammals and all mammals are animals, therefore all dogs are animals`"
 
-Both predicates are true and the argument is valid, therefore the conclusion **must** be true
+Both predicates are true and the argument is valid, therefore the conclusion *must* be true
 
 === Valid But Wrong
 
 However, you can say, "`All dogs are birds and all birds are animals, therefore all dogs are animals`"
 
-The argument is valid, but the first predicate is false, therefore you **know nothing** about the conclusion
+The argument is valid, but the first predicate is false, therefore you *know nothing* about the conclusion
 
 === Invalid and False -- Simply Nonsense
 
@@ -991,7 +990,7 @@ Oil is flammable because it _**can**_ catch fire (its "`potentiality`"), not bec
 
 === Actuality Precedes Potentiality
 
-Actuality must **precede** potentiality
+Actuality must *precede* potentiality
 
 There can be no such thing as pure or absolute potentiality
 
@@ -1064,7 +1063,7 @@ That said, in practice it's been as "`creatively interpretted`" as many Christia
 
 On the whole over history they have been better to Christians in their lands than Christians (especially Western Christians) have been to Muslims in their lands
 
-Sadly that is a very, *very*, **VERY** low bar
+Sadly that is a very, *very*, *VERY* low bar
 
 === The Recitation
 
@@ -1105,136 +1104,319 @@ The Reformation, for example, would not have had a chance to develop to the degr
 
 By the time they could turn their attention back to the Reformation, it had essentially reached critical mass and could no longer be stopped
 
-////
 
 == The "`Doctor Angelicus`"
 
-=== Muslims Simply Knew More
+image::309px-Carlo_Crivelli_007.jpg[alt="https://commons.wikimedia.org/wiki/File:Carlo_Crivelli_007.jpg"]
 
-While there were a few bright spots, in general, learning and trying to do much more than eek-out a life of subsistence was virtually non-existent after Augustine. (Which, remember, was also the end of the Roman Empire.) Philosophy – both Christian and Islamic – was primarily Platonist, but during the 12th century Averroës built upon the work of Avicenna, creating a strong synthesis between Aristotle and Islam. Interaction between Arabs and Christians caused Christian Europe to become aware of the compelling weight of what was done, and it started to present a very serious threat to the Christian Church. What could be said when it was becoming plain that the Muslims had much more effective explanations of the world around us than the Christians did?
+=== Averroës
+
+During the 12th century Averroës built upon the work of Avicenna, creating a strong synthesis between Aristotle and Islam
+
+Averroës`' work began to make its way into European universities, but it was unclear how everything "`fit`" in a Christian worldview
 
 === St. Thomas Aquinas
 
-It was in this environment that St. Thomas Aquinas, a Dominican monk, worked. He looked at what the Muslims had done and "`Christianized`" it. He was initially condemned for doing so, especially since people knew very well that it was the Muslims that had incorporated Aristotle first and were therefore very skeptical of it. However, the fact of the matter was that what Aquinas put forward worked far better than anything else, and it's hard to argue with continual success. His ideas gained tremendous popularity, becoming what would be known as Aristotelian Scholasticism. (A fancy term for the fact that it was based on learning gained from the study of Aristotle.) Aristotelian Scholasticism will be talked about later, but it's worth noting here that it dominated European thought from the end of the Thirteenth Century until the Scientific Revolution. Aristotelian Scholasticism laid the groundwork for the Enlightenment and was what the Enlightenment was directly fighting against. Aquinas was later canonized, and many of his works were declared (in 1879) to be official Catholic teaching.
+It was in this environment that St. Thomas Aquinas (1225 - 7 March 1274), a Dominican monk, worked
+
+An introverted scholar, his brilliance is -- even among his fiercest critics -- truly astounding
+
+Aquinas died on his way to the Second Council of Lyon in an attempt to reunify the Eastern and Western Church
+
+=== Aquinas vs Averroës
+
+Among many other accomplishments, he looked at what the Muslims had done and "`Christianized`" it
+
+While Aquinas leaned heavily on Averroës`' work, a tremendous amount of what Aquinas was doing what showing that was Aristotle had said was more in line with Christian doctrine than Islam
+
+=== The Sumas
+
+His two most significant works are "`Summa contra Gentiles`" and "`Summa Theologica`" -- both excedingly comprehensive writings on Christian teachings; the first more for explaining Christianity to unbelievers, the latter for training seminary students
+
+_Summa Theologica_ is one of the official sources (as of 1879) for modern Catholic seminaries. Even though Protestants obviously have issues with some of the specific doctrines in it, it still is a basic reference in Protestant seminaries
+
+=== Creating Aristotelian Scholasticism
+
+His ideas gained tremendous popularity, becoming what would be known as Aristotelian Scholasticism. [small]#(A fancy term for the fact that it was based on learning gained from the study of Aristotle and became the standard of the scholars)#
+
+Aristotelian Scholasticism will be talked about later, but it's worth noting here that it dominated European thought for roughly *five hundred years*
+
+Aristotelian Scholasticism laid the groundwork for the Enlightenment -- and was what the Enlightenment was directly reacting to and fighting against
+
+
+== True But Not True
+
+image::contradictions_shutterstock_43598320_by_Vlue.jpg[]
 
 === Double Truth
 
-From The Consequences of Ideas (by R.C. Sproul), pages 68-69:
+[NOTE.speaker]
+Much of the next few slides are a reworking of "`The Consequences of Ideas`" (by R.C. Sproul), pages 68-69
 
-[.note]
---
-Muslim philosophers constructed a "`double truth`" theory, arguing that what is true in faith may be false in reason, what is true in philosophy may be false in theology, what is true in religion may be false in science, and vice versa. This intellectual schizophrenia separates nature and grace with a vengeance. It would be analogous to a modern Christian saying that from the vantage point of faith (grace), man is created by God in his image and for a purpose, a being with dignity because God has bestowed it on him, but that from the vantage point of reason (nature), man is a cosmic accident, a grown-up germ who emerged from the primordial slime and is destined for annihilation, a being with no dignity whatever. This confused believer affirms macroevolution from Monday to Saturday, but on Sunday worships the God of creation...<br/>Thomas believed that philosophy and theology play complementary roles in the quest for truth. Grace does not destroy nature, but fulfills it. Thomas saw clear boundaries between the two disciplines but found both necessary to understand reality comprehensively.
---
+Muslim philosophers constructed a "`double truth`" theory, arguing:
 
-=== Natural/Revealed Theology
+* what is true in faith may be false in reason (and vice-versa)
+* what is true in philosophy may be false in theology (and vice-versa)
+* what is true in religion may be false in science (and vice-versa)
 
-Aquinas distinguished between "`natural theology`" (science, reason, etc.) and "`reveled theology`" (Scripture). Some things can only be known from natural theology (e.g., why is the sky blue?), some only by reveled theology (e.g., "`This is a new covenant in my blood...`"), and some by either of the two (e.g., that God exists). He continually stressed that "`all truth is God's truth,`" so if something is true through one medium (e.g., science) then it is equally true through another (e.g., faith) – if there's a contradiction, then it's a problem with our understanding of one and/or the other, but what is true is not false.
+=== Intellectual Schizophrenia
+
+This separates Nature and Grace with a vengeance
+
+=== Modern Double Truth
+
+It would be analogous to a modern Christian saying that from the vantage point of faith (grace), man is created by God in his image and for a purpose; a being with dignity because God has bestowed it on him
+
+But that from the vantage point of reason (nature), man is a cosmic accident, a grown-up germ who emerged from the primordial slime and is destined for annihilation; a being with no dignity whatever
+
+=== Double Truth Confusion
+
+This confused believer affirms macroevolution from Monday to Saturday, but on Sunday worships the God of creation...
+
+=== Grace Fulfills Nature
+
+Thomas believed that philosophy and theology play complementary roles in the quest for truth
+
+Grace does not destroy nature, but fulfills it
+
+Thomas saw clear boundaries between the two disciplines but found both necessary to understand reality comprehensively
+
+
+== Natural and Revealed Theology
+
+image::20141105-flare-171-304_1.jpg[alt="http://www.nasa.gov/content/nasas-solar-dynamics-observatory-captures-intense-space-weather/"]
+
+
+=== Distinguishing Sources of Knowledge
+
+Aquinas distinguished between "`natural theology`" (science, reason, etc.) and "`reveled theology`" (Scripture)
+
+Some things can only be known from natural theology (e.g., why is the sky blue?), some only by reveled theology (e.g., "`This is a new covenant in my blood...`"), and some by either of the two (e.g., that God exists)
+
+=== All Truth Is God's Truth
+
+He continually stressed that "`all truth is God's truth,`" so if something is true through one medium (e.g., science) then it is equally true through another (e.g., faith)
+
+If there's a contradiction, then it's a problem with our understanding of one and/or the other; or both
+
+=== Law of Non-Contradiction Again
+
+To say it another way:
+
+[.highlight]
+*WHAT IS TRUE (coming from one form of revelation) IS NOT FALSE (in another)*
+
+The Law of Non-Contradiction doesn't care about *how* we know something, just if that "`something`" contradicts itself
 
 === Mediated Knowledge
 
-It should be pointed out that Aquinas said that our knowledge of God from nature, while true, is "`mediate, analogous, and incomplete.`" Without getting into much detail, "`meditate`" means that we get it through a medium (that we are getting the knowledge through nature, not directly); "`analogous`" means that it's "`like`" God – similar to how we can know something about the nature of Christ and His Church through the "`analogy`" of marriage; and "`incomplete`" means that it's, well, not complete. Just as what is given to us through "`reveled theology`" is also incomplete and also needs interpretation, but that doesn't mean that it's not vital to a true understanding of God, so too with "`natural theology`" – they combine to give us a much more complete picture than we could have from either one separately.
+It should be pointed out that Aquinas said that our knowledge of God from nature, while true, is "`mediate, analogous, and incomplete`"
+
+Without getting into much detail...
+
+* *meditate* -- we get it through a "`medium`" (we are getting the knowledge through nature, not directly)
+* *analogous* -- nature is "`like`" God, similar to how we can know something about the nature of Christ and His Church through the "`analogy`" of marriage
+* *incomplete* -- it's, well, not complete
+
+=== Incomplete Knowledge
+
+Regarding "`incomplete`": What is given to us through "`reveled theology`" is also incomplete and needs interpretation, but that doesn't mean that it's not vital to a true understanding of God
+
+So too with "`natural theology`"
+
+They combine to give us a much more complete picture than we could have from either one separately
+
+
+== The Existence of God
+
+image::160500759_god_and_science_xlarge.jpeg[]
 
 === The Five Proofs
 
-Aquinas is famous for putting forward five "`proofs`" for the existence of God that we have from nature. Very briefly, these arguments are:
+Aquinas is famous for putting forward five "`proofs`" for the existence of God that we have from nature
 
-* Change (everything's changing, but something has to cause that change in the first place – much like the Unmoved Mover)
-* Causation (similar to the Unmoved Mover, there must be something that is an uncaused cause)
-* Contingency (everything is contingent upon something else, but there has to be a "`necessary being`" that is not contingent upon anything)
-* Degrees of Excellence (we see some things being better than others – this implies that there is something that manifests the perfection of what we see)
-* Harmony (the world sure looks like it was designed since everything is organized so perfectly for its place in the world – and design needs a designer)
+* *Change* -- everything's changing, but something has to cause that change in the first place – much like the Unmoved Mover
+* *Causation* -- similar to the Unmoved Mover, there must be something that is an uncaused cause
+* *Contingency* -- everything is contingent upon something else, but there has to be a "`necessary being`" that is not contingent upon anything
+* *Degrees of Excellence* -- we see some things being better than other, which implies that there is something that manifests the perfection of what we see
+* *Harmony* -- the world sure looks like it was designed since everything is organized so perfectly for its place in the world, and "`design`" needs a "`designer`"
+
 
 == Aristotelian Scholasticism
 
+image::595px-Laurentius_de_Voltolina_001.jpg[alt="http://commons.wikimedia.org/wiki/File:Laurentius_de_Voltolina_001.jpg"]
+
 === Merging Christianity and Aristotle
 
-St. Thomas Aquinas began the process of merging Christian doctrine with he learned from Aristotle, and then others took up the task. By the 14th Century, the synthesis that came out of that process – Aristotelian Scholasticism – was firmly established and official church dogma and what was taught at all of the universities. It was so powerful that it survived (albeit with a beating) through two major revolutions in thought after it: the Renaissance and the Reformation. Almost to very modern times (late 18th Century), the charter of Cambridge University, for example, read, "`... All students and undergraduates should lay aside their various authors and only follow Aristotle and those that defend him... [Forbidding] all sterile and inane questions departing or disagreeing from ancient and true philosophy.`"
+St. Thomas Aquinas began the process of merging Christian doctrine with what he learned from Aristotle, and then others took up the task
+
+By the 14th Century, the synthesis that came out of that process -- Aristotelian Scholasticism -- was firmly established, became official church dogma, and was taught at all of the universities
+
+=== Extremely Resilient
+
+It was so powerful that it survived (albeit with a beating) through major revolutions in thought after it: the Renaissance, the Reformation, and much of the Enlightment
+
+=== Cambridge Example
+
+For example, the charter of Cambridge University until late 18th Century read: "`... All students and undergraduates should lay aside their various authors and only follow Aristotle and those that defend him... [Forbidding] all sterile and inane questions departing or disagreeing from ancient and true philosophy.`"
 
 === Keeping Learning Pure
 
-What are the advantages and disadvantages of such an approach? Though not as common today, many educational institutions follow essentially the same philosophy. Can you give examples?
+What are the advantages and disadvantages of such an approach (of mandating a specific philosophy be taught)?
 
-=== Focussing On Truth
+Can you give modern examples?
 
-One advantage is that it helps keep people focused on what is known to be true instead of getting confused by other sources, which can range from being a simple waste of time to actually being dangerous. One disadvantage is that it makes sure that no new knowledge is gained, which really becomes problematic if it turns out that what was "`known`" to be true isn't as true as was previously thought.
+=== Focusing On Truth -- Advantages
 
-=== Scholarly Othodoxy
+One advantage is that it helps keep people focused on what is known to be true instead of getting confused by other sources
 
-The most obvious example of not being allowed to question previous authorities is in a conservative seminary, where students must stick to the prior confessions of the church body that runs the seminary. It's true in education in general, though. When was the last time you heard someone question if we should learn Euclid's theories in geometry, for example? However, for better or for worse, what's taken to be authoritative is often very much up in the air in our modern world.
+Going down other paths can range from being a simple waste of time to actually being dangerous
 
-=== Disputation
+=== Focusing On Truth -- Disadvantages
+
+One disadvantage is that it makes sure that no new knowledge is gained, which really becomes problematic if it turns out that what was "`known`" to be true isn't as true as was previously thought
+
+=== Scholarly Orthodoxy
+
+The most obvious example of not being allowed to question previous authorities is in a conservative seminary, where students *must* stick to the prior confessions of the church body that runs the seminary
+
+It's true in Education in general: When was the last time you heard someone question if we should learn Euclid's theories in geometry?
+
+=== Any True Authority?
+
+For better or for worse, what's taken to be authoritative is often very much up in the air in our modern world
+
+
+== Disputation
+
+image::Disputation.jpg[alt="http://commons.wikimedia.org/wiki/File:Disputation.jpg"]
+
+=== Arguing For Truth
 
 The principle tool of Aristotelian Scholasticism is the disputatio, the "`disputation.`" It involved three principle appeals for trying to convince someone of the truth of what you are saying (listed in order of importance):
 
-1. Authority – The authority of Scripture above all, but this also extended into the authority of ancient knowledge (like Aristotle) and institutions (like the Catholic Church)
-2. Reason – Believed to be what makes us most like the imagio Dei ("`the image of God`"), it was therefore given a special significance.
-3. Experience – This was used to show the truth of what was known through authority and reason. It was therefore primarily anecdotal or illustrative in nature.
+1. *Authority* -- applies to the authority of Scripture above all, but this also extended into the authority of ancient knowledge (like Aristotle) and institutions (like the Catholic Church)
+2. *Reason* -- Believed to be what makes us most like the _imagio Dei_ ("`the image of God`"), it was therefore given a special significance
+3. *Experience* -- this was used to show the truth of what was known through authority and reason; it was therefore primarily anecdotal or illustrative in nature
 
-=== Reflecting On God's Wisdom
 
-Since we cannot change the created order that God put into place, we should instead contemplate on how that order reflects God's wisdom. Likewise, we should keep our minds on higher things, like God and the angels, and avoid thinking on the lower things, like the particulars of this physical world.
+== Reflecting On God's Wisdom
+
+image::cross-and-sky4.jpg[height="400px"]
+
+=== Where Is Our Focus?
+
+Since we cannot change the created order that God put into place, we should instead contemplate on how that order reflects God's wisdom
+
+Likewise, we should keep our minds on higher things, like God and the angels, and avoid thinking on the lower things, like the particulars of this Fallen and passing world
 
 === Higher Things
 
 What would be the classic "`proof passage`" for us to keep our minds on higher – rather than lower – things? What's the consequence of that way of thinking?
 
-:start-frag:
-
-[.note]
+[.note.fragment.bible]
 --
-Philippians 4:8 – "`Finally, brothers, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable – if anything is excellent or praiseworthy – think about such things.`"
+https://www.biblegateway.com/passage/?search=Philippians+4:8&version=NIV[Philippians 4:8] – "`Finally, brothers, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable – if anything is excellent or praiseworthy – think about such things.`"
 --
 
 What could be more excellent and praiseworthy than God? What could be less praiseworthy than the fallen world?
-:end-frag:
 
 === Other Worldly
 
-When taking to extremes, as it often was, this meant that little to no attention was paid to figuring out why a region was flooded, how to grow crops better, understanding how the body worked so sickness could be treated, etc. People became so "`other worldly`" that they became bad stewards of what God has given us and neglected the fact that the Bible also calls for us to learn about the created order so that we may be God's agents on earth to help relieve human suffering.
+When taking to extremes (as it often was) this meant that little to no attention was paid to figuring out why a region was flooded, how to grow crops better, understanding how the body worked so sickness could be treated, etc.
+
+People became so "`other worldly`" that they became bad stewards of what God has given us and neglected the fact that the Bible also calls for us to learn about the created order so that we may be God's agents on earth to help relieve human suffering
 
 === Deduction Over Induction
 
-Deductive reason (reasoning from what is known to be true and giving evidence to support that conclusion) was dramatically more valued than inductive reasoning (drawing a conclusion based upon what is known). Since you already know what all the right answers are based upon what the authorities tell you, the job of all learning was to further show how those authorities are correct.
+Deductive reason (reasoning from what is known to be true and giving evidence to support that conclusion) was dramatically more valued than inductive reasoning (drawing a conclusion based upon what is known)
+
+Since you already know what all the right answers are based upon what the authorities tell you, the job of learning was to further show how those authorities are correct
 
 === Forms of Reasoning
 
-What are some of the examples where deductive reasoning is commonly used? What are some of the examples where inductive reasoning is commonly used? What does science use?
+What are some of the examples where deductive reasoning is commonly used?
 
-=== Deductive Reasoning
+What are some of the examples where inductive reasoning is commonly used?
 
-Used whenever you want to prove something to be true, such as in court, from the pulpit, or when trying to explain a concept to students
+What does science use?
 
-=== Inductive Reasoning
+[NOTE.speaker]
+--
+Deduction is used whenever you want to prove something to be true, such as in court, from the pulpit, or when trying to explain a concept to students
 
-Used whenever you don't know what the facts are telling you. That's when you're doing an analysis of the facts, like a detective or just the general "`Uh, what just happened?`"
-
-=== Scientific Reasoning
+Induction is used whenever you don't know what the facts are telling you. That's when you're doing an analysis of the facts, like a detective or just the general "`Uh, what just happened?`"
 
 Science uses both methods. When constructing an experiment, you use deductive reasoning because have to have a hypothesis (your potential conclusion) and a plan on getting the data to support that conclusion. Inductive reasoning is used when the data doesn't match with the hypothesis (so you have to figure out what it does mean) or after doing an exploratory experiment.
+--
 
 === Imbalance of Reason
 
-This imbalance of deductive and inductive reasoning, as well as between authority and experience, caused people to not check their results with reality. Words and logic weren't merely reflections of what was real; they virtually dictated what was real. That meant that it was perfectly legitimate to debate matters that are totally impossible to verify – like the "`How many angels can stand on the head of a pin?`" argument. The Scholastics would be fastidious to a fault in making sure their arguments were logically sound, and they'd bring up every conceivable objection to dispute them. However, in making arguments for things that were, in reality, false propositions, they'd make use of word play and horrendously elaborate explanations.
+This imbalance of deductive and inductive reasoning, as well as between authority and experience, caused people to not check seriously their results with "`reality`"
 
-=== Abusing the Unverifiable
+Words and logic weren't merely reflections of what was real; they virtually dictated what was real
 
-People still debate totally unverifiable things, often in college dorms after a few too many Coronas, and most people see how silly it is when they sober up. Also, the word play was a more sophisticated form of the technique used every day by students and politicians: if you haven't a clue what you're talking about, bowl `em over with words until it becomes impossible to tell the difference between what's legitimate and what's nonsense.
+That meant that it was perfectly legitimate to debate matters that are totally impossible to verify -- like the "`How many angels can stand on the head of a pin?`" argument
+
+=== Logically Sound But Unreasonable
+
+The Scholastics would be fastidious to a fault in making sure their arguments were logically sound, and they'd bring up every conceivable objection to dispute them
+
+However, in making arguments for things that were, in reality, false propositions, they'd make use of word play and horrendously elaborate explanations
+
+
+== Abusing the Unverifiable
+
+image::Occam's_Razor.svg[alt="http://commons.wikimedia.org/wiki/File:Occam%27s_Razor.svg"]
+
+=== Who Needs To Prove Anything?
+
+People still debate totally unverifiable things, often in college dorms after a few too many Coronas, and most people see how silly it is when they sober up
+
+The word play was a more sophisticated form of the technique used every day by students and politicians: if you haven't a clue what you're talking about, confuse your audience over with words until it becomes impossible to tell the difference between what's legitimate and what's nonsense
 
 === Occam's Razor
 
-In response to excesses found in the arguments of the time, William of Occam developed the principle known as "`Occam's Razor,`" which said, in essence, that the simplest explanation for something was most likely to be the correct one. Rather than debating, for example, about how it's possible that a field has weird shapes of trampled grain because demons were performing a ritual in there that would cause your sister to wake with a headache (or aliens trying to tell us they have Elvis), it more likely that your neighbors ox wandered into the field, got lost, and wandered around for a bit. However, it would take hundreds of years before his "`razor`" would become popular.
+In response to excesses found in the arguments of the time, William of Occam developed the principle known as "`Occam's Razor`"
+
+It asserts, in essence, that the simplest explanation for something was most likely to be the correct one
+
+=== Defining What is "`Reasonable`"
+
+Rather than debating, for example, about how it's possible that a field has weird shapes of trampled grain because demons were performing a ritual in there that would cause your sister to wake with a headache (or aliens trying to tell us they have Elvis), it more likely that your neighbor's ox wandered into the field, got lost, and wandered around for a bit
+
+However, it would take hundreds of years before his "`razor`" would become popular
 
 === The Problem with Occam's Razor
 
-While Occam's Razor is generally regarded as a very useful tool, it does have a serious problem. What is it?
+While Occam's Razor is generally regarded as a very useful tool, it does have a serious problem
 
-=== Life Isn't Always Simple
+What is it?
 
-It's that "`the simplest explanation for something is most likely to be the correct one.`" Just because it's more likely that one explanation is right than another, that does not mean that it is necessarily so. Life is much more complicated than we'd often like it to be.
+[.answer.fragment]
+--
+"`The simplest explanation for something is most likely to be the correct one.`"
 
-=== Allegory
+Just because it's more "`likely`" that one explanation is right than another, that does not mean that it is necessarily the truth
 
-Throughout the Middle Ages (and still today in many parts of Christianity) Biblical interpretation tended to be very allegorical. What that means is that every verse was searched to find its hidden meaning, beyond the plain meaning of the text, to find the truths that apply to all times. The Bible itself does some of that, showing how things that were said in the Old Testament referred to New Testament events, for example. The problem was that every sentence in the Bible was treated that way, so verses like Number 3:50 ("`From the firstborn of the Israelites he collected silver weighing 1,365 shekels, according to the sanctuary shekel.`") were analyzed to determine what spiritual significance the collection of 1,365 shekels of silver had.
+Life is much more complicated than we'd often like it to be
+--
+
+== Allegory
+
+image::an_allegory_for_allegory_itself_by_deathismylife-d4owukr.png[height="300px"]
+
+=== Allegorical Interpretation
+
+Throughout the Middle Ages (and still today in many parts of Christianity) Biblical interpretation tended to be very allegorical
+
+What that means is that every verse was searched to find its hidden meaning, beyond the plain meaning of the text, to find the truths that apply to all times
+
+=== The Bible's Use of Allegory
+
+The Bible itself does quite a bit of that; for example by showing how things that were said in the Old Testament referred to New Testament events
+
+The problem was that _**every**_ sentence in the Bible was treated that way, so verses like https://www.biblegateway.com/passage/?search=Numbers+3:50&version=NIV[Number 3:50] ("`From the firstborn of the Israelites he collected silver weighing 1,365 shekels, according to the sanctuary shekel.`") were analyzed to determine what spiritual significance the collection of 1,365 shekels of silver had
 
 === Examining Allegories
 
@@ -1242,142 +1424,344 @@ What are some of the major advantages and disadvantages of such an approach?
 
 === Allegory Pros and Cons
 
-In the limited instances when the Biblical does it, obviously it's good. Also, when done merely as a concrete example of something else (like 2 Samuel chapter 9 being an example of the kind of mercy God gives us, shown in what David did), it can be very useful to have a specific instance of some truth illustrated for us.
+In the instances when the Biblical does it, obviously it's good
 
-When those limits are not applied, it can lead to wild speculation, which in turn can lead to very bad theology.
+Also, when done merely as a concrete example of something else (like https://www.biblegateway.com/passage/?search=2+Samuel+9&version=NIV[2 Samuel 9] being an example of the kind of mercy God gives us, shown in what David did), it can be very useful to have a specific instance of some truth illustrated for us
+
+When those limits are not applied, it can lead to wild speculation, which in turn can lead to very bad theology
 
 === Reformers React to Allegory
 
-Martin Luther, John Calvin, and many others involved in the Reformation reacted strongly to the wild speculation involved in the allegorical interpretations going on, but it still goes on. Can you give any examples?
+Martin Luther, John Calvin, and many others involved in the Reformation reacted strongly to the wild speculation involved in the allegorical interpretations going on, but it still goes on
+
+Can you give any examples?
 
 === Allegory In Common Use
 
-It is still a legitimate form of interpretation in the Roman Catholic Church, of course. A great many Catholic teachings are based upon such interpretations, so Rome could hardly give up even some of the more egregious instances of abuse since Rome is infallible. However, it's also very popular among Protestants, both liberal and conservative. Among conservative Protestants you can hear it any Sunday morning when you turn on the TV and the preacher's pulling Scriptural passages way out of context to make some point. Among liberals, not having to abide by the literal meaning of the text and instead interpreting everything symbolically is at the very heart of Christian liberalism.
+Of course it is still a legitimate form of interpretation in the Roman Catholic Church
 
-=== Normative Thought
+A great many Catholic teachings are based upon such interpretations, so clearly those areas are meant to be allegorical...
 
-Virtually all forms of the political, social, economic, etc. thought of the Middle Ages was "`prescriptive`" instead of "`descriptive,`" stating how people should live, with very little attention to how people do live. Culture and social order was to reflect the perfect order that God created, and attempts to not conform to how the authorities understood that order to be were considered acts of heresy. This was strengthened by the feeling that you could reason out how things should work and make the world fit your model.
+=== Protestant Allegory
+
+Among conservative Protestants you can hear it any Sunday morning when you turn on the TV and the preacher's pulling Scriptural passages way out of context to make some point
+
+Not having to abide by the literal meaning of the text and instead interpreting everything symbolically is at the very heart of Christian liberalism
+
+== Normative Thought
+
+image::human-evolution-and-technology.jpg[]
+
+=== Prescriptive vs Descriptive
+
+Virtually all forms of the political, social, economic, etc. thought of the Middle Ages was "`prescriptive`" instead of "`descriptive`"
+
+In other words it stated how people _**should**_ live, with very little attention to how people _**do**_ live
+
+If people do live per the "`normative`" theory, then clearly that's how they "`should`" live
+
+=== God's Perfect Order
+
+Culture and social order was to reflect the perfect order that God created, and attempts to not conform to how the authorities understood that order to be were considered acts of heresy
+
+This was strengthened by the feeling that you could reason out how things should work and make the world fit your model
 
 === Pragmatism
 
-An example of an exception to this kind of thinking can be found in the pragmatism shown by even such an "`idealist`" as St. Thomas Aquinas, who wrote about how necessary it is for cities to have brothels. (It's hardly the kind of thing you'd advertise about your city, but it's like the sewage system of a castle: if you don't have it, all the crap of society will have no outlet and cause things to be far worse than if such a "`dirty`" outlet weren't there.)
+That said, any reasonable person still has a pragmatic side
+
+Even an idealist like St. Thomas Aquinas was willing to deal with people "`where they are`"
+
+image::sewer46a.jpg[role="right",width="500px",alt="http://www.sewerhistory.org/grfx/wh_region/japan1.htm"]
+
+An example is his writing on how necessary it is for cities to have brothels...
+
+It's hardly the kind of thing you'd _advertise_ about your city, but it's like the sewage system of a castle: if you don't have it, all the crap of society will have no outlet, which will cause things to be far worse than if it weren't there
 
 === Hierarchical Thinking
 
-This prescriptive and symbolical way of seeing everything reflected itself in every aspect of life. "`There's a place for everything, and everything in its place`" was lived to a degree that's unimaginable today. Things were divided into three groups and prioritized as such: God / angels / man, king / barons / commons, head / heart / belly, citadel / within the city walls / outside the city walls, outside the fixed sphere of stars / between the fixed stars and the moon / within the orbit of the moon, etc. Everything had a place in God's order, and the hierarchical way of understanding things reached into everything.
+This prescriptive and symbolical way of seeing everything reflected itself in every aspect of life
+
+"`There's a place for everything, and everything in its place`" was lived to a degree that's unimaginable today
+
+=== Prioritized Ordering
+
+Things were divided into three groups and prioritized as such:
+
+* God / angels / man
+* king / barons / commons
+* head / heart / belly
+* citadel / within the city walls / outside the city walls
+* outside the fixed sphere of stars / between the fixed stars and the moon / within the orbit of the moon
+* etc.
+
+Everything had a place in God's order, and the hierarchical way of understanding things reached into everything
 
 === The Order of Things
 
-image::332px-Mittelalterliches_Ständebild_15._Jahrhundert.png[height="400px",role="left",alt="https://en.wikipedia.org/wiki/File:Mittelalterliches_St%C3%A4ndebild_15._Jahrhundert.png"]
+Many of those distinctions are still in our language
 
-Many of those distinctions are still in our language. Take the king / barons / commons and head / heart / belly orderings, for example. The king is the "`head`" of the state and received the most education. The barons, or "`nobles`" were to be noble, which means they were to act out of honor, loyalty and compassion – which typify the "`heart.`" Finally, the commons were seen as being base, trite, and only concerned about fulfilling their appetites – i.e., "`common.`"
+Take the king / barons / commons and head / heart / belly orderings, for example
+
+=== People and Bodies
+
+* the king is the "`head`" of the state and received the most education and called upon for judgments
+* the barons, or "`nobles`" were to be *noble* -- they were to act out of honor, loyalty and compassion, which typify the "`heart`"
+* the commons were seen as being base, trite, and only concerned about fulfilling their appetites ("`belly`") -- i.e., "`common`"
+
+image::332px-Mittelalterliches_Ständebild_15._Jahrhundert.png[height="300px",role="center",alt="https://en.wikipedia.org/wiki/File:Mittelalterliches_St%C3%A4ndebild_15._Jahrhundert.png"]
 
 
-== Witchcraft
+== Violating God's Order
 
-Violating the Natural Order of Things
+image::wizard.jpg[]
 
 === Outside Influences
 
-Christianity has not developed in a vacuum &nbsp; there have always been a lot of outside influences for the hearts and minds of people. Every Christian community grew up in a land of pagans, and people didn't always give up all of their old ways simply because they now prayed to God the Father instead of Mother Earth, for example. It was certainly a problem for the ancient Israelites, who would worship Baal in the morning and Jehovah in the evening. Synchronism (merging different religions) has been a major problem for Christianity.
+image::MOTHER_EARTH_IS_BEAUTIFUL_by_DarkMoon_Priestess.jpg[role="right",alt="http://darkmoon-priestess.deviantart.com/art/MOTHER-EARTH-IS-BEAUTIFUL-111334375"]
 
-=== Merlin
+Christianity has not developed in a vacuum -- there have always been a lot of outside influences for the hearts and minds of people
 
-I remember I got a rather rude awakening regarding Christian synchronism: TNT showed a mini-series based on the popular book, "`The Mists of Avalon,`" which was a telling of the King Arthur legend from the point of view of Morgan de la Fey. It made me realize what I already "`knew,`" that a great deal of what those stories were about was the interaction between Christianity and the Druids, and the influence that paganism had over people of the time. The magic that Merlin is said to have practiced is exactly the same kind of thing that other wizards in Druidic lore were supposed to have done, and Morgan's title ("`of the Fairies`") clearly identifies her as being in communion with the Fairies &mdash; in other words, a Druid.
+Every Christian community grew up in a land of pagans, and people didn't always give up all of their old ways simply because they now prayed to God the Father instead of Mother Earth...
+
+=== Synchronism
+
+image::Ostara_by_Johannes_Gehrts.jpg[role="right",alt="https://commons.wikimedia.org/wiki/File:Ostara_by_Johannes_Gehrts.jpg",title="Ēostre",height="400px"]
+
+It was certainly a problem for the ancient Israelites, who would worship Baal in the morning and Jehovah in the evening
+
+Synchronism (merging different religions) has always been a major problem for Christianity
+
+=== King Arthur
+
+image::MistsOfAvalon.jpg[role="left",height="500px"]
+
+I remember I got a rather rude awakening regarding Christian synchronism: TNT showed a mini-series based on the popular book, "`The Mists of Avalon,`" which was a telling of the King Arthur legend from the point of view of Morgan de la Fey
+
+It made me realize what I already "`knew`": a great deal of what those stories were about was the interaction between Christianity and the Druids, and the influence that paganism had over people of the time
+
+=== Merlin and Morgan
+
+The magic that Merlin is said to have practiced is exactly the same kind of thing that other wizards in Druidic lore were supposed to have done, and Morgan's title ("`of the Fairies`") clearly identifies her as being in communion with the Fairies -- in other words, a Druid
 
 === "`Circling the Wagons`"
 
-One of the principle reasons for the growth of a strong central Church was so that the Church would be better able to defend itself against such influences. While she was (sadly) a very long way from immune, the Church did do what she could to stop pagan practices. The combination of the zeal to stay pure and fight such corruption, and an assurance of knowing exactly how things should be, gave the Church the impetus she needed to actively search out witchcraft.
+One of the principle reasons for the growth of a strong central Church was so that the Church would be better able to defend itself against such influences
+
+While she was (sadly) a very long way from immune, the Church did do what she could to stop pagan practices
+
+The combination of the zeal to stay pure and fight such corruption, and an assurance of knowing exactly how things should be, gave the Church the impetus she needed to actively search out witchcraft
 
 === Witch Hunt
 
-While there was certainly the "`torches and pitchforks in the middle of the night`" approach to getting rid of witches, by and large it was a very formal affair. Using the machinery of Inquisition, the very best tools of theology, philosophy, civil law and science were all applied.
+While there was certainly the "`torches and pitchforks in the middle of the night`" approach to getting rid of witches, by and large it was a very formal affair
+
+Using the machinery of Inquisition, the very best tools of theology, philosophy, civil law and science were all applied
 
 === Roman Law on Witchcraft
 
-To better understand what happened and why, consider what Roman law had to say about witches: very little. Witchcraft was very prevalent in the Roman world, as well as everywhere else, but the attitude toward it was very different there (and everywhere else) than what it would be in Christian Europe. Roman law said that if you used magic to cause a barn to burn down, then you were guilty of burning down the barn, same as if you had done so with more "`conventional`" means. The way it was done made no difference, the consequences and intent were all that mattered. Trivial or beneficial magic was, well, "`beneficial`" and greeted with indifference to praise.
+To better understand what happened and why, consider what Roman law had to say about witches: very little
+
+Witchcraft was very prevalent in the Roman world, as well as everywhere else, but the attitude toward it was very different there (and everywhere else) than what it would be in Christian Europe
+
+=== Consequences of Magic
+
+Roman law said that if you used magic to cause a barn to burn down, then you were guilty of burning down the barn, same as if you had done so with more "`conventional`" means
+
+The way it was done made no difference, the consequences and intent were all that mattered
+
+Trivial or beneficial magic was, well, "`beneficial`" and greeted with indifference to praise
 
 === Magic Can Not Be Neutral
 
-Christian doctrine changed that entirely. Since super-natural powers can only come from God or the Devil, that meant that if you did something super-natural and weren't a saint working a miracle, then you must be an agent of the Devil. That meant that even trivial and beneficial magic was considered to come straight from Satan.
+Christian doctrine changed that entirely
+
+Since super-natural powers can only come from God or the Devil, that meant that if you did something super-natural and weren't a saint working a miracle, then you must be an agent of the Devil
+
+That meant that even trivial and beneficial magic must come straight from Satan
 
 === Demonic Magic
 
 What are some examples of where the Bible refers explicitly to magic coming from the Devil?
 
-[answer fragment]
+[.answer.fragment]
 --
-For example: Exodus 7 – Pharaoh's sorcerers turning their staffs to snakes and water to blood, as well as summoning frogs. 1 Samuel 28 – Saul has the Witch of Endor summon Samuel for counseling. A number of less obvious ones are in Ezekiel, Isaiah, Acts, etc.
+* https://www.biblegateway.com/passage/?search=Exodus+7&version=NIV[*Exodus 7*] -- Pharaoh's sorcerers turning their staffs to snakes and water to blood, as well as summoning frogs
+* https://www.biblegateway.com/passage/?search=1+Samuel+28&version=NIV[*1 Samuel 28*] -- Saul has the Witch of Endor summon Samuel for counseling
+* https://www.biblegateway.com/passage/?search=Numbers+22&version=NIV[*Numbers 22*] -- King Balak and Balaam
+* a number of less obvious ones are in Ezekiel, Isaiah, Acts, etc.
 --
 
-=== Superstition
+== Super-Natural
 
-Since it was a very, very superstitious time, super-natural events were seen to happen all the time.
+image::titania-oberon-2.jpg[alt="'The Reconciliation of Titania and Oberon,' painting by Sir Joseph Noel Paton, 1847",height="500px"]
 
-=== Super-Natural
+=== Understanding Super-Natural
 
 "`Super-natural`" is our modern term for magic (Godly or demonic), but that needs to be better understood
 
 Much as how today, when something happens and we have no idea how it happened, we will often say that it's a "`miracle`" (when it's good) or "`voodoo`" (when it's bad or simply strange), they did the same thing
 
-However, today, on the other side of the Scientific Revolution, the vast majority of the time we figure there must be some "`reasonable`" (i.e., "`scientific`") explanation of what happened, and ignore the fact that we also fight against "`the spiritual forces of evil in the heavenly realms.`" [Ephesians 6:12]
+=== Be "`Reasonable`"
+
+image::6lISWb0.jpg[role="right"]
+
+Today, on the other side of the Scientific Revolution, the vast majority of the time we figure there must be some "`reasonable`" (i.e., "`scientific`") explanation of what happened
+
+We often ignore the fact that we also fight against "`the spiritual forces of evil in the heavenly realms`" [https://www.biblegateway.com/passage/?search=Ephesians+6:12&version=NIV[Ephesians 6:12]]
 
 === Wormwood's Advice On Magic
 
-C.S. Lewis' "`The Screwtape Letters`" has an interesting section about this kind of thing that should help us keep this in perspective. (For those not familiar with "`The Screwtape Letters,`" it's a series of "`letters`" sent from a senior demon to a "`junior tempter`" to advise him on how best to "`guide`" his "`patient`" into Hell.) From the 7th letter...
+C.S. Lewis' "`The Screwtape Letters`" has an interesting section about this kind of thing that should help us keep this in perspective +
+[small]#(For those not familiar with "`The Screwtape Letters,`" it's a series of "`letters`" sent from a senior demon to a "`junior tempter`" to advise him on how best to "`guide`" his "`patient`" into Hell)#
 
-[note]
---
-I wonder you should ask me whether it is essential to keep the patient in ignorance of your own existence. That question, at least for the present phase of our struggle, has been answered for us by the High Command. Out policy, for the moment, is to conceal ourselves. Of course this has not always been so. When the humans disbelieve in our existence we lose all the pleasing results of direct terrorism, and we make no magicians. On the other hand, when they believe in us, we cannot make them materialists and skeptics. At least, not yet. I have great hopes that we shall learn in due time how to emotionalize and mythologize their science to such an extent that what is, in effect, a belief in us (though not under that name) will creep in while the human mind remains closed to belief in the Enemy...
+From the 7th letter...
 
-...If once we can produce our perfect work -- the Materialist Magician, the man, not using, but veritably worshipping, what he vaguely calls "`Forces`" while denying the existence of "`spirits`" -- then the end of the war will be in sight. But in the meantime we must obey our orders. I do not think you will have much difficulty in keeping the patient in the dark. The fact that "`devils`" are predominately comic figures in the modern imagination will help you. If any faint suspicion of your existence begins to arise in his mind, suggest to him a picture of something in red tights, and persuade him that since he can not believe in that (it is an old textbook method of confusing him) he therefore cannot believe in you.
---
+=== Letter 7 pt1
 
-=== Where Is the Focus?
+[.note.screwtape]
+I wonder you should ask me whether it is essential to keep the patient in ignorance of your own existence. That question, at least for the present phase of our struggle, has been answered for us by the High Command. Our policy, for the moment, is to conceal ourselves.
 
-The point being, for our purposes, that while people used to concentrate too much on super-natural forces, in our modern world we tend to think about it too little. As we continue to look at this issue, remember that there are indeed things that are not "`rational,`" and the people of the medieval world were very aware of that, so they were trying to deal with those problems as best as they possibly could with what they knew.
+=== Letter 7 pt2
+
+[.note.screwtape]
+Of course this has not always been so. When the humans disbelieve in our existence we lose all the pleasing results of direct terrorism, and we make no magicians. On the other hand, when they believe in us, we cannot make them materialists and skeptics. At least, not yet.
+
+=== Letter 7 pt3
+
+[.note.screwtape]
+I have great hopes that we shall learn in due time how to emotionalize and mythologize their science to such an extent that what is, in effect, a belief in us (though not under that name) will creep in while the human mind remains closed to belief in the Enemy [God]...
+
+=== Letter 7 pt4
+
+[.note.screwtape]
+If once we can produce our perfect work -- the Materialist Magician, the man, not using, but veritably worshipping, what he vaguely calls "`Forces`" while denying the existence of "`spirits`" -- then the end of the war will be in sight.
+
+=== Letter 7 pt5
+
+[.note.screwtape]
+But in the meantime we must obey our orders. I do not think you will have much difficulty in keeping the patient in the dark. The fact that "`devils`" are predominately comic figures in the modern imagination will help you.
+
+=== Letter 7 pt6
+
+[.note.screwtape]
+If any faint suspicion of your existence begins to arise in his mind, suggest to him a picture of something in red tights, and persuade him that since he can not believe in that (it is an old textbook method of confusing him) he therefore cannot believe in you.
+
+=== Focus Too Much or Too Little?
+
+The point being, for our purposes, that while people used to concentrate too much on super-natural forces, in our modern world we tend to think about it too little
+
+=== Not Everything Is Rational
+
+As we continue to look at this issue, remember that there are indeed things that are not "`rational`"
+
+The people of the medieval world were very aware of that, so they were trying to deal with those problems as best as they possibly could with what they knew
 
 === Magic In Pagan Areas
 
-Missionaries and the like that work in very pagan contexts have long noted that the more pagan an area is, the more real magic, demon possessions, etc. occur. Satan has increased power where people let him have more power. While God holds the reigns, it appears that if people wish Satan's presence and power, God will often let them drink of the consequences of their heart's desires. So it may have been that during a time of major superstition like the Middle Ages, that there may indeed have been more Satanic power being exercised on the earth.
+Missionaries and the like that work in very pagan contexts have long noted that the more pagan an area is, the more real magic, demon possessions, etc. occur
+
+Satan has more visible power where people call on him
+
+=== Given Over To Their Desires
+
+While God holds the reigns, it appears that if people wish Satan's presence and power, God will often let them drink of the consequences of their heart's desires
+
+So it may have been that during a time of major superstition like the Middle Ages, there may indeed have been more Satanic power being exercised on the earth
 
 === Red Tights
 
-Regarding the "`red tights`" picture: these days it's used to mock the idea of the Devil, but it was originally created to mock the Devil himself. The theory was that pride was Lucifer's biggest weakness; so making fun of him would tick him off and send him looking for prey that would take him more seriously. Unfortunately, as Screwtape noted, he has turned the tables and now uses the imagery to his advantage.
+image::pointing-cartoon-devil.jpg[role="left",height="200px"]
+
+Regarding the "`red tights`" picture: these days it's used to mock the idea of the Devil, but it was originally created to mock the Devil himself
+
+The theory was that pride was Lucifer's biggest weakness; so making fun of him would tick him off and send him looking for prey that would take him more seriously
+
+Unfortunately, as Screwtape noted, he has turned the tables and now uses the imagery to his advantage
 
 === American Miracles and Magic
 
 What are some examples of miracles and magic being practiced commonly in modern America?
 
-[answer fragment]
---
+[.answer.fragment]
 A quick sampling would be: faith healers, astrology, psychics, charismatic prophecy, palm and tarot readings, Wicca, etc.
---
+
+
+== Witchcraft
+
+image::83248_1927.03_Ipswich_Modern_Witch_2_1000_122_339lo.jpg[height="500px"]
 
 === Satanic Pact
 
-The gist of the theory of witchcraft is this: Because magic has to come from the Devil and he can't override our free will, if you perform magic you have made a (at least implicit) pact with Satan. For a pagan, that's bad enough, but for a baptized Christian, that means they've committed heresy, and the Bible makes it clear that heresy is about as bad as sin could possibly get. (To sin and not know any better is one thing; but to do so having known better is something else entirely.) Therefore it was the job of the authorities, elders, family, friends, etc. to try to bring the person back into the fold and save their soul.
+The gist of the theory of witchcraft is this: +
+Because magic has to come from the Devil and he can't override our free will, if you perform magic you have made a (at least implicit) pact with Satan
+
+=== Fallen Christian
+
+For a pagan, that's bad enough, but for a baptized Christian, that means they've committed heresy, and the Bible makes it clear that heresy is about as bad as sin could possibly get
+
+[.small]
+(To sin and not know any better is one thing; but to do so having known better is something else entirely)
+
+=== Bringing Them Back
+
+Therefore it was the job of the authorities, elders, family, friends, etc. to try to bring the person back into the fold and save their soul
 
 === Standard Witch Identifiers
 
-Obviously, with consequences being so dire, there was a great deal of concern to make sure that when someone was accused of being a witch, that she was indeed a witch. These varied from describing the Crucifixion and seeing if an account of what she has done to Christ would cause a tear of remorse, to gathering common traits and behaviors between convicted witches, to torture, to simply asking if she was a witch. Eventually a book was compiled by two of the most respected experts in the Church on how to verify that someone is a witch, which was copied all over Europe so that a consistent set of criteria could be used in the trials. Essentially, to use modern language, it was a book of case law and scientific data.
+Obviously, with consequences being so dire, there was a great deal of concern to make sure that when someone was accused of being a witch, that she was indeed a witch
 
-=== Technique Summary
+=== Witch Identifying Techniques
 
-As you can see, techniques varied from very the theological (the tear test) to scientific (gathering similarities) to civil (questioning and torture) and more.
+Some of the techniques:
+
+* describing the Crucifixion and seeing if an account of what she has done to Christ would cause a tear of remorse
+* gathering common traits and behaviors between convicted witches
+* use torture for a confession
+* simply ask if she was a witch
+* etc.
+
+As you can see, techniques varied from very theological (the tear test) to scientific (gathering similarities) to civil (questioning and torture) and more
+
+=== Witch Case Law
+
+Eventually a book was compiled by two of the most respected experts in the Church on how to verify that someone is a witch, which was copied all over Europe so that a consistent set of criteria could be used in the trials
+
+Essentially, to use modern language, it was a book of case law and scientific data (such as it was)
 
 === Witch, Not Sorcerer
 
-I keep using "`witch`" and "`she`" instead of including "`sorcerer`" and "`he`" for simplicity and because, unfortunately, the vast majority of the times it was women being accused; usually elderly or "`independent`" women who had to make a living selling herbs or the like and had no one to champion them. All in a legal system that did not look very highly on the testimony of women.
+I keep using "`witch`" and "`she`" instead of including "`sorcerer`" and "`he`" for simplicity and because, unfortunately, the vast majority of the times it was women being accused
+
+They were usually elderly or "`independent`" women who had to make a living selling herbs or the like and had no one to champion them
+
+All of this in a legal system that did not look very highly on the testimony of women
 
 === Guilty of Witchcraft
 
-If she was found to be guilty of witchcraft and would not repent of it, she was deemed a heretic and would therefore be treated as one. (If you wouldn't admit to being a witch, obviously you hadn't repented; and if you just say "`Sure, I'm a witch and I repent`" to save yourself, that hardly shows the contrition necessary for repentance, and even if they do buy it, you're now labeled for the rest of your life as having been a witch...) The burning at the stake was chosen for the sake of the accused: a cleansing by fire, as in any case of heresy. They literally "`burned the witches to save them.`"
+If she was found to be guilty of witchcraft and would not repent of it, she was deemed a heretic and would therefore be treated as one
+
+[.small]
+(If you wouldn't admit to being a witch, obviously you hadn't repented; and if you just say "`Sure, I'm a witch and I repent`" to save yourself, that hardly shows the contrition necessary for repentance. Even if they do buy it, you're now labeled for the rest of your life as having been a witch...)
+
+=== Burning the Witch
+
+image::640px-Witch_Burning.jpg[alt="http://commons.wikimedia.org/wiki/File:Witch_Burning.jpg",role="right"]
+
+The burning at the stake was chosen for the sake of the accused: a cleansing by fire, as in any case of heresy
+
+They literally "`burned the witches to save them`"
 
 === Documentation of Methods
 
-One consequence of all this is that if you were engaged in anything that might make it seem like you practice magic -- be it medicine, physiology, chemistry, etc -- you had to find some way of protecting yourself against such accusations. To do that, the methods used started becoming much more like what we would describe as the scientific method, with its precise descriptions of methods, explanations of everything along the way, and so on to make sure there's documented evidence that's as objective as possible. Hysteria over witchcraft, ironically, helped pave the way for the Scientific Revolution.
+One consequence of all this is that if you were engaged in anything that might make it seem like you practice magic -- be it medicine, physiology, chemistry, etc -- you had to find some way of protecting yourself against such accusations
 
+To do that, they started using methods that would evolve into the scientific method: precise descriptions of methods, explanations of everything along the way, etc. trying to make sure there's documented evidence that's as objective as possible
+
+Hysteria over witchcraft, ironically, helped pave the way for the Scientific Revolution
+
+
+////
 
 == General Demographics Toward the End of the 15th Century
 
@@ -1642,7 +2026,7 @@ It's important to realized that while they obviously differed from the Catholic 
 
 === Church and State Needed Each Other
 
-here was a great deal of "`cross pollination`" between the Church and the state
+There was a great deal of "`cross pollination`" between the Church and the state
 
 Not just because of where it would be mandated, but also because, in a world where only about 10% of those in the city could read (and far smaller than that in the country-side), the various governments would hire clerics to perform governmental functions
 

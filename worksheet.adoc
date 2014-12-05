@@ -1,6 +1,8 @@
 = Church History Worksheet
 :stylesheet: worksheet.css
 
+http://bit.ly/churchhist
+
 == The Philosopher -- Aristotle
 
 What were some of the differences between Plato and Aristotle?
@@ -11,7 +13,7 @@ What was one of the direct benefits for Christ's Church of Aristotle's most famo
 
 What are some of the things formal logic is especially good at?
 
-What benefits did the incorperation of logic into Greek language and culture afford the New Testament writers?
+What benefits did the incorporation of logic into Greek language and culture afford the New Testament writers?
 
 == Matter, Form and Substance
 
@@ -37,6 +39,72 @@ What century did Islam start? When was its "`Golden Age`"?
 
 Who are "`The People of the Book`"? What's their relationship to Islam?
 
-What are some of the fundimental differences between how Muhamed "`received`" the Quran and how the Biblical authors were "`inspired`"?
+What are some of the fundamental differences between how Mohamed "`received`" the Quran and how the Biblical authors were "`inspired`"?
 
 What was one of the major blessings God brought from the conflict with Islam?
+
+== The "`Doctor Angelicus`"
+
+What are some of the things Thomas Aquinas most known for?
+
+== True But Not True
+
+What was/is "`double truth`"?
+
+What are some modern examples of Christians commonly falling into that contradiction?
+
+== Natural and Revealed Theology
+
+Is it possible for Faith ("`special revelation`") the contradict Reason ("`general revelation`")?
+
+What did Aquinas mean by "`mediated knowledge`"?
+
+== The Existence of God
+
+What strengths/weaknesses do the five "`proofs`" of God have?
+
+== Aristotelian Scholasticism
+
+What are some of the advantages/disadvantages to having an "`orthodoxy`" for universities?
+
+== Disputation
+
+What is the "`Disputation`"?
+
+== Reflecting On God’s Wisdom
+
+What could be more excellent and praiseworthy than God? What could be less praiseworthy than the fallen world?
+
+How does modern science use deduction? Induction?
+
+== Abusing the Unverifiable
+
+How would the Scholastics argue for things that were impossible to verify? Has that gone away?
+
+What is one of the most often used "`tool`" for such arguments?
+
+== Allegory
+
+Is the Bible a book of allegory?
+
+How is allegory used in modern Christianity?
+
+== Normative Thought
+
+How are "`normative`" (prescriptive) ways of thinking about people a great thing? Why can it be a horrible thing?
+
+== Violating God's Order
+
+Can you give some major examples of "`synchronism`" that have become basic features of modern Christianity? (Some examples to think about: What are the two primary Christian holidays? Why is Mary effectively seen as a goddess even though she's not portrayed that way in the Bible?)
+
+== Super-Natural
+
+Why are we so quick to forget that we fight against "`the spiritual forces of evil in the heavenly realms`"?
+
+Is the "`Materialist Magician`" a realistic threat?
+
+== Witchcraft
+
+What is "`witchcraft`"? Can there be a "`good witch`"?
+
+What was the purpose of burning a witch?
