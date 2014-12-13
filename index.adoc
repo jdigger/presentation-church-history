@@ -14,7 +14,7 @@ The Christian Church Since the Time of the Apostles
 
 Worksheet: link:worksheet.html[]
 
-+++<div class="cc-license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Church History</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a source code at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jdigger/presentation-church-history" rel="dct:source">https://github.com/jdigger/presentation-church-history</a>.</div>+++
++++<div class="cc-license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Church History</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on source code at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/jdigger/presentation-church-history" rel="dct:source">https://github.com/jdigger/presentation-church-history</a>.</div>+++
 
 == The City of God
 
@@ -1127,7 +1127,7 @@ Aquinas died on his way to the Second Council of Lyon in an attempt to reunify t
 
 Among many other accomplishments, he looked at what the Muslims had done and "`Christianized`" it
 
-While Aquinas leaned heavily on Averroës`' work, a tremendous amount of what Aquinas was doing what showing that was Aristotle had said was more in line with Christian doctrine than Islam
+While Aquinas leaned heavily on Averroës`' work, a tremendous amount of what Aquinas was doing was showing that what Aristotle had said was more in line with Christian doctrine than Islam
 
 === The Sumas
 
@@ -1761,57 +1761,140 @@ To do that, they started using methods that would evolve into the scientific met
 Hysteria over witchcraft, ironically, helped pave the way for the Scientific Revolution
 
 
-////
-
 == General Demographics Toward the End of the 15th Century
 
-=== The Black Death
+image::Map_of_Europe_at_1500.jpg[alt="http://contentdm.lib.byu.edu/cdm/ref/collection/Civilization/id/537",height="600px"]
 
-The last Black Death had wiped out approximately a third of all human life in Europe. For those that survived, the century following (about 1350-1450) it was the most prosperous time since the height of the Roman Empire, but life was still "`short, nasty and brutish.`" By modern terms, there was hardly a "`real`" city in all of Christendom – there were only 10 cities of more than 20,000 people, and the largest was Naples (followed closely by Paris) with 150,000 people. Over 65%-90% of the population (depending of the region) worked the land. Infant mortality was horrid – of those that survived childbirth, 15%-35% never made it to their first birthday, and an additional 10%-20% died before age ten. (So if you were born, you had about a 50/50 chance of making it to your tenth birthday.) Famine, epidemic, war and more made life a very chancy proposition.
+=== Cities
+
+By modern terms, there was hardly a "`real`" city in all of Christendom
+
+The largest city in Europe was Constantinople, but had only 400,000 people
+
+Paris and Naples had ~150-200,000 people, and Venice had ~l00,000
+
+Smaller cities around 50,000 people: London, Amsterdam, Moscow, Lisbon, Madrid, Rome, and Florence
+
+Over 65%-90% of the population (depending of the region) worked the land
+
+[NOTE.speaker]
+For reference, metro Denver is ~2.7 million people and metro Boulder is ~300,000
+
+=== Mortality
+
+Life was -- as http://www.gutenberg.org/files/3207/3207-h/3207-h.htm#link2H_PART1[Hobbes famously noted] -- "`solitary, poor, nasty, brutish, and short.`"
+
+Infant mortality was horrid -- of those that survived childbirth, 15%-35% never made it to their first birthday, and an additional 10%-20% died before age ten
+
+So if you were born, you had about a 50/50 chance of making it to your tenth birthday
+
+Famine, epidemic, war and more made life a very chancy proposition
+
+
+== The Black Death
+
+image::Blackdeath2.gif[alt="https://en.wikipedia.org/wiki/File:Blackdeath2.gif"]
+
+=== The Black Death's Devistation
+
+image::Danse_macabre_by_Michael_Wolgemut.png[alt="https://en.wikipedia.org/wiki/File:Danse_macabre_by_Michael_Wolgemut.png",role="right"]
+
+During the 14th century the Black Death killed between 25% to 80% of the population, depending roughly how cold the region is
+
+Across Eurasia between 75 to 200 million people (we don't have great census numbers) perished from it
+
+=== Yay, Plague?!
+
+For those that survived, the century following (about 1350-1450) was the most prosperous time since the height of the Roman Empire
+
+[.small]
+(Which is to say, it was unimaginably horrid by our standards)
+
+image::Burying_Plague_Victims_of_Tournai.jpg[alt="https://en.wikipedia.org/wiki/File:Burying_Plague_Victims_of_Tournai.jpg",height="300px"]
 
 === The Plague's Silver Lining
 
 Why would life be so "`good`" during the century following the Black Death?
 
-[answer fragment]
+[.answer.fragment]
 --
-The reason life was so much better after the Plague was simple, if morbid: there weren't as many people. The population before the Plague had developed the land and resources, and after they died there was the same amount of land but a lot less people. The lack of people also meant that labor to work that land was more valuable, increasing the standard of living for the common man.
+There weren't as many people
+
+image::Flea_infected_with_yersinia_pestis.jpg[alt="https://en.wikipedia.org/wiki/File:Flea_infected_with_yersinia_pestis.jpg"]
 --
-
-=== Upturning Social Structure
-
-As the population started to grow again, the concessions gained by the more valuable workforce began to put increasing pressure on the nobility, causing a great deal of tension between peasants and lords. The strict set of laws and practices that had preserved order in society started to become further strained. There was no police force in the modern sense (when it wasn't ad hoc, it was soldiers keeping the peace, and they're not known for having a light touch), and standing armies were rare (lords would conscript vassals as needed). That meant that social order had to be preserved almost exclusively by social structure and tradition – another reason why dissent was crushed so forcibly. Civilization depended on conformity to survive.
-
-=== Clergy Caught In the Middle
-
-The clergy found itself caught in the middle of the tension between peasant and lord. Clergy were exempt from taxes and most civic duties, including warfare. Clergy could not be tried in a civil court for crimes – they had to be tried in an ecclesiastical court. They did not have to swear loyalty to the local magistrate, but rather to the Pope. These things, and others, often caused churchmen to be caught in the middle, resented by both the peasants and the lords.
-
-=== Resentment of the Clergy
-
-Why would the peasants be so upset about the rights of clergy? What would upset the nobility?
-
-[answer fragment]
---
-Being exempt from taxes, but imposing a further "`tax`" on people in the form of mandatory tithes, they were targets of resentment from the common people that had to pay for everything – especially when clergymen were blatantly greedy and lazy. The lords resented that the clerics would take advantage of the benefits of living under their rule, but had none of the responsibilities. And when a priest would break a law (which, sadly, was hardly unknown) they often got little to no punishment from their own court system.
---
-
-=== Clerical Greed
-
-Greed was the number one complaint against the clerics of the time; Whoring, sloth, and the rest were problems, but what tended to really get people worked up -- just like today -- was when they got hit in the pocketbook.
 
 === Devolution of Power
 
-After the warring and general chaos of the previous centuries, alliances and central authorities began to develop. However, the Plague had destroyed a lot of the power structures between regions, and the bureaucracy and communications technology of the time wasn't sufficient to effectively govern disparate areas; local authorities fought fiercely to maintain independence.
+The Plagues had destroyed a lot of the power structures between regions, and the bureaucracy and communications technology of the time wasn't sufficient to effectively govern disparate areas; local authorities fought fiercely to maintain independence
+
+=== Labor Supply and Demand
+
+The lack of people also meant that labor to work that land was more valuable ("`owned`" by the peasant) while decreasing the value of the land (owned by the lord)
+
+As the population started to grow again, the concessions gained by the more valuable workforce began to put increasing pressure on the nobility, causing a great deal of tension between peasants and lords
+
+The strict set of laws and practices that had preserved order in society started to become further strained
+
+=== Upturning Social Structure
+
+There was no police force in the modern sense (when it wasn't ad-hoc, it was soldiers keeping the peace, and they're not known for having a light touch), and standing armies were rare (paying/feeding them is expensive, so lords would conscript vassals as needed)
+
+That meant that social order had to be preserved almost exclusively by social structure and tradition -- another reason why dissent was crushed so forcibly
+
+=== Dangerous Nonconformism
+
+Civilization depended on conformity to survive, but people were increasingly not fully conforming
 
 === Growing Independence
 
 As we will see, the constant battles between central authorities and local independence would be almost as important to what happens during the Reformation as the theological battles...
 
+
+== Clergical Rights
+
+image::medieval-priest.jpg[]
+
+=== Not Really A Part of the State
+
+Clergy were exempt from taxes and most civic duties, including warfare
+
+Clergy could not be tried in a civil court for crimes: they had to be tried in an ecclesiastical court
+
+They did not have to swear loyalty to the local magistrate, but rather to the Pope
+
+=== Resentment of the Clergy
+
+Why would the peasants be so upset about the rights of clergy? What would upset the nobility?
+
+[.answer.fragment]
+--
+Being exempt from taxes, but imposing a further "`tax`" on people in the form of mandatory tithes, they were targets of resentment from the common people that had to pay for everything -- especially when clergymen were blatantly greedy and lazy
+
+The lords resented that the clerics would take advantage of the benefits of living under their rule, but had none of the responsibilities
+
+And when a priest would break a law (which, sadly, was hardly unknown) they often got little to no punishment from their own court system
+--
+
+=== Clerical Greed
+
+Greed was the number one complaint against the clerics of the time
+
+Whoring, sloth, and the rest were problems, but what tended to really get people worked up -- just like today -- was when they got hit in the pocketbook
+
+=== Reforming Clerical Abuses
+
+Various reforms throughout the Middle Ages tried to correct the abuses
+
+The most comprehensive by far was the "`final`" response to the Reformation: The Council of Trent
+
+
 == The Structure of the Medieval Church
+
+image::f-allsaints-09.jpg[height="600px"]
 
 === "`The Church`"
 
-It's the Church of Christ throughout the ages -- made up of both the living and the dead
+When we talk about "`The Church`", what's meant is the Church of Christ throughout the ages -- made up of both the living and the dead
 
 === The Eternal Church
 
@@ -1819,49 +1902,46 @@ Combined with allegorical interpretations of the Bible, this gave history -- esp
 
 === The Timeless Church
 
-Time was compressed: events that had happened in Christ's or Moses' time had an immediacy about them, and the Church hadn't really "`developed`" into what it is, but had always been essentially the way it is
+Time was compressed: events that had happened in Christ's or Moses`' time had an immediacy about them
+
+The Church hadn't really "`developed`" into what it is, but has always been essentially the way it is
 
 === The Value of the Timeless Church
 
 What were the consequences of this view of history on the medieval Church?
 
-[answer fragment]
-
+[.answer.fragment]
+--
 It greatly strengthened the power of existing structures, since they were right and "`normal`"
 
-=== The Invisible Church
+The accademic thinkers were all proving how the way things are is the only logical way it could possibly be, and from people's experience there wasn't anything to dispute that
+--
 
-The idea of the "`Invisible Church`" also gave credence to praying to the dead (especially the saints) and holding services and rituals for the dead
+=== The Times They Are A-Changing
+
+The whole idea of "`progress`" as we think of the term is really only since the Industrial Revolution
+
+There was no real reason to believe your life was going to be substantially any different than your great-great-great-grandfather's
 
 === Liturgical Time
 
 Time was conceived and divided in liturgical terms: no time stood apart from God
 
-=== The Litugical Day
-
-The day was divided into seven times of prayer, based on Psalm 119:164
-
-=== The Litugical Week
+The day was divided into seven times of prayer, based on https://www.biblegateway.com/passage/?search=Psalm+119%3A164&version=NIV[Psalm 119:164]
 
 Each day of the week had special significance, with Sunday devoted to God, Saturday to Mary, Friday to fasting from meat to remember Christ's passion, etc
 
-=== The Litugical Year
-
 The year was divided into major festivals (primarily Lent and Advent, but also various events from the life of Mary) and minor festivals spread out over every day of the year dedicated to remembering particular saints
-
-=== The Clergy
-
-The Catholic Church was a very hierarchical institution, with its core made up of clergy that were distinguished from the laity by special vows and privileges
 
 === The Church's Hierarchy
 
-The Pope, Christ's vicar, oversees the whole of Christendom, while the Bishops, successors to the Apostles, are responsible for their dioceses, and parish priests serve the laity directly in their parishes as deputies to the Bishops
+* the Pope, Christ's vicar, oversees the whole of Christendom
+* the Bishops, successors to the Apostles, are responsible for their dioceses
+* parish priests serve the laity directly in their parishes as deputies to the Bishops
 
 === Special Vows and Privileges
 
 "`Special vows and privileges`" were often all the really separated the clergy from the laity
-
-=== Not Always Set Apart
 
 Education on doctrine or even living a "`holy`" life was not necessarily a requirement for the position
 
@@ -1885,28 +1965,38 @@ In addition, there were many, many lay institutions called "`confraternities,`" 
 
 === Growth of the Orders
 
-These institutions (primarily religious orders and confraternities) grew tremendously in the years leading up to the Reformation
+Religious orders and confraternities grew tremendously in the years leading up to the Reformation
 
 === Increasing Religious Support
 
-There was an increase in the endowments made to the Church (parishes, Rome, orders, confraternities, etc.) and the most popular book coming off the new invention -- the printing press -- were the books of hours (essentially prayer books)
+There was an increase in the endowments made to the Church (parishes, Rome, orders, confraternities, etc.) and the most popular book coming off the new invention -- the printing press -- were books of hours (essentially prayer books)
 
 === Increasing Religious Fervor
 
 The religious fervor in society was growing steadily and had reached an all time high when the Reformation came
 
+=== "`Rock Star`" Preachers
+
+As an indication of the fever pitch of religious zeal that was developing, the town and city leaders would often hire preachers to preach in their municipality -- especially during major festivals
+
+These preachers were the "`rock stars`" of their day and spoke in the vernacular (rather than Latin)
+
+=== Growing Pains
+
+The growth of the institutions caused a great deal of stress, as they competed against each other for authority and scarce resources -- especially when times turned hard (which, as was discussed earlier, was a common thing)
+
+For example, a well-established Augustinian monastery would resent the encroachment of a Franciscan order moving into the town
+
 === Leading Up To Reformation
 
 How would having a more deeply religious population affect the Reformation?
 
-[answer fragment]
---
+[.answer.fragment]
 It meant, primarily, that people cared about what was being said -- it wasn't just an academic debate that didn't have anything to do with them, which fueled both sides
---
 
 === Protestant Strength
 
-In the Protestant's favor, it **_tended_** to be that the more educated the people were – and therefore less reliant upon what their priests told them – the more likely they were to join in the protest
+In the Protestant's favor, it **_tended_** to be that the more educated the people were -- and therefore less reliant upon what their priests told them -- the more likely they were to join in the protest
 
 === Rome's Strength
 
@@ -1916,39 +2006,30 @@ In the Papist's favor, people were more educated and ingrained in the life of th
 
 {warn} That said, however, despite a great deal of modern scholarship trying to find demographic correlations to confessions (e.g., "`If someone's an educated male living in the city, then he'll likely become a Lutheran.`") has failed to find anything statistically significant {warn}
 
-Strangely, the Holy Spirit did His thing without trying to make it easier for modern sociologists to figure out how or why...
+Strangely, the Holy Spirit did His thing without trying to make it easy for modern sociologists to figure out how or why...
 
-=== Growing Pains
 
-The growth of the institutions caused a great deal of stress, as they competed against each other for authority and scarce resources – especially when times turned hard (which, as was discussed earlier, was a common thing)
+== Faith
 
-A well-established Augustinian monastery would resent the encroachment of a Franciscan order moving into the town, for example
-
-=== "`Rock Star`" Preachers
-
-As an indication of the fever pitch of religious zeal that was developing, the town and city leaders would often hire preachers to preach in their municipality -- especially during major festivals
-
-These preachers were the "`rock stars`" of their day and spoke in the vernacular (rather than Latin)
+image::328px-Albrecht_Dürer_Betende_Hände.jpg[alt="https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_Betende_H%C3%A4nde.jpg"]
 
 === Fidas Qua vs Fidas Quae
 
-The Church distinguished between two types of faith: the act of faith that trusts in Christ (fides qua), and the content and doctrines of faith (fides quae)
+The Church distinguished between two types of faith: the personal faith that trusts in Christ and His Church (fides qua creditur), and the content and doctrines of faith (fides quae creditur)
 
 === Implicit vs Explicit
 
-There was "`explicit`" and "`implicit`" faith
+"`Explicit`" faith is where you can articulate what you believe and why
 
-Explicit faith is where you can articulate what you believe and why
-
-Implicit faith is where you don't know all the doctrine and reasons for something, but you do what the Church says because you have implicit faith in its authority and trust that it knows all the reasons and the like so you don't have to
+"`Implicit`" faith is where you don't know all the doctrine and reasons for something, but you do what the Church says because you have implicit faith in its authority and trust that it knows all the reasons and the like so you don't have to
 
 === Christians That Don't Know Christianity?
 
-To a modern Christian – especially Protestants – this may seem like a strange idea: People can be Christians and not even know basic Christian teachings like the Crucifixion or the Ten Commandments?
+To a modern Christian -- especially Protestants -- this may seem like a strange idea: People can be Christians and not even know basic Christian teachings like the Crucifixion or the Ten Commandments?
 
 === Christian Specialist
 
-However, the priest was (to use modern terms) the "`Christian specialist,`" so you just took what he said because he knew and you didn't – similar to going to the doctor
+However, the priest was (to use modern terms) the "`Christian specialist,`" so you just took what he said because he knew and you didn't -- similar to going to the doctor
 
 If the doc says that you need to stop smoking, you can choose to ignore him because you like smoking and don't believe that smoking could really hurt you, but only at peril to your health
 
@@ -1958,50 +2039,49 @@ If the priest says that you need to go to a mass you can't understand, you do so
 
 === Allowing Ignorance
 
-In the clergy's defense for allowing the vast majority of their parishioners to not know much, you have to remember what they were working against
+In the clergy's defense for allowing the vast majority of their parishioners to not know much, you have to remember what they were working against...
 
 === Illiterate
 
-Among many other things, there was essentially no literacy, and people who work the land don't have time to devote to classes
+Among many other things, there was essentially no literacy, and people who work the land with difficult travel don't have time or resources to devote to classes
+
+image::stations_of_the_cross.jpg[]
 
 === A Little Knowledge...
 
-Also, they knew from experience that "`a little knowledge can be a dangerous thing,`" leading to all sorts of heresy if people knew one piece of doctrine without the entire accompanying framework around it
+The clerics knew from experience that "`a little knowledge can be a dangerous thing,`" leading to all sorts of heresy if people knew one piece of doctrine without the entire accompanying framework around it
 
 === Which Way To Err?
 
 Given the situations of the time, the Church really was trying to walk a thin line between leaving people too far in the dark, and stirring up trouble that would endanger their souls
 
-=== Reforming Clerical Abuses
 
-There was certainly laziness and abuses by the clergy, though, and various reforms throughout the Middle Ages tried to correct it, the most comprehensive by far being the "`final`" response to the Reformation: The Council of Trent
+== Heresy
 
-=== Heresy
+image::heretic2.gif[]
+
+=== Spiritual Psychopath
 
 The view of everyone at the time was that a heretic is a "`spiritual psychopath`"
 
-But far, far worse -- infinitely worse, in fact -- than a "`mere`" psychopath
+A heretic is far, far worse -- infinitely worse, in fact -- than a "`mere`" psychopath
 
 === Do Not Fear Those Who Kill The Body
 
-In the Gospels, Jesus himself says not to worry about those that merely kill the body, but to fear for our souls instead. (Matthew 10:28 and Luke 12:4, for example.)
+In the Gospels, Jesus himself says not to worry about those that merely kill the body, but to fear for our souls instead (https://www.biblegateway.com/passage/?search=Matthew+10:28&version=NIV[Matthew 10:28] and https://www.biblegateway.com/passage/?search=Luke+12:4&version=NIV[Luke 12:4], for example)
 
 Murder only destroys the mortal body, but heresy destroys the immortal soul
 
 === Eternity Is At Stake
 
-Because of the ease with which heresy grows, stopping heresy was viewed as being infinitely more vital than stopping a "`mere`" psychopath since he was bringing souls with him to Hell and an eternity of torture and damnation
+Because of the ease with which the "`leaven`" heresy grows, stopping heresy was viewed as being infinitely more vital than stopping a "`mere`" psychopath since he was bringing souls with him to Hell and an eternity of torture and damnation
 
 === What's The Most Important Thing?
 
 In all of Christian teaching and practice, what's more important than saving souls?
 
-[answer fragment]
---
-Of course the answer is "`nothing.`"
-
-That's the very point of both the Law and the Gospel
---
+[.answer.fragment]
+Of course the answer is "`nothing.`" That's the very point of both the Law and the Gospel
 
 === Extreme Measures for Extreme Importance
 
@@ -2009,28 +2089,134 @@ Given the extreme importance of saving and protecting souls, are "`extreme`" mea
 
 Where do you draw the line? Where does the Bible draw the line?
 
-The views regarding the nature of heresy are radically different than the modern Western view – what are those differences, and which is closer to what the Bible teaches?
+The views at the time regarding the nature of heresy are radically different than the modern Western view... What are those differences, and what is closer to what the Bible teaches?
 
-[answer fragment]
---
+[.small]
 These are all meant as discussion and thought questions, and are vitally important to understanding the events and importance of what happens in the Reformation
---
 
 === Blasphemy and Heresy are Capitol Offenses
 
-Note, for example, that the laws that God gave the nation of Israel regarding heresy, blasphemy and the like bore the death penalty
+Note, for example, that the laws that God gave the nation of Israel regarding heresy, blasphemy and the like bore the death penalty  (c.f., https://www.biblegateway.com/passage/?search=Leviticus+24:14-16&version=NIV[Leviticus 24:14-16])
 
-=== Just As Serious
+In the New Testament the penalty was reduced (e.g., https://www.biblegateway.com/passage/?search=Titus+3%3A10&version=NIV[Titus 3:10] and https://www.biblegateway.com/passage/?search=Matthew+18%3A15-17&version=NIV[Matthew 18:15-17]), but still serious
+
+=== Everyone's Agreed
 
 It's important to realized that while they obviously differed from the Catholic Church over exactly what was heretical, the Magisterial Reformers (Luther, Zwingli, Calvin, etc.) shared Rome's understanding of the seriousness of heresy and the essentially the same **_means_** by which it needed to be fought
 
-=== Church and State Needed Each Other
 
-There was a great deal of "`cross pollination`" between the Church and the state
+== Renaissance Humanism
 
-Not just because of where it would be mandated, but also because, in a world where only about 10% of those in the city could read (and far smaller than that in the country-side), the various governments would hire clerics to perform governmental functions
+image::353px-Da_Vinci_Vitruve_Luc_Viatour.jpg[alt="https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",height="600px"]
 
-=== Conflicts of Interest
+=== Rebirth of the Ancients
 
-This caused conflicts of interest to arise for those clerics in both directions, but the trend was that the clerics would start to become more "`attached`" to their governmental responsibilities than their ecclesiastical ones, which brought more state influence on the Church
-////
+The Renaissance was a "`rebirth`" (thus the name) of the study of the "`Ancients`" (i.e., the Greeks and the Romans in particular, but also Egypt, Persia and Israel)
+
+Ancient art, literature, philosophy, politics, etc. were revived
+
+=== Back to the Sources
+
+In doing so, they desired to go "`back to the sources`" -- glosses and interpretations weren't good enough
+
+St. Thomas Aquinas, for example, was one of the Church's experts on Aristotle, but he couldn't read Greek
+
+The Renaissance Humanists found that kind of thing utterly disgraceful
+
+=== Dead Languages
+
+The "`back to the sources`" is still a big issue in the Church
+
+Some church bodies absolutely insist that its preachers and theologians study the "`source`" languages that the Bible was written in so they can read the Bible without the "`interpretation`" that is a part of translation
+
+Other church bodies say that an English translation is good enough and its shepherds have plenty to learn without having to worry about dead languages
+
+=== The Middle Ages
+
+It was the Renaissance Humanists that coined the term "`The Middle Ages`"
+
+They saw themselves as merging the best of Christianity and Ancient knowledge to produce a new age of enlightenment
+
+
+== Christianity That Is Practical
+
+image::349px-Aime-Morot-Le-bon-Samaritain.JPG[alt="https://commons.wikimedia.org/wiki/File:Aime-Morot-Le-bon-Samaritain.JPG"]
+
+=== Sin Is Ignorance
+
+Plato and Aristotle, among many others, had written about "`sin`" being the result of ignorance -- after all, nobody that knew true virtue and its rewards would want to do anything else
+
+[.small]
+That was hardly unique. Gautama Buddha had taught essentially that five hundred years before Christ image:375px-Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg[alt="https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg",height="150px"]
+
+=== UnChristian Ignorance
+
+The Humanists gave it a "`Christian`" interpretation
+
+Depending on the person, it varied from Augustinian understandings of the Fall, to outright denials of Original Sin
+
+*The goal of their learning was specifically to produce a moral citizenry*
+
+=== Impractical Logic Chopping
+
+They had a great disdain for the rigorous "`logic chopping`" of Scholasticism, where huge amounts of time and thought went into theoretical matters that didn't directly affect the social and moral life of people
+
+=== Practical vs Theoretical Christianity
+
+What are some of the advantages and disadvantages involved with "`practical`" Christianity?
+
+How about for "`theoretical`" Christianity?
+
+=== Practical Christianity
+
+One advantage with the "`practical`" is that it's easier to see its results and speaks directly to peoples`' needs
+
+One disadvantage is that it easily becomes "`social gospel,`" which quickly looses the "`gospel`" part
+
+"`Social Gospel`" is often so concerned with people's immediate "`felt needs`" that it forgets about "`abstract`" ideas that get in the way, like sin and redemption
+
+=== Theoretical Christianity
+
+One advantage of "`theory`" is that it tends to focus on things like sin and redemption, which is certainly what's really important in the "`big picture`"
+
+Unfortunately, it often forgets that there are real people hurting that need specific help like food, healthcare, or even a shoulder to cry on
+
+The last thing they need is platitudes and not giving https://www.biblegateway.com/passage/?search=Matthew%2025:31-46&version=NIV["`a glass of water to the least of these`"] like https://www.biblegateway.com/passage/?search=Luke+10%3A25-37&version=NIV[the priest and Levite in the parable of the Good Samaritan]
+
+
+== Straying From Her Roots
+
+image::360px-Rotterdam_standbeeld_Erasmus.jpg[alt="https://en.wikipedia.org/wiki/File:Rotterdam_standbeeld_Erasmus.jpg"]
+
+=== Ancient and Classical Languages
+
+Going back to the sources, of course, included the study of Greek and Hebrew so they could read the Bible in the original languages
+
+It also included "`classical`" Latin and Greek so they could read the Church Fathers
+
+[.small]
+(the Latin people used had changed the same as any other language over the years)
+
+The goal of doing so was to see where the church had strayed from her roots and enact reform
+
+=== Prince of the Humanists
+
+image::339px-Holbein-erasmus.jpg[alt="https://en.wikipedia.org/wiki/File:Holbein-erasmus.jpg",role="left"]
+
+A priest and scholar named Erasmus (1466 - 1536) became known as the "`Prince of the Humanists`" for his extraordinary talent with languages and skill with "`practical philosophy`"
+
+=== Novum Instrumentum omne
+
+image::354px-Erasmus_hieronymus.jpg[alt="https://en.wikipedia.org/wiki/File:Erasmus_hieronymus.jpg",role="right"]
+
+He published a version of the New Testament where the Greek and his Latin translation were side-by-side so you could easily compare his translation to the original -- and clearly showed errors in the Vulgate, with doctrinal problems resulting
+
+It was of such impressive Biblical scholarly work that it was used as the basis for Luther's translation into German, as well as the Geneva & King James Bibles
+
+=== Praise of Folly
+
+image::314px-HolbeinErasmusFollymarginalia.jpg[role="right",height="300px",alt="https://en.wikipedia.org/wiki/File:HolbeinErasmusFollymarginalia.jpg"]
+
+He wrote a scathing satire (dedicated to his friend Sir Thomas More) called "`Praise of Folly`", which lampooned many of the practices of the Church as being superstitious, furthering ignorance, and pagan
+
+His "`Handbook of the Christian Knight`" was extremely popular and urged Christians to improve themselves through moral self-mastery
