@@ -1,0 +1,197 @@
+== The Council of Trent
+
+image::concilio-de-trento-bautismo.jpg[]
+
+=== Major Catholic Renewal
+
+By the mid 1540's it had become clear to Rome as well as her critics that a massive, comprehensive and strictly enforced series of reforms were needed within the Catholic Church
+
+=== The Town of Trent
+
+* Charles got his wish that it would take place on Imperial soil (and thus less strongly under "`undo`" Papal control)
+* The Vatican got its wish because the town was culturally Italian and just outside the Italian border (today it's in Northern Italy)
+
+=== Practical and Doctrinal
+
+It would address both the "`practical`" (church offices, rules of behavior, etc) and doctrinal issues
+
+* The terms they used were "`reform of morals`" and "`extirpation of heresies`"
+* the former being the most important to the Emperor
+* the later to Rome and the Lutherans
+
+=== Who Could Be There
+
+Lutherans were allowed to attend, but not participate
+
+=== Council of Trent Dates
+
+The Augsburg Confession was in 1530
+
+The council was originally called in 1537
+
+The Diet at Regensburg was in 1541
+
+The council wouldn't get a chance to meet until 1545
+
+After two major interruptions, the council finally finished in December of 1563 and received official Papal endorsement in January of 1564
+
+=== Trying to Avoid War
+
+This is Charles`' last chance to try to bring the Lutherans back into the fold without causing civil war within his empire
+
+=== Interruptions and Changes During Trent
+
+The first interruption was due to the Schmalkaldic War in 1546 (a year after they finally start to meet)
+
+=== A Strong Papal Hand
+
+The second interruption was initiated by the Triumph of the Lutheran Princes (the counter-offensive that made Lutheranism legal in the Empire), and lasted a decade
+
+The reason that interruption lasted so long was that the new pope, Pope Paul IV, distrusted councils and felt that what was needed during the crisis was a strong Papal hand over the church
+
+=== Changes During Trent
+
+Trent would not be allowed to meet again until after he died
+
+By that time:
+
+* Charles is no longer emperor
+* Lutheranism is legal in Germany
+* there is peace between France and Spain
+* Pope Pious IV is in charge
+
+=== The Focus of the Council of Trent
+
+By focusing on the "`extirpation of heresies`" and the "`reform of morals,`" the council was saying that its focus was on those issues that were most immediately relevant to the issues brought up by the Reformation
+
+Therefore, many things (like Marian devotion) were either skipped or lightly touched on
+
+== Trent's Phases
+
+image::trent_collage.jpg[]
+
+=== The First Phase
+
+From late 1545 to early 1547, the council focused on
+
+* the sources of religious authority
+* the affirmation/declaration of the canonical books of Scripture
+* decrees on the Sacraments
+* the decree on Justification
+
+=== The Dual Source Doctrine
+
+The Dual Source doctrine was reaffirmed, stating that Church Tradition and Scripture are equally important sources in determining church doctrine and practice
+
+It is a fallacy to try to hold Scripture up against Tradition: that would be akin to holding up one book of the Bible against another
+
+As the only legitimate interpreter of Scripture, the Catholic Church can not have an invalid understanding of Scripture
+
+=== Clarifying Canonicity
+
+Trent also reaffirmed the canonical books of Scripture, but changed some of the Old Testament apocryphal books from "`secondary canonicity`" to "`primary canonicity`"
+
+[.small]
+--
+As mentioned before in the section The Gathering of the New Testament Cannon, "`promoting`" the apocryphal books directly contradicted Jerome and the other church fathers that had gathered the Cannon, as well as virtually all of Rome's own teachings on canonicity up to this point
+--
+
+=== Authentic Translations and Scholarship
+
+The Vulgate was reaffirmed to be "`authentic`" -- the authoritative translation that the Church should use -- but they moderated it down a bit in light of the work being done by the Humanists
+
+Scholarship regarding better translations (including into the vernacular), weeding out textual corruptions, and the like were permitted as long as it was done with the blessing of the Holy Mother Church
+
+=== Seven Sacraments
+
+Regarding the Sacraments, Trent declared that Jesus had instituted in the Bible all seven of the Church's Sacraments
+
+[.small]
+--
+For example, "`If you forgive anyone his sins, they are forgiven; if you do not forgive them, they are not forgiven`" [John 20:23] is the institution of Penance
+
+For the institution of Extreme Unction (Last Rights): "`Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise him up. If he has sinned, he will be forgiven. Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective.`" [James 5:14-16]
+--
+
+=== Ex Opere Operato
+
+With the Lutherans and Calvinists, the Council reaffirmed that the Sacraments themselves work _ex opere operato_ ("`from the work already done`")
+
+They work simply because they are performed because of what God has done -- it does not matter what the moral standing is of the priest, or the level of faith in the person receiving the Sacrament
+
+=== Trent on Justification
+
+Regarding Justification, here's what the council had to say:
+
+[quote, "the 6th Session of the Council of Trent"]
+____
+They who by sin have been cut off from God may be disposed, by his quickening and helping grace, to convert themselves to their own justification by freely assenting to, and cooperating with, that grace so that while God touches the heart of human beings through the illumination of the Holy Spirit, human beings themselves neither do absolutely nothing while receiving that inspiration -- since they can also reject it -- nor yet are they able, through their own free will and without the grace of God, to move themselves to justice in God's sight.
+____
+
+=== The Second Phase
+
+From mid 1551 to mid 1552, the council focused on the Eucharist
+
+Both "`the real presence`" (Lutheran) and symbolism were denounced, and transubstantiation was reaffirmed
+
+=== The Third Phase
+
+From January 1562 to December 1563, the council focused on issues of organization, practice and discipline within the Church
+
+The basic approach here was the same as before: rather than abolishing institutions that had gone bad, they sought to correct the problems
+
+=== Absentee Priests
+
+Priests and bishops were to be resident in their parishes and diocese unless given special dispensation
+
+[.small]
+--
+No more "`absentee priests`" that draw pay from seven parishes while only occasionally dealing with one of them, for example
+--
+
+=== Order Professions
+
+Orders were to operate based on the professions of the order
+
+=== No Superstition of Icons
+
+Icons and relics were affirmed and encouraged, but
+
+[quote]
+____
+All superstition shall be removed, all filthy quest for gain eliminated, and all lasciviousness avoided so that images shall not be painted and adorned with a seductive charm, or the celebration of saints or the visitation of relics be perverted by the people into boisterous festivities and drunkenness, as if the festivals in honor of the saints are to be celebrated with revelry and with no sense of decency.
+____
+
+=== Administration of Diocese
+
+To help make sure that things are run in a proper and orderly way, much better administration of diocese are instituted, regular tours by bishops or their representatives are to be done, etc.
+
+=== Reform the Shepherds
+
+Essentially all of the reforms are aimed at the clergy and orders -- not the laity
+
+Trent took a very top-down approach: reform the shepherds and the flock will follow
+
+**_It's hard to be anti-clerical when you have devout and learned clerics_**
+
+=== Inspire Reverence
+
+The clergy are to be above reproach, which inspires reverence and obedience
+
+The bishops are given unprecedented power over the affairs of their diocese to enable them to carry all of this out
+
+=== A Bulwark Against the Heretics
+
+They sought to take the teeth out of the Protestants by making the clergy above reproach or satire
+
+Trent acted to solidify many of the doctrines in the Catholic Church that had previously been ambiguous
+
+It served as the cohesive and unified platform of Catholic doctrine needed by Rome in order to fight the Reformation
+
+=== Radical Transformation
+
+It was by far the most important body of work for the Catholic Church since the early Church Fathers
+
+While Vatican II in the 1960s would once again make radical changes/clarifications to Catholic doctrine and practice, even it didn't have the impact of Trent
+
+include::implementing_trent.adoc[]

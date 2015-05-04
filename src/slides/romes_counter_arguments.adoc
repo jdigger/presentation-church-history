@@ -1,0 +1,176 @@
+== Rome's Counter Arguments
+
+image::Coat_of_arms_Holy_See.svg[height="600px"]
+
+=== Yet Another Heresy
+
+During the first years of the Reformation, Rome figured it was simply fighting a new heresy, like any of the hundreds of other heresies that it had fought before
+
+=== Definition of Heresy
+
+Heresy is **_a deliberate and persistent rejection of the truths of orthodox faith_**
+
+It does **not** mean unbelief: pagans, Jews, Muslims, atheists, etc. can't be heretics
+
+You have to have started as a Christian and it must be a deliberate willful contradiction of what the Church teaches
+
+=== Using the Inquisition to Contain the Problem
+
+Just as it had done many times before, the Catholic Church used the instrument of the Inquisition to try to stop the spread of heresy
+
+As heresy is fundamentally an error, the natural thing to do was to try to instruct the straying person on the truth
+
+All of the conscientious clergy tried to do -- sometimes bending over backwards to settle things simply through instruction
+
+=== Basic Early Catholic Arguments
+
+In responding to the arguments made by the Reformers (especially Luther during the early years), there were four basic points that the Catholic writers made:
+
+. Luther was a maverick bucking the consensus of centuries of holy men and women
+. the Bible itself says that the Church is greater than Scripture
+. the fundamental disagreements between reformers pointed to the nonsense of _Sola Scriptura_
+. the rebelliousness of what the Protestants were doing would cause political subversion and moral decay
+
+=== Centuries Of Saints
+
+Who was more likely to be mistaken?
+
+* an upstart monk from the "`backwaters`" of Christendom
+* centuries of holy, brilliant and learned saints
+
+=== Church Precedent
+
+It was generally understood that "`precedent is to civil law as custom is to church law`"
+
+The writers, knowing how much Luther owed to St. Augustine, quoted Augustine saying, "`The custom of the people of God has the force of law`"
+
+To really drive their point home, they quoted https://www.biblegateway.com/passage/?search=John+14%3A26&version=NIV[John 14:26], https://www.biblegateway.com/passage/?search=John+15%3A26&version=NIV[John 15:26] and https://www.biblegateway.com/passage/?search=John+16%3A7&version=NIV[John 16:7]
+
+=== Second Guessing
+
+Of every argument ever put before him, this was the one that caused Luther to second-guess himself the most
+
+When Luther was called to Worms to recant, his first response was not
+
+"`...Here I stand, I can do no other...`"
+
+but
+
+"`May I have 24 hours?`"
+
+=== "`Am I Alone Wise?`"
+
+According to his own account of the situation, Luther spent that time constantly asking himself, "`Am I alone wise?`"
+
+=== The Bible Says It Is Incomplete
+
+[.bible]
+--
+https://www.biblegateway.com/passage/?search=John+21:25&version=NIV[John 21:25] -- "`Jesus did many other things as well.  If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.`"
+--
+
+It is therefore well understood that there is a greater tradition for the people of God -- oral and in practice -- than merely what the Bible contains
+
+=== The Spirit Will Reveal More Later
+
+[.bible]
+--
+https://www.biblegateway.com/passage/?search=John+16:12-15&version=NIV[John 16:12-15] -- "`I have much more to say to you, more than you can now bear. But when he, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come. He will bring glory to me by taking from what is mine and making it known to you. All that belongs to the Father is mine. That is why I said the Spirit will take from what is mine and make it known to you.`"
+--
+
+Here as well, Jesus is obviously saying that the Spirit will revel the truths of God over time, as the Church is ready for them
+
+=== The Church Is Older Than Scripture
+
+Finally, it's inconceivable to try to hold up Scripture as being higher than the Church since it was the Church that determined what makes up Scripture
+
+[.small]
+--
+(Go back to the discussion in The Gathering of the New Testament Cannon section of this study for more on this.)
+--
+
+So, in the words of Johan Eck: "`Thus it is clear that the Church is older than Scripture, and Scripture would not be authentic without the Church's authority.`"
+
+=== The Church Is Scripture's Guardian
+
+Combined with the giving of the Keys to Peter (and therefore the Papacy), Scripture very clearly shows the Church's position of her role as its guardian, not the other way around
+
+Removing the authority of the Church over Scripture had created a horrible, contradictory, heretical mess
+
+=== Disagreement Among the Learned Reformers
+
+The reformers couldn't agree on basics between themselves, even as they all said that the Mother Church had no power to tell them that their individualistic and subjective interpretations were wrong...
+
+...often in ways that the Catholics could show were absolutely wrong according to Scripture itself
+
+=== Not For Power, But For Truth
+
+This wasn't some sort of theoretical principle designed to keep popes in power: the need for the Church as being the head over life and Scripture was being proved by the historical circumstances that were manifesting themselves every day
+
+=== Discord Proving Error
+
+Doctrinal discord is a sure sign of error, and makes very plain the absolute necessity of the Church to make sure it's interpreted correctly
+
+Who better to interpret the Scriptures than the Holy Spirit, who had clearly been promised in much greater measure to the Church than to any individual believer?
+
+=== Empirical Proof Of Social Unraveling
+
+The Peasant's War was as powerful a source of proof as anyone could possibly imagine for showing that Protestant heresy would also bring down society itself
+
+The vast, uneducated masses that were hearing about how they are justified by faith alone -- not by any good works that they do -- would not "`get`" that it was actually a call for more good works
+
+== Protestant Counter Arguments
+
+image::skeptical.gif[]
+
+=== Unconvincing
+
+While compelling, the arguments given obviously weren't convincing for the Protestants
+
+[.small]
+--
+(Please be aware that I've only given a summary of the arguments. As we'll see in the next section, they were very carefully crafted works, so don't think that what's here is complete in any way. However, there are some fundamental issues, regardless of how tightly it's argued...)
+--
+
+=== The Problem With Popularity
+
+Just one prime example of the problem with numbers that comes straight from the Bible is https://www.biblegateway.com/passage/?search=Romans+11%3A1-10&version=NIV[Romans 11:1-10] (Elijah and the "`remnant`")
+
+Of course that's not to mean that "`numbers`" are to be ignored -- you're constantly admonished to seek the council of fellow believers to help keep you on track
+
+=== Being Wise
+
+Referring back to Luther's question of "`Am I alone wise?`" his answer was the question that everyone remembers:
+____
+"`Unless I am convicted by Scripture and plain reason -- I do not accept the authority of popes and councils, for they have contradicted each other -- my conscience is captive to the Word of God.  I cannot and I will not recant anything, for to go against conscience is neither right nor safe.`"
+____
+
+=== Continuing Revelation?
+
+Does the Bible necessarily say that there will be continuing revelation (after the end of the first century) regarding doctrine?
+
+=== Continuing Revelation Positions
+
+Every passage that gives that impression is, in context, referring to the Apostles
+
+Rome (and Charismatic groups like the Pentecostals) contends continues it to today, largely because of Apostolic succession
+
+Protestants (like Luther) assert that canonical authority died with John
+
+=== Cannon Criteria
+
+Interestingly, that it stopped with the original Apostles is also the assertion the church fathers made when gathering the New Testament
+
+Only books written by the "`original`" Apostles or their agents (like Mark) could be Cannon
+
+Successors to the Apostles (e.g., Polycarp) were automatically disqualified
+
+=== Disagreement As Proof
+
+Disagreements between the reformers simply means that at least one of them is wrong, but not necessarily both
+
+Even the Apostles disagreed on doctrine; e.g., we know that Paul had to publicly rebuke Peter. (https://www.biblegateway.com/passage/?search=Galatians+2%3A11-21&version=NIV[Galatians 2:11-21])
+
+=== Is Social Unrest More Important Than God's Word?
+
+Obviously the possibility of social and/or religious anarchy is certainly not sufficient reason to not proclaiming the Gospel

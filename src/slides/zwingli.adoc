@@ -1,0 +1,224 @@
+== The Reformation Comes to Switzerland
+
+image::Zwingli_statue.jpg[role="center",alt="https://commons.wikimedia.org/wiki/File:Zwingli_statue.jpg"]
+
+=== Huldrych Zwingli
+
+During the same time that Luther was causing such a stir in Germany, Huldrych Zwingli was doing a "`parallel`" Reformation in Switzerland
+
+Like Luther, Zwingli was trained in the university with Humanist teachings, and became a priest
+
+He was a priest for about ten years before beginning the "`reforming`" work that he became famous for
+
+=== Friend of the Humanists
+
+Unlike Luther, Zwingli strongly subscribed to the Humanist agenda, and was even good friends with Erasmus
+
+While Zwingli did gain a great deal of power after he started his reformation, he never had the prestige the Luther had earned, nor was he close to Luther's tremendous intellectual strength or dynamic personality
+
+That said, he was nearly as instrumental in sparking the Reformation as Luther was
+
+[.small]
+Zwingli is one of the church fathers of the modern Baptist church
+
+[NOTE.speaker]
+--
+Zwingli was almost exactly the same age as Luther: merely two months apart
+
+It's important to remember that, just as Luther was very much the "`insider`" and therefore knew the abuses first-hand, so did Zwingli
+--
+
+=== Testing the Reformation
+
+Because of Luther's power and prestige -- especially in an area that was supposed to be the heart of the Holy Roman Empire -- he drew away a lot of the fire from Zwingli
+
+Also, because the Swiss Confederation was independent from the Empire, it was able to fly that much lower under the radar of the powers gathering against Luther
+
+That enabled Switzerland to be a "`test bed`" for Reformation ideas...
+
+=== Humanist Preaching
+
+image::BiblePulpitFaithfulPreachingPastors_zps9749518d.jpg[role="right",alt="http://s244.photobucket.com/user/JRedPRP/media/BiblePulpitFaithfulPreachingPastors_zps9749518d.jpg.html"]
+
+After preaching in several other places and gaining a reputation for being a great preacher, Zwingli was called to Zurich in 1519
+
+He used the opportunity to totally change the way sermons were done by approaching the sermons in the same way a Humanist scholar would instead of the traditional homily from the pericope
+
+[.small]
+(He would start in Matthew and work his way through the books of the Bible, doing word studies and the like, instead of telling a story to do the exposition of the pre-selected readings)
+
+This caused quite a stir, but his oratory made him very popular
+
+
+== Zurich
+
+image::Day-89-sola-scriptura.png[]
+
+=== Going Radical
+
+Rather than staying at "`merely`" having a strong emphasis on Scripture, like Erasmus (or even Luther), he says that everything about worship must be based **_exclusively_** on Scripture
+
+He is so persuasive about it, that the City Council writes that into law in 1520
+
+In 1521 he was given a seat on the City Council
+
+He continues to speak out against Catholic doctrines and practices, and even petitions his bishop to allow clerical marriage
+
+[NOTE.speaker]
+--
+The "`clerical marriage`" issue was quite personal to Zwingli, as he had secretly married before doing the petition. This was, however, because he had also taken up the Protestant views on sex and marriage as was discussed before. Earlier in his career he had lived with a concubine -- a very common practice for clergy of the time. In marrying and petitioning for the removal of clerical restrictions against marriage, he was trying to stop the hypocrisy surrounding the issue.
+--
+
+=== Zurich Debates Sola Scriptura
+
+Tensions rose in the city over what Zwingli is preaching and Catholic teachings to the point that the City Council called for a public debate: The First Zurich Disputation in 1523
+
+The central point discussed was Sola Scriptura (which was still being defined at this point), and it drew over six hundred people -- all of whom could understand what was being said because Zwingli insisted that the proceedings be done in German instead of Latin
+
+Zwingli was well prepared, and neatly won the debate with the Catholic representatives
+
+=== The Council Responds
+
+The City Council is so impressed that they say that Zwingli's views are correct and that all preaching in the city must be based **_exclusively_** on Scripture
+
+Troublingly, though, was that the Council had set itself -- a secular political institution -- as the judge of not only religious policy, but about the **_content_** of doctrine
+
+Catholic claims about the ability to set doctrine were being officially denounced by the government
+
+It was a major merging of church and state
+
+=== Implementing Sola Scriptura
+
+Now the question was what to do about it?
+
+That led to the Second Zurich Disputation, where the Council agreed with Zwingli that the mass should be abolished, as well as the removal of stained glass and other imagery in the churches
+
+[.small]
+(For clarification for non-Catholics, the mass is not the worship service: it's the "`bloodless sacrifice`" made by the priest during the Eucharist. The imagery was seen as an affront to the command against graven images, which is the 2nd Commandment by Reformed enumeration, and part of the 1st Commandment by Catholic and Lutheran enumeration.)
+
+=== Trying to Keep Civil Order
+
+The Council did not think that it should be done right away due to the tremendous disruption that it would cause, and said that doing so should wait, to which Zwingli concurred
+
+=== Why Wait?
+
+In deferring the timing of such reforms to the Council, Zwingli was now not only fighting the Catholics, but now other Protestants...
+
+Now that the truth of God was clear, **_why wait_**?
+
+It's not up to a political body to make that kind of decision: the truth of God must be acted upon as soon as it is known!
+
+=== The Genesis of Anabaptism
+
+These more radical people would form the basis of what would become Anabaptism
+
+=== The Zurich Council's Mandates
+
+In 1525, due to conflicts between Zwingli and those that would become Anabaptists, the Council makes it a law that infants must be baptized
+
+It is also the year that the mass is abolished and replaced by a communion service
+
+A marriage tribunal -- run by the city instead of the church -- is also created, reflecting the belief that marriage is an institution ordained by God, but not a Sacrament
+
+[NOTE.speaker]
+--
+More on why infant baptism was such a big deal when we get to the Anabaptists.
+
+This "`simple`" change to the liturgy changed profoundly the way that Protestant churches would be built for centuries.
+--
+
+
+== Zwingli vs Luther
+
+image::zwing_1_01.jpg[alt="http://www.thegospelcoalition.org/blogs/trevinwax/2008/02/10/luther-vs-zwingli-at-marburg-why-the-fuss/",height="500px"]
+
+=== Agreement On Most Things
+
+While Zwingli and Luther saw essentially eye-to-eye on most everything, there were two major points that fundamentally separated them:
+
+* the nature of the Lord's Supper
+* the relationship between the Church and the State
+
+=== Luther on Church and State
+
+Luther considered the church and the state to reflect the needs of the "`inner`" and the "`outer`" man, with very different roles
+
+While there is obviously some overlap, he was careful to minimize it, and drew a sharp distinction between the two
+
+=== Zwingli on Church and State
+
+Zwingli took a much more "`holistic`" view and wanted to merge the two spheres as much as possible to create a unified whole that could better serve the needs of the saved, and defend against the damned
+
+=== "`Freedom of Religion`"
+
+It should be noted here that Luther was a proponent of "`freedom of religion,`" though in an alien form to the modern American idea
+
+The modern view is that you are free to practice any religion you choose, free from influence for or against that religion by the state
+
+=== Luther on Freedom of Religion
+
+Luther said that the individual is free to practice whatever religion he chooses -- but you may have to move in order to do so
+
+In other words, if you want to be a Catholic, live in a Catholic country, if Lutheran then a Lutheran country, if Jewish then a Jewish country, etc
+
+So while the roles between church and state are clearly defined, the two form a tight partnership, where the church supports and encourages the secular leadership, and the state helps foster the church
+
+=== Not A "`Middle Ground`" on State Religion
+
+This is one of those places where Luther wasn't a "`middle ground`" between Catholic and more "`radical`" Protestants, as he separated the roles far more than either of the other two groups did
+
+The Catholic Church, as we've seen, had very much involved itself in the matters of state, though it still drew at least a **_theoretical_** distinction
+
+Zwingli and others removed much of that distinction
+
+=== The Nature of the Lord's Supper
+
+What really separated Zwingli and Luther was the nature of the Lord's Supper
+
+Both Luther and Zwingli rejected the Catholic doctrines of transubstantiation and the sacrificial Mass...
+
+=== Luther on the Lord's Supper
+
+Luther believed Christ's body is "`in, with, and under`" the bread and wine, and acts as a vehicle of grace
+
+=== Zwingli on the Lord's Supper
+
+Zwingli understood the sacrament as Christ being present to the believer as a commemoration of the death of Christ, in which the church responds to grace already given
+
+image::wedding-rings-photo-2013-wedding-ring-on-hand-670x350-1024x535.jpg[alt="http://ruiyichem.com/68720/wedding-rings-on-hands.html/wedding-rings-photo-wedding-ring-on-hand-x",role="left",height="300px"]
+
+He compared it to a wedding ring: It doesn't **_create_** a marriage, but does act as a continual reminder of the covenants/vows  made by-and-to your spouse -- a symbol to you and the world of your union
+
+=== The Marburg Colloquy
+
+In 1529, Luther, Zwingli, Philip Melanchthon and John Oecolampadius got together to try to work out their differences
+
+To help bring focus to the discussion, Luther drafted fifteen articles of the disputed issues, to which everyone quickly agreed to fourteen of them with only minor modifications
+
+=== The Fifteenth Point
+
+Even the fifteenth point -- on the Lord's Supper -- was accepted in five of the six sub-points
+
+Whether Christ was there bodily or spiritually was the last sub-point
+
+That was never resolved, and served to keep the two sides from ever coming together
+
+=== Two Different Confessions
+
+When it came time for the Protestants to present a formal declaration to the Emperor (the Augsburg Confession), they presented two different confessions, with the nature of "`the real presence`" being the essential difference between them
+
+Of course, the divided front helped discredit both groups and made it much easier for Catholic authorities
+
+=== The Swiss Confederation
+
+Unfortunately for Zwingli's reformations, the Swiss Confederation was exactly that: a confederation of independent states
+
+Some of them decided that the Protestants were right and worked to free the others from "`superstitious Catholicism`"
+
+Others stayed with the Catholic Church and tried to get the "`dangerous innovators`" to come to their senses
+
+=== Swiss War
+
+Tensions between the cantons continued to rise into war
+
+Zwingli, leading the Protestant troops into battle in 1531 in the Second Battle of Kappel, was killed

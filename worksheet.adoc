@@ -1,8 +1,9 @@
-= Church History Worksheet
+= Church History Worksheet (2015-11-01)
 :stylesheet: worksheet.css
 
 http://bit.ly/churchhist
 
+////
 == The Philosopher -- Aristotle
 
 What were some of the differences between Plato and Aristotle?
@@ -121,7 +122,7 @@ What were some of the principle effects of the Plague?
 
 Why was is so dangerous that people were starting to question their masters?
 
-== Clergical Rights
+== Clerical Rights
 
 Why were both the common people and lords resentful of the clergy?
 
@@ -129,7 +130,7 @@ Why were both the common people and lords resentful of the clergy?
 
 What was so wonderful/terrible about the view of the Church being "`eternal`"?
 
-What seperated clergy from laity? When would that get changed to be closer to what we recognize?
+What separated clergy from laity? When would that get changed to be closer to what we recognize?
 
 What was the general religious "`tone`" heading into the Renaissance and Reformation?
 
@@ -158,3 +159,130 @@ How about for "`theoretical`" Christianity?
 == Straying From Her Roots
 
 Who was "`The Prince of the Humanists`" and what was one of his biggest contributions to the Church?
+
+== Sola Scriptura
+
+What, exactly, is meant by saying "`By Scripture Alone`"?
+
+Does it mean that the "`general`" revelation not given by the Bible is invalid?
+
+Does it mean that the writings of Church Fathers and the like should be ignored?
+
+Does it mean that God never reveals Himself in a special way to His people to guide them through life?
+
+Does it mean that God doesn't speak through His Church beyond what the Bible itself says?
+
+// This will be brought up later, but the answers to the "`true/false`" questions are: No, no, no and basically yes.
+
+
+== Prayers To the Saints
+
+What does the doctrine of the Priesthood of All Believers do to practices like praying the the saints?
+
+// This declared the practices like praying to the saints to be worse than meaningless -- it's actually harmful. Since the Bible says that Jesus is the mediator between God and man, approaching another human rather than Jesus is an assault on Christ's office.
+
+
+== Merging Church and State in Zurich
+
+What are some of the advantages in merging the church and the state?
+
+What are some of the disadvantages?
+
+// This is meant primarily as a discussion question, but a prime example for both sides is the constant battles that we fight in the U.S. between the church and the state. Being separate, the state often makes decisions that are detrimental to the spread of the Gospel, or encourage immoral/deadly behavior. However, the nature of politics can be very dirty business (interestingly, Machiavelli had written "`The Prince`" less than a decade before the Reformation) that has a tendency to corrupt the Godly, and the spiritually minded tend to make lousy politicians.
+
+
+== Instrumental vs Non-Instrumental
+
+What is the fundamental difference between the Catholic/Lutheran understanding of the nature of the Sacraments versus the Zwinglian (which is used by most Protestants besides the more strict Calvinist, such as the Presbeterians)?
+
+== Empirical Proof Of Social Unraveling
+
+The Apostle Paul also had the same problem with people not understanding Grace and works. What did he have to say about it?
+
+// See Romans 6, starting with the last two verses of chapter 5.
+
+== The Peasants War
+
+What effect did the Peasants War have on the Reformers?
+
+What was Luther's response? Was he right in doing so?
+
+
+== Anabaptists
+
+What are some of the major differences between Anabaptists and the Magisterial Protestant traditions (e.g., Lutheran/Calvinist/Zwinglian)?
+
+With the ways in which the Anabaptists were spurning society's rules and authority, just like the people had done for the Peasant's War, could authorities really trust that the Anabaptists truly were the pacifists they claimed to be?
+
+Could people believe that the separatist communities that Anabaptists created for themselves were benign rather than cauldrons of conspiracy and rebellion?
+
+
+== Reformation Coming to France
+
+What was France I's attitude toward the Reformation?
+
+// It's a German problem, having nothing to do with Humanism
+
+== Kind Henry VIII
+
+Why is it so difficult for Clement to grant King Henry VIII's request for annulment?
+
+
+What kinds of things did Henry do to try to force the annulment?
+
+
+How did Henry secure his position as the head of the Church in England?
+
+
+== Rome Counters Luther and Others
+
+What kinds of Biblical arguments did Catholics use against the Reformers?
+
+
+How did the Protestants answer those points?
+
+
+== Rome's Reluctance to Fight
+
+Rome had over a thousand years of experience in fighting heresy -- why didn't it wage a more aggressive counter-propaganda campaign?
+
+== Calvinist Theology
+
+What purpose does the Law serve for the "`lawless`"?
+
+// It acts as a restraint. For example, think about speed limits. "`Everyone`" may break them regularly, but the fact that there's a posted limit of 55mph helps keep people "`around`" 55mph rather than "`around`" 100mph.  Even psychopaths and sociopaths are constrained by human laws, even if they have no respect for the laws themselves -- at the very least they curb their behavior to keep from being caught.  That curb is even greater for God's Law.
+
+== Early Catholic Reforms
+
+What are the theological reasons why Protestants don't have "`priests`"?
+
+// Part of the Protestant doctrine of the Priesthood of All Believers is that Jesus is our intercessor: we are to go directly to Him.  We have no need of any human -- alive or dead -- to speak on our behalf.  In fact, not going straight to Christ is an affront both upon Christ and the Holy Spirit: to Christ in that it's His job to plead our case before the Father, and the Holy Spirit in that's He's our counselor/advocate (in the legal sense -- the word in places like John 14:16 is "`parakletos`").  In addition, while the Catechism of the Catholic Church states clearly (e.g., paragraphs 1366 & 1367) that the Eucharist is a "`re-presenting`" the "`one, for all`" sacrifice of Christ, it's not consistently made clear; the Protestants decided that it was better to break from the "`sacrificial`" nature of the Lord's Supper to emphasize the "`once, for all`" work of Christ.
+
+////
+
+== Growth of the Huguenot
+
+Why would it be relatively hard for Lutheran/Calvanist conversions to happen among the upper-class? The lower-class? What advantages did Anabaptism have among the poor?
+
+// For those in the upper realms of the social hierarchy, change tended to work against you, as there is a lot of pressure to maintain the status quo. For the peasants, literacy was virtually non-existent at that level of society, and Calvinism and Lutheranism are very focused on the Word, so they require a lot more education than Catholicism (which relies much more on ritual and imagery) or Anabaptism (which relies much more on a "`personal encounter with God`" and emotion). Also, since peasants tended to be away from the towns and cities -- the focal points of dynamic change -- they tended to stick more closely with tradition. Of course, all of that's just social factors, and hardly the whole story on why somebody would remain Catholic.
+
+== The Council of Trent
+
+The Council of Trent was the start of the official "Counter Reformation" -- Why couldn't the Catholic Church "`properly`" counter the Reformation before then?
+
+What were the major things that Trent was trying to address?
+
+What was the general approach of Trent? (How was it trying to create reform within the Church?)
+
+In the case of Baptism the _ex opere operato_ ("`from the work already done`") doctrine was very practical both in fighting an ancient schism and a very contemporary one for Trent and the Magisterial Reformers. What were/are they?
+
+// The ancient problem was the Donatists, where the "`moral standing`" of the priest performing the Baptism was at issue.  The contemporary one is with the Anabaptists, where the faith of the recipient is the issue.  In either case -- whether it be a disloyal priest or an infant without faith -- Baptism does what it does regardless.
+
+
+According to Trent what is the nature of Original Sin? Did Original Sin completely destroy our capacity to love God?
+
+// While affirming that God's grace is necessary for salvation, Trent denies that we are dead in our sins. So while it's not a complete repudiation of Original Sin, like Pelagius made, it's very, very different from the Augustinian assertion on our complete and utter dependence on God (which is also the assertion made by Luther and Calvin). We must "`freely assent to and cooperate with`" the grace of God; Original Sin did not completely destroy our capacity to love God.
+
+According to Trent what is the nature of human will and God's grace in Justification?
+
+// The help of God's grace gives human wills the strength they need to "`to convert themselves to their own justification ... to move themselves to justice in God's sight.`" Thus this rejects both that we are saved by works alone or by faith alone. It requires a two-way joint working between the person and God; which, of course, is dramatically different from the total dependence on God espoused in the Lutheran and Calvinist doctrine of _Sola Gratia_.

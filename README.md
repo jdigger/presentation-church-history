@@ -12,7 +12,7 @@ http://bit.ly/churchhist
 
 Use `slides generate` to build the project. If you're using `rbenv` it should "just work."
 
-The source is a [AsciiDoctor](http://jade-lang.com/) in index.adoc.
+The source is a [AsciiDoctor](http://jade-lang.com/) in `src/slides/index.adoc`.
 
 The custom CSS is built using [SASS](http://sass-lang.com) and is in sass/preso.scss
 
@@ -20,11 +20,10 @@ The custom CSS is built using [SASS](http://sass-lang.com) and is in sass/preso.
 
 * [reveal.js](https://travis-ci.org/hakimel/reveal.js), a framework for easily creating beautiful presentations using HTML.
 * [SASS](http://sass-lang.com/) for styling
-* [graphviz](http://graphviz.org/) for creating charts
 * AsciiDoctor
 * rbenv
 
 ## Licenses
 
-* The presentation content is [CC Attribution 4.0 licensed](http://creativecommons.org/licenses/by/4.0/), Copyright (C) 2014 Jim J. Moore
+* The presentation content is [CC Attribution 4.0 licensed](http://creativecommons.org/licenses/by/4.0/), Copyright (C) 2014-2015 Jim J. Moore
 * reveal.js is MIT licensed, Copyright (C) 2014 Hakim El Hattab, http://hakim.se

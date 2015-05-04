@@ -1,0 +1,166 @@
+@import url(https://fonts.googleapis.com/css?family=Petit+Formal+Script);
+body {
+  background: radial-gradient(circle farthest-corner at center center, #8b7765 0%, #1c1e20 100%) repeat scroll 0 0 #2b2b2b; }
+
+.image.left, .imageblock.left {
+  left: -30px;
+  float: left;
+  padding-right: 5px; }
+
+.image.right, .imageblock.right {
+  float: right;
+  padding-left: 5px; }
+
+img.full {
+  width: 100%; }
+
+div.quote {
+  box-shadow: 0 0 6px black;
+  text-align: left;
+  padding: 10px;
+  margin: 10px; }
+  div.quote div.paragraph p {
+    padding: 0px; }
+
+div.cc-license {
+  padding-top: 129.6px;
+  font-size: 21.6px;
+  line-height: 21.6px; }
+
+p.note {
+  box-shadow: 0 0 6px black;
+  font-size: 100%;
+  line-height: 43.2px; }
+
+div.note {
+  box-shadow: 0 0 6px black;
+  font-size: 100%;
+  line-height: 43.2px;
+  padding: 10px; }
+  div.note p {
+    text-align: left; }
+
+div.bible {
+  font-family: "Petit Formal Script", cursive;
+  background-color: #1c1e20; }
+
+div.paragraph {
+  margin-bottom: 43.2px; }
+
+div.highlight p {
+  background-color: yellow;
+  color: black; }
+
+div.screwtape p::before {
+  content: url(../../images/uncle-screwtape1.jpg);
+  float: left;
+  width: 200px;
+  height: 131px;
+  margin-right: 25px; }
+
+div.quoteblock div.paragraph {
+  margin-bottom: 0px; }
+
+div.ulist {
+  margin-bottom: 43.2px; }
+
+p.strong {
+  font-weight: bold;
+  font-size: 43.2px; }
+
+i.fa {
+  font-family: "FontAwesome";
+  font-style: normal; }
+
+span.small, p.small, div.small {
+  font-size: 60%; }
+  span.small p, p.small p, div.small p {
+    line-height: 1em; }
+
+p.larger, div.larger {
+  font-size: 150%; }
+  p.larger p, div.larger p {
+    line-height: 1.2em; }
+
+div.small.tight p {
+  line-height: 1.2em; }
+
+i.fa.fa-external-link {
+  font-size: 60%; }
+
+.fa-warning {
+  color: yellow; }
+
+p.attribution {
+  margin: 0px;
+  font-size: 10px; }
+
+/* Override RevealJS defaults */
+.reveal section div img, .reveal section p img {
+  background: none;
+  border: none;
+  box-shadow: none;
+  margin: 0px; }
+.reveal blockquote {
+  background-color: #333333; }
+.reveal .controls div.enabled {
+  opacity: 0.3; }
+.reveal .controls div {
+  transform: scale(0.6); }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: none; }
+.reveal p {
+  line-height: 43.2px;
+  margin-bottom: 0px; }
+
+.tip {
+  color: blue; }
+
+/* warnings pop */
+.fa-exclamation-triangle {
+  color: red; }
+
+div.slides section table {
+  margin-left: auto;
+  margin-right: auto; }
+  div.slides section table th, div.slides section table td {
+    border-width: 1px;
+    border-style: solid; }
+  div.slides section table td {
+    padding: 2px; }
+  div.slides section table tr td:first-child {
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px; }
+
+section.summary p {
+  font-size: 200%;
+  font-weight: bold; }
+
+section#_the_categories ul {
+  column-count: 2;
+  -webkit-column-count: 2;
+  -moz-column-count: 2; }
+
+section#_clearly_it_is_we_that_are_right div.title {
+  font-size: 0.6em; }
+section#_clearly_it_is_we_that_are_right .images {
+  display: table; }
+  section#_clearly_it_is_we_that_are_right .images .content {
+    display: table-row; }
+    section#_clearly_it_is_we_that_are_right .images .content .imageblock {
+      display: table-cell; }
+
+section#_the_vile_charles_v div.title {
+  font-size: 0.6em; }
+section#_the_vile_charles_v .images {
+  display: table;
+  margin: auto;
+  width: 100%; }
+  section#_the_vile_charles_v .images .content {
+    display: table-row; }
+    section#_the_vile_charles_v .images .content .imageblock {
+      display: table-cell;
+      transform: translate(25%, 0%); }
+
+/*# sourceMappingURL=preso.css.map */

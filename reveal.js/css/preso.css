@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Petit+Formal+Script);
 body {
   background: radial-gradient(circle farthest-corner at center center, #8b7765 0%, #1c1e20 100%) repeat scroll 0 0 #2b2b2b; }
 
@@ -39,6 +40,10 @@ div.note {
   div.note p {
     text-align: left; }
 
+div.bible {
+  font-family: "Petit Formal Script", cursive;
+  background-color: #1c1e20; }
+
 div.paragraph {
   margin-bottom: 43.2px; }
 
@@ -67,9 +72,18 @@ i.fa {
   font-family: "FontAwesome";
   font-style: normal; }
 
-span.small, p.small {
-  font-size: 60%;
-  line-height: 0.5em; }
+span.small, p.small, div.small {
+  font-size: 60%; }
+  span.small p, p.small p, div.small p {
+    line-height: 1em; }
+
+p.larger, div.larger {
+  font-size: 150%; }
+  p.larger p, div.larger p {
+    line-height: 1.2em; }
+
+div.small.tight p {
+  line-height: 1.2em; }
 
 i.fa.fa-external-link {
   font-size: 60%; }
@@ -127,3 +141,24 @@ section#_the_categories ul {
   column-count: 2;
   -webkit-column-count: 2;
   -moz-column-count: 2; }
+
+section#_clearly_it_is_we_that_are_right div.title {
+  font-size: 0.6em; }
+section#_clearly_it_is_we_that_are_right .images {
+  display: table; }
+  section#_clearly_it_is_we_that_are_right .images .content {
+    display: table-row; }
+    section#_clearly_it_is_we_that_are_right .images .content .imageblock {
+      display: table-cell; }
+
+section#_the_vile_charles_v div.title {
+  font-size: 0.6em; }
+section#_the_vile_charles_v .images {
+  display: table;
+  margin: auto;
+  width: 100%; }
+  section#_the_vile_charles_v .images .content {
+    display: table-row; }
+    section#_the_vile_charles_v .images .content .imageblock {
+      display: table-cell;
+      transform: translate(25%, 0%); }

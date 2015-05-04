@@ -1,0 +1,147 @@
+
+////
+== High Stakes
+
+
+=== Dead a Lot Longer Than Alive
+
+Do you really believe that God means what He says? Do you really believe that Salvation is a matter of eternity, you're going to be dead for a LOT longer than you'll be alive?
+
+=== Assumptions
+
+For the rest of our time on the Reformation, I'm going to assume that you believe the previous statement, or you wouldn't be here.
+
+Also that you're a confessional Lutheran that cares about souls and understanding God's truth.
+
+Finally, that you have a basic understanding of what happened in the Reformation. This is less Reformation 101, but more Reformation 310.
+
+=== Nasty, Bloody and Messy
+
+Not going to sanitize the Reformation similar to how we conveniently "`forget`" a great deal about our heroes in the Bible
+
+[.small]
+e.g., https://www.biblegateway.com/passage/?search=Numbers%2031:14-18&version=NIV[Numbers 31:14-18] - Moses chews out his officers for not slaughtering the women and children. The only ones allowed to live are virgin girls to be used a "`personal`" slaves
+
+////
+
+include::luther.adoc[]
+
+include::zwingli.adoc[]
+
+include::early_reformation_apocalypse.adoc[]
+
+include::communicating_the_reformation.adoc[]
+
+include::reformation_architectural_changes.adoc[]
+
+// include::appropriating_the_reformation.adoc[]
+
+include::the_communal_reformation.adoc[]
+
+include::the_coming_of_the_anabaptists.adoc[]
+
+include::anabaptism_and_the_peasants_war.adoc[]
+
+include::the_reformation_into_the_low_countries.adoc[]
+
+include::the_reformation_spreads_west.adoc[]
+
+include::reformation_crossing_the_channel.adoc[]
+
+include::england_breaks_from_rome.adoc[]
+
+include::henrys_reforms.adoc[]
+
+include::romes_counter_arguments.adoc[]
+
+include::romes_reluctance_to_fight.adoc[]
+
+include::kingdom_of_munster.adoc[]
+
+include::the_theologian.adoc[]
+
+include::calvinist_theology.adoc[]
+
+include::internal_reform_in_the_catholic_church.adoc[]
+
+include::reform_the_catholic_church_herself.adoc[]
+
+include::the_schmalkaldic_war.adoc[]
+
+include::france_and_the_low_countries_clamp_down.adoc[]
+
+include::the_growth_of_calvinism_in_france.adoc[]
+
+include::calvinism_in_the_low_countries.adoc[]
+
+include::protestant_resistance_theory.adoc[]
+
+include::the_council_of_trent.adoc[]
+
+////
+
+
+
+== The Job of the Magistrates
+
+=== Righteous Blindness
+
+We will be learning about a **_LOT_** of truly horrifying things that all sides would do to each other.
+
+The more sure people are of the righteousness of their cause, the less likely they are to see those that disagree as blood-bought children of the Lamb.
+
+=== Clearly It Is "`We`" That Are Right...
+
+[.images]
+--
+image::enola-gay.jpg[alt="http://indiefuzz.com/last-enola-gay-crewman-dies/",title="Hiroshima",role="one",height="400px"]
+image::vietnam_burning.jpg[alt="http://vietnamphotography.com/image.php?IID=109",title="Burning a Vietnam village to save it",role="two",height="400px"]
+image::afghan-family_mourning.jpg[alt="http://respect-discussion.blogspot.com/2013/04/120-people-either-killed-or-wounded-in.html",title="Afghan Wedding",role="three",height="400px"]
+--
+
+////
+
+
+
+
+
+////
+
+
+Torture: ISIS beheading vs torture, drawing & quartering, etc.
+
+Fergison/Baltimore as a rebellion against the established order. Again, the cops are viewed (rightly or wrongly) as merely killing people -- the authorities (Protestant or Catholic or whatever) were seen to the people of the time as damning generations of their families. The authorities had every reason to be terrified, as well as the law-abiding citizens who didn't really take a side but merely wanted order. (e.g., Luther's work against the peasants calling for them to be ruthlessly crushed)
+
+How scared people are of people who think a little differently than them (Protestant v Catholic) - Horton and the Wickersham Bros. http://seuss.wikia.com/wiki/We're_the_Wickersham_Brothers Show with references to things that make white conservatives angry/scared as well as the just silly: gay pride, steam punk, punk rockers, Muslims praying, etc.
+
+black in hoodie, gay wedding, praying in a mosque -> scared? or individuals that Christ poured His blood for?
+
+I can make peace with you because God has made peace with me
+
+pro-life unless the mom is dark skinned on the other side of the globe? [pic of missile strike with women and children dead; use Tor]
+
+Luther was not very radical at first, but driven there by his opponents
+
+Luther was polemical partly because of his personality, but largely as rhetoric -- he wanted to make sure people understood him viscerally
+
+Joseph McCarthy -> scared like people were scared of the Anabaptists. Japanese internment camps. No Irish/German signs
+
+Spend some time talking about the similarities between the Protestants and ISIS. Make it clear to the group of Protestants what it was the Catholics were "seeing".
+
+* The destruction of ancient works of art (iconoclasm of old sacred and expensive works of art and ISIS bulldozing Assyrian city of Numrud)
+* The use of social media
+* The use of terror
+* Recruiting the young away from their families to join the insurgents
+
+
+Timing of Catholic missionaries with assassination attempts on Elizabeth and the invasion of the Spanish Armada. There's a reason Elizabeth is so paranoid and declares being a Catholic priest to be an act of treason.
+
+
+
+Unintended consequences:
+
+* All three groups held the same core beliefs -- that God's Word is Truth, and Salvation is worth fighting and dying for -- forcing the religious pluralism which gave rise to today's religious relativism
+* Ushers in secular and anti-Christian society: "If this is what holding Christian truths leads to -- bloodshed and torture, an unwillingness to compromise, hatred instead of love for one's neighbor -- then I want nothing to do with it."
+* Instead of being a shared collective belief, religion has been personalized
+
+////

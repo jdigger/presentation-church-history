@@ -1,10 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Petit+Formal+Script);
+
 $font-size: 36px;
 $line-height: 1.2 * $font-size; // 1.2em
+
+$bible-font: 'Petit Formal Script', cursive;
 
 body {
   background: radial-gradient(circle farthest-corner at center center,
                               #8b7765 0%, #1c1e20 100%)
                               repeat scroll 0 0 #2b2b2b
+}
+
+@mixin col-count($count) {
+  column-count: $count;
+  -webkit-column-count: $count;
+  -moz-column-count: $count;
 }
 
 .image.left, .imageblock.left {
@@ -56,6 +66,11 @@ div.note {
     }
 }
 
+div.bible {
+  font-family: $bible-font;
+  background-color: #1c1e20;
+}
+
 div.paragraph {
   margin-bottom: $line-height;
 }
@@ -97,9 +112,27 @@ i.fa {
     font-style: normal;
 }
 
-span.small, p.small {
+span.small, p.small, div.small {
     font-size: 60%;
-    line-height: 0.5em;
+
+    p {
+      line-height: 1em;
+    }
+    // padding-bottom: 0.5em;
+}
+
+p.larger, div.larger {
+    font-size: 150%;
+    p {
+        line-height: 1.2em;
+    }
+}
+
+div.small.tight p {
+    // font-size: 60%;
+
+    line-height: 1.2em;
+    // line-height: 0.6em;
     // padding-bottom: 0.5em;
 }
 
@@ -193,9 +226,46 @@ section.summary p {
 // ********************
 
 section#_the_categories ul {
-  column-count: 2;
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
+  @include col-count(2);
+}
+
+section#_clearly_it_is_we_that_are_right {
+  div.title {
+    font-size: 0.6em;
+  }
+
+  .images {
+    display: table;
+
+    .content {
+      display: table-row;
+
+      .imageblock {
+        display: table-cell;
+      }
+    }
+  }
+}
+
+section#_the_vile_charles_v {
+  div.title {
+    font-size: 0.6em;
+  }
+
+  .images {
+    display: table;
+    margin: auto;
+    width: 100%;
+
+    .content {
+      display: table-row;
+
+      .imageblock {
+        display: table-cell;
+        transform: translate(25%, 0%);
+      }
+    }
+  }
 }
 
 // To highlight a border:

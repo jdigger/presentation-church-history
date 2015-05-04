@@ -1,0 +1,89 @@
+== Architectural Changes
+
+image::Lincoln_Cathedral_Nave_1_Lincolnshire_UK_-_Diliff.jpg[alt="https://commons.wikimedia.org/wiki/File:Lincoln_Cathedral_Nave_1,_Lincolnshire,_UK_-_Diliff.jpg"]
+
+=== Doctrinal Architecture
+
+It's interesting to look at the way churches have been designed through the years, because it tells you a great deal about the doctrine of those that designed them
+
+Some of the most notable examples...
+
+=== Long Or Shallow?
+
+Old Catholic churches tended to be relatively long and thin, whereas Protestant churches quickly became much more "`shallow`" so all of the people were closer to the front
+
+image::320px-KerkzaalGGGenemuiden.JPG[alt="https://commons.wikimedia.org/wiki/File:KerkzaalGGGenemuiden.JPG"]
+
+=== Pushing Attention To the Mass
+
+The Catholic churches reflected the desire to minimize the congregation and "`push`" attention to the alter and the Mass
+
+Hearing and seeing what was going on was much less important than being there and performing your duty as God distributed His grace through means that carry their power in their performance, not in their being understood
+
+[.small]
+That's why mass was performed in Latin even though few -- in any -- of the laity understood it. Oftentimes even the priest didn't understand the words either; he was just parroting them.
+
+[.small]
+The ignore of the priests would be one of the major things Trent would resolve
+
+=== Communal Conversation
+
+Protestant churches have a doctrine of worship based on the service being much more of a "`conversation`" between God and His people, as well as a heavy emphasis on the value of the believer understanding what was being said and done
+
+This made them bring people as close to the "`action`" as possible so they could hear, see and respond
+
+[.small]
+And of course the services were done in the native tongue
+
+This is another one of the places where Catholic practice changed in response to the Reformation, as you can see in "`modern`" Catholic church design and the use of local languages
+
+[.small]
+The "`doctrinal`" basis for moving from Latin didn't change until Vatican 2 in the 20th century
+
+=== Alter and Font: Lutheran/Catholic
+
+In Lutheran and Catholic churches, the pulpit and alter are in the center in front of the church, and the Baptismal font is usually in some place of honor and visibility
+
+[.small]
+It's almost always either near the alter or the entrance of the sanctuary
+
+Lutheran and Catholic churches place an extremely high value on preaching, Communion and Baptism, thus the prominence of the elements involved
+
+=== Alter and Font: Reformed/Anabaptist
+
+In other denominations, everything focuses on the pulpit: there's no alter, Baptisms may be done in a side room, and the Lord's Supper may be done either in the pews or possibly around a table like a "`normal`" supper
+
+For these traditions, the Sacraments are secondary to the Word, so they don't receive the same level of prominence
+
+=== Honoring God With Earthly Trappings
+
+And of course, as discussed before, the iconoclastic controversies clearly reflect themselves in churches
+
+But going even beyond the iconography, finely adorned Catholic, Anglican or Lutheran churches in poor areas also provide sharp contrast to the simplicity of Anabaptist churches (e.g. Quaker or Mennonite) in wealthy areas, reflecting each group's views
+
+=== Honoring God or Earthly Trappings?
+
+The desire to bring glory and honor to God drives the "`fancy`" group
+
+The desire to not get caught up in earthly trappings motivates the "`plain`" group
+
+=== The Cross
+
+When you walk into a Catholic church, right in the center of everything -- forcing your eyes to it -- is a huge crucifix
+
+In Protestant churches, the cross also is in the center of everything, but it's "`empty`"
+
+The symbolism is profound in both cases, and strikes to the heart of the differences between Catholic and Protestant teachings
+
+=== Crucifix Symbolism
+
+The crucifix reminds people of the terrible price that sin brought to Jesus and onto us; therefore we should constantly repent and penitent for our sins
+
+It's also clearly tied into the focus of the service: https://carm.org/mass-and-sacrifice-christ[the Mass, where the priest "`re-sacrifices`" Christ as part of the sacrament]
+
+=== The Empty Cross
+
+The empty cross symbolizes the fact that Christ didn't just die, but He rose again: the price for Sin has been paid in full and accepted
+
+[.small]
+Of course the full story is much more interesting. A lot of the reason in anabaptist-inspired churches it as at least as much to do with general "`austerity`" in decoration. In Lutheran/Calvinist churches you do sometimes see crucifixes (a cross without Christ's sacrifice is just a couple pieces of wood), but the iconoclastic furors that have swept those denominations influenced their cultures to the point that it's unusual. So as is often the case, the real answer to why any particular church does or does not have a crucifix is "`Well, it's complicated...`"

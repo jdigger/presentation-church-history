@@ -251,7 +251,7 @@ Over the course of over a thousand years (the fall of Rome through to the Renais
 
 === Unthinkable
 
-The church had an answer for everything (especially once Scholasticism came on the scene), so seeking an answer from anywhere other than established church teachings on the subject was – literally – unthinkable
+The church had an answer for everything (especially once Scholasticism came on the scene), so seeking an answer from anywhere other than established church teachings on the subject was -- literally -- unthinkable
 
 
 == The Inquisition
@@ -883,7 +883,7 @@ Red chairs, metal chairs, three-legged chairs, etc. all share the same substratu
 
 The "`substance`" is what stands under (underlies) all of its accidens
 
-*"`sub`" – under, "`stance`" – position*
+*"`sub`" -- under, "`stance`" -- position*
 
 === Transubstantiation
 
@@ -919,10 +919,10 @@ image::439px-The_Ancient_of_Days.jpg[]
 
 Aristotle identified four things that are the cause of every effect. These are:
 
-* MATERIAL – The "`stuff`" out of which something happens
-* FORMAL – The form that the effect takes
-* EFFICIENT – That by which something happens
-* FINAL – The reason it was done; its purpose
+* MATERIAL -- The "`stuff`" out of which something happens
+* FORMAL -- The form that the effect takes
+* EFFICIENT -- That by which something happens
+* FINAL -- The reason it was done; its purpose
 
 === Statue Cause
 
@@ -1235,7 +1235,7 @@ image::160500759_god_and_science_xlarge.jpeg[]
 
 Aquinas is famous for putting forward five "`proofs`" for the existence of God that we have from nature
 
-* *Change* -- everything's changing, but something has to cause that change in the first place – much like the Unmoved Mover
+* *Change* -- everything's changing, but something has to cause that change in the first place -- much like the Unmoved Mover
 * *Causation* -- similar to the Unmoved Mover, there must be something that is an uncaused cause
 * *Contingency* -- everything is contingent upon something else, but there has to be a "`necessary being`" that is not contingent upon anything
 * *Degrees of Excellence* -- we see some things being better than other, which implies that there is something that manifests the perfection of what we see
@@ -1312,11 +1312,11 @@ Likewise, we should keep our minds on higher things, like God and the angels, an
 
 === Higher Things
 
-What would be the classic "`proof passage`" for us to keep our minds on higher – rather than lower – things? What's the consequence of that way of thinking?
+What would be the classic "`proof passage`" for us to keep our minds on higher -- rather than lower -- things? What's the consequence of that way of thinking?
 
 [.note.fragment.bible]
 --
-https://www.biblegateway.com/passage/?search=Philippians+4:8&version=NIV[Philippians 4:8] – "`Finally, brothers, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable – if anything is excellent or praiseworthy – think about such things.`"
+https://www.biblegateway.com/passage/?search=Philippians+4:8&version=NIV[Philippians 4:8] -- "`Finally, brothers, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable -- if anything is excellent or praiseworthy -- think about such things.`"
 --
 
 What could be more excellent and praiseworthy than God? What could be less praiseworthy than the fallen world?
@@ -1992,7 +1992,7 @@ For example, a well-established Augustinian monastery would resent the encroachm
 How would having a more deeply religious population affect the Reformation?
 
 [.answer.fragment]
-It meant, primarily, that people cared about what was being said -- it wasn't just an academic debate that didn't have anything to do with them, which fueled both sides
+It meant, primarily, that people *cared* about what was being said -- it wasn't just an academic debate that didn't have anything to do with them, which fueled both sides
 
 === Protestant Strength
 
@@ -2074,7 +2074,7 @@ Murder only destroys the mortal body, but heresy destroys the immortal soul
 
 === Eternity Is At Stake
 
-Because of the ease with which the "`leaven`" heresy grows, stopping heresy was viewed as being infinitely more vital than stopping a "`mere`" psychopath since he was bringing souls with him to Hell and an eternity of torture and damnation
+Because of the ease with which the "`leaven`" of heresy grows, stopping heresy was viewed as being infinitely more vital than stopping a "`mere`" psychopath since he was bringing souls with him to Hell and an eternity of torture and damnation
 
 === What's The Most Important Thing?
 
@@ -2102,7 +2102,7 @@ In the New Testament the penalty was reduced (e.g., https://www.biblegateway.com
 
 === Everyone's Agreed
 
-It's important to realized that while they obviously differed from the Catholic Church over exactly what was heretical, the Magisterial Reformers (Luther, Zwingli, Calvin, etc.) shared Rome's understanding of the seriousness of heresy and the essentially the same **_means_** by which it needed to be fought
+It's important to realize that while they obviously differed from the Catholic Church over exactly what was heretical, the Magisterial Reformers (Luther, Zwingli, Calvin, etc.) shared Rome's understanding of the seriousness of heresy and the essentially the same **_means_** by which it needed to be fought
 
 
 == Renaissance Humanism
@@ -2220,3 +2220,7 @@ image::314px-HolbeinErasmusFollymarginalia.jpg[role="right",height="300px",alt="
 He wrote a scathing satire (dedicated to his friend Sir Thomas More) called "`Praise of Folly`", which lampooned many of the practices of the Church as being superstitious, furthering ignorance, and pagan
 
 His "`Handbook of the Christian Knight`" was extremely popular and urged Christians to improve themselves through moral self-mastery
+
+
+
+include::reformation.adoc[]

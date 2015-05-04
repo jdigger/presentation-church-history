@@ -3,7 +3,7 @@ module.exports = function(grunt) {
     var port = grunt.option('port') || 8000;
     // Project configuration
     grunt.initConfig({
-        // pkg: grunt.file.readJSON('package.json'),
+        pkg: grunt.file.readJSON('package.json'),
 
         qunit: {
             files: [ 'test/*.html' ]
@@ -25,15 +25,21 @@ module.exports = function(grunt) {
             }
         },
 
+        exec: {
+          generate: {
+            cmd: 'slides generate'
+          }
+        },
+
         sass: {
             main: {
                 files: {
-                    'css/theme/default.css': 'css/theme/source/default.scss',
+                    // 'css/theme/default.css': 'css/theme/source/default.scss',
                     // 'css/theme/beige.css': 'css/theme/source/beige.scss',
                     // 'css/theme/night.css': 'css/theme/source/night.scss',
                     // 'css/theme/serif.css': 'css/theme/source/serif.scss',
                     // 'css/theme/simple.css': 'css/theme/source/simple.scss',
-                    'css/theme/sky.css': 'css/theme/source/sky.scss',
+                    // 'css/theme/sky.css': 'css/theme/source/sky.scss',
                     // 'css/theme/moon.css': 'css/theme/source/moon.scss',
                     // 'css/theme/solarized.css': 'css/theme/source/solarized.scss',
                     // 'css/theme/blood.css': 'css/theme/source/blood.scss',
@@ -74,20 +80,20 @@ module.exports = function(grunt) {
             }
         },
 
-        zip: {
-            'presentation-church-history.zip': [
-                'index.html',
-                'css/**',
-                'js/**',
-                'lib/**',
-                'images/**',
-                'plugin/**'
-            ]
-        },
+        // zip: {
+        //     'presentation-church-history.zip': [
+        //         'index.html',
+        //         'css/**',
+        //         'js/**',
+        //         'lib/**',
+        //         'images/**',
+        //         'plugin/**'
+        //     ]
+        // },
 
         watch: {
             main: {
-                files: [ 'Gruntfile.js', 'js/reveal.js', 'css/reveal.css' ],
+                files: [ 'Gruntfile.js', 'js/reveal.js', 'css/reveal.css', '*.adoc', 'src/slides/*.adoc' ],
                 tasks: 'default'
             },
             theme: {
@@ -110,16 +116,18 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks( 'grunt-contrib-watch' );
     grunt.loadNpmTasks( 'grunt-contrib-sass' );
     grunt.loadNpmTasks( 'grunt-contrib-connect' );
-    grunt.loadNpmTasks( 'grunt-zip' );
+    // grunt.loadNpmTasks( 'grunt-zip' );
+    grunt.loadNpmTasks( 'grunt-exec' );
 
     // Default task
-    grunt.registerTask( 'default', [ 'jshint', 'cssmin', 'uglify' ] );
+    grunt.registerTask( 'default', [ 'exec:generate' ] );
+    // grunt.registerTask( 'default', [ 'jshint', 'cssmin', 'uglify', 'exec:generate' ] );
 
     // Theme task
     grunt.registerTask( 'themes', [ 'sass' ] );
 
     // Package presentation to archive
-    grunt.registerTask( 'package', [ 'default', 'zip' ] );
+    // grunt.registerTask( 'package', [ 'default', 'zip' ] );
 
     // Serve presentation locally
     grunt.registerTask( 'serve', [ 'connect', 'watch' ] );

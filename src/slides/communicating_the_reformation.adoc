@@ -1,0 +1,90 @@
+== Communicating the Reformation
+
+image::Printer_in_1568-ce.png[alt="https://commons.wikimedia.org/wiki/File:Printer_in_1568-ce.png",height="600px"]
+
+=== Mass Propaganda
+
+The Reformation was the first massive propaganda/mass-education (choose your word) movement in Western history
+
+The printing press had been around for almost a century, but it is here that it gets its chance to start to show just how incredibly powerful a tool it is for social, political and religious change
+
+=== To the Common Man
+
+While some were printed in Latin, the vast majority of pages were printed in the native tongue and addressed to "`the common man`"
+
+=== Pseudo-Theology
+
+This was a huge break from tradition, where it had always been the theologians who discussed such things and then disseminated it down to "`the common man`"
+
+Instead, uneducated people were being asked to try to understand things that kept theologians hard at work
+
+[.small]
+--
+It's was like in the modern world where some "`Joe`" sees a gloss on astrophysics or quantum mechanics and thinks he's now an expert, farmers were reading highly-biased summaries of doctrine -- but instead of "`pseudo-science,`" they'd get "`pseudo-theology`"
+--
+
+=== Democratization Knowledge
+
+It helped raise the level of education of the "`common man`" as he was forced to think about the things being talked about
+
+It also forced the academics to clarify what they meant: scholastic obfuscation might have been tolerated by other scholastics, but that wouldn't work when trying to convince the local baker
+
+=== Incomplete Understanding
+
+There is a great deal that needs to be known before people are ready for more "`advanced`" topics
+
+There's a reason for the expression "`he knows enough to be dangerous`"
+
+Even in modern Protestant churches there's often a desire to at least "`go slow`" on some topics simply because it's clear from experience that it's easy for heresy to sprout from incomplete understandings of certain topics
+
+=== Censorship
+
+There was no such thing as the First Amendment right of Freedom of the Press: there were no qualms about censorship from anyone
+
+Many pamphlets and books were published anonymously, and printing presses were "`relatively`" easy to transport or conceal
+
+[.small]
+--
+Countries, cities and villages were fairly independent (as we talked about before, they didn't have anything close to the technologies required for centralized government in the modern sense) making enforcement of censorship decrees difficult
+
+(If you remember Ray Bradbury's "`Fahrenheit 451`" you know how hard it is to enforce censorship even in a modern police-state. We can see it today where even with the U.S.'s extreme centralized and highly technical power, Islamic State et-al are still very effective at getting their word out past U.S. censors.)
+--
+
+=== Enforcing Illiteracy
+
+Literacy was extremely low (most people needed someone else to read the books to them)
+
+The "`easiest`" way they could've enforced in a town that seemed to be "`unduly influenced`" by propaganda is simply arrest every literate person -- which they sometimes did
+
+The problem, of course, is that if you get rid of everybody with any education, all you have left are uneducated people: you've just removed some of your most valuable people from your workforce
+
+=== Dealing With Illiteracy
+
+For example, there were wood-cuts made of a sheep pen, with Jesus standing at the gate; monks, nuns and priests are climbing over the fence while Jesus allows a humble peasant through the gate (See https://www.biblegateway.com/passage/?search=John+10%3A1-10&version=NIV[John 10:1-10] for a reminder of the imagery being invoked)
+
+Another example is an image where, on the left, God beams down graciously on Luther and parishioners practicing Baptism and Communion; on the right a raging and vengeful God looks down on people selling indulgences, holding rosaries, etc.
+
+=== Quickly Communicating the Message
+
+These were the "`sounds bites`" of their time: designed to be quickly understood and easily remembered, not for doing any "`real`" education
+
+image::christ_antichrist_feet.jpg[]
+
+[NOTE.speaker]
+--
+Or, for true subtlety, there's "`Johann Cochlaeus, the Holy Apostle, Prophet, Murderer, and Virgin, Born from a Papist Bowel Movement.`" In it, Cochlaeus (one of Luther's early opponents) in beneath Satan, who is defecating into Coclaeus' mouth; Coclaeus is so overflowing with crap that at the same time he's passing it on through his body onto Luther's writings, where eager monks are snatching up the resulting mess as "`decent folk`" look on in disgust.
+--
+
+=== Preaching and Singing
+
+Preaching -- be it in a church or on a street corner -- was tremendously important in pre-literate Europe
+
+Songs and other music were also a powerful way to communicate and express ideas
+
+There were hybrids of the basic forms, like people reading aloud, sermons being published, text next to the pictures, etc.
+
+=== Memorable Music
+
+In addition to "`folk`" songs and the like, all of this was happening at the same time as the Renaissance, which was redefining the role of music. It was becoming legitimate to write music that people actually enjoyed
+
+That helped make the music -- and its accompanying words -- easier to remember. Famously, Luther himself took advantage of this change
